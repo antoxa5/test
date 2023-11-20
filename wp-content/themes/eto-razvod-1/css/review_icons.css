@@ -1,0 +1,38 @@
+ul.review_icons {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	margin-left: auto;
+	display: flex;
+}
+
+ul.review_icons li {
+	
+	margin-left: 15px;
+	
+}
+
+ul.review_icons li.review_icon_favorites {
+	background-color: #001640;
+	-webkit-mask-image: url(../img/icon_favorites.svg);
+    mask-image: url(../img/icon_favorites.svg);
+	width: 17px;
+	height: 20px;
+}
+
+ul.review_icons li.review_icon_share {
+	background-image: url(../img/icon_share.svg);
+	background-color: #001640;
+	-webkit-mask-image: url(../img/icon_share.svg);
+    mask-image: url(../img/icon_share.svg);
+	width: 20px;
+	height: 20px;
+	-webkit-mask-size: cover;
+	mask-size: cover;
+}
+
+ul.review_icons li.review_icon_favorites.active {
+	background-color: #6321b6;
+	-webkit-mask-image: url(../img/icon_favorites.svg);
+    mask-image: url(../img/icon_favorites.svg);
+}

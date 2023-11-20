@@ -1,0 +1,54 @@
+/* 
+    Created on : 14 нояб. 2023 г., 12:06:48
+    Author     : toxadab
+*/
+
+.company_adv_content_first-line {
+    padding: 10px;
+}
+
+.worning_block {
+    width: 96%;
+    padding: 2%;
+    border-radius: 4px;
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+.worning_block .leble_worning_widget {
+   flex-direction: row;
+}
+
+.div_widget_small {
+    margin-top: 10px;
+    width: 49%;
+    vertical-align: top;
+    display: inline-block!important;
+}
+
+.box_widget_code {
+     background: #f4f4f4;
+    border: 1px solid #ddd;
+    border-left: 3px solid #21B67B;
+    color: #666;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 1.6em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1em 1.5em;
+    display: block;
+    word-wrap: break-word;
+}
+
+.box_widget_code h3 {
+    font-family: "Stem"!important;
+}
+
+.div_widget_small_for_company {
+    background-color: #F5EBE1;
+    padding: 10px;
+}

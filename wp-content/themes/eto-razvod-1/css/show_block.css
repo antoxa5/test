@@ -1,0 +1,29 @@
+.show_block {
+    cursor: pointer;
+}
+
+.swipeDown,.user-desc__text.swipeDown {
+    height: unset;
+}
+
+.show_block_to_up:after {
+    transform: rotate(
+            180deg
+    );
+}
+
+.comment_top_dashboard_comments__footer {
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.comment_top_dashboard_comments__footer_show {
+    height: unset;
+    overflow: unset;
+}
+
+.show_block_comments {
+    position: absolute;
+    right: 25px;
+}

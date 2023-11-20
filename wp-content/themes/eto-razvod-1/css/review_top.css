@@ -1,0 +1,251 @@
+.review_bar {
+	width: 100%;
+	flex: 0 0 calc(100%);
+	height: 60px;
+	align-items: center;
+}
+
+.review_header .wrap {
+	flex-wrap: wrap;
+}
+
+.review_header {
+	border-bottom: 1px solid #E9F0F3;
+	display: block;
+}
+
+.review_logo {
+	width: 137px;
+	height: 137px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	display: block;
+	flex: 0 0 calc(137px);
+	border: 1px solid #dce4e7;
+}
+
+.review_breadcrumbs {
+	flex: 0 0 calc(100%);
+	align-self: center;
+	align-items: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.review_breadcrumbs a, .review_breadcrumbs a:visited, .review_breadcrumbs a:active {
+	color: #777;
+	text-decoration: underline;
+}
+
+.review_breadcrumbs a:hover {
+	color: #777;
+	text-decoration: none;
+}
+
+.review_card {
+	border: 1px solid #dce4e7;
+	width: 380px;
+	height: 151px;
+	display: flex;
+	flex-direction: column;
+}
+
+.review_card .company_status {
+	padding: 20px 29px;
+	border-bottom: 1px solid #dce4e7;
+	padding-left: 65px;
+}
+
+.status_verified {
+	background-image: url(../img/icon_verified_green.svg);
+	background-repeat: no-repeat;
+	background-position: 29px 18px;
+	
+}
+
+.status_unverified {
+	position: relative;
+}
+
+.status_unverified:before {
+	background-color: #dce4e7;
+    -webkit-mask-image: url('../img/icon_verified.svg');
+    mask-image: url('../img/icon_verified.svg');
+	width: 22px;
+	height: 22px;
+	display: block;
+	content: ' ';
+	position: absolute;
+	left: 29px;
+	top: 18px;
+	
+}
+
+.review_card .company_site {
+	padding: 20px 29px;
+	display: flex;
+	flex-direction: column;
+}
+
+.review_card .company_site .site_url {
+	padding-left: 35px;
+	background-image: url(../img/icon_link_blank.svg);
+	background-repeat: no-repeat;
+	background-position: left 2px;
+	margin-bottom: 3px;
+}
+.review_main {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	max-width: calc(100% - 650px);
+	margin-left: 25px;
+	margin-right: auto;
+	margin-top: -15px;
+}
+
+.review_top_rating_container {
+	align-self: center;
+	margin-right: 25px;
+	margin-top: -15px;
+}
+
+.stars_and_reviews_counts {
+	align-self: center;
+	line-height: 21px;
+}
+
+.stars_and_reviews {
+	margin-top: 15px;
+}
+
+.link_dashed {
+	border-bottom: 0.5px dashed #001640;
+	cursor: pointer;
+}
+
+.review_icon_redirect {
+	display: none;
+}
+
+@media screen and (max-width: 700px) { 
+	.review_breadcrumbs {
+		padding: 0 22px;
+		flex: 0 0 calc(100% - 44px);
+	}
+	
+	div[itemprop="logo"], .review_header .review_logo {
+		width: 100px;
+		height: 100px;
+		flex: 0 0 calc(100px);
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.review_header .review_main {
+		margin-left: 0;
+		
+		margin-right: 0;
+		flex: 0 0 calc(100% - 44px);
+		padding: 00 22px;
+		margin-top: 16px;
+		padding-bottom: 25px;
+		border-bottom: 1px solid #E9F0F3;
+		max-width: none;
+		
+	}
+	
+	.review_header .wrap {
+		position: relative;
+	}
+	
+	.review_company_title {
+		text-align: center;
+		margin-bottom: 45px;
+	}
+	
+	.stars_and_reviews {
+		flex-direction: column;
+	}
+	
+	.review_header .stars {
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 16px;
+	}
+	
+	.stars_and_reviews_counts {
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
+	
+	.review_top_rating_container {
+		position: absolute;
+		right: 22px;
+		top: 70px;
+		margin-right: 0;
+		
+		margin-top: 0;
+	}
+	
+	.review_header .compare_container {
+		right: 0;
+		top: 0;
+		margin-top: 15px;
+	}
+	
+	.review_header .review_card {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		border: 0;
+		height: 24px;
+		position: absolute;
+		top: 90px;
+		right: 100px;
+		width: 24px;
+	}
+
+	.review_header .review_card .company_site {
+		display: none;
+	}
+
+	.review_header .review_card .company_status {
+		display: none;
+	}
+	.review_card .company_status.status_verified {
+		display: block;
+		border-bottom: 0;
+		background-position: 0;
+		padding: 0;
+		height: 24px;
+		width: 24px;
+		text-indent: 100px;
+		overflow: hidden;
+	}
+
+	.review_header {
+		border-bottom: 0;
+	}
+	
+	.review_bar {
+		position: relative;
+	}
+	
+	.review_icon_redirect {
+		width: 22px;
+		height: 22px;
+		-webkit-mask-image: url('../img/icon_link_blank.svg');
+    	mask-image: url('../img/icon_link_blank.svg');
+		background-color: #001640;
+		display: block;
+		position: absolute;
+		top: -172px;
+    	left: calc(50% + 25px);
+	}
+}

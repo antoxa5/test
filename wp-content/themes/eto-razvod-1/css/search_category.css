@@ -1,0 +1,445 @@
+.page_header_search .wrap {
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.search_category_container .results_content {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.page_header_search {
+	border-bottom: 1px solid #E9F0F3;
+}
+
+.results_content li.white_block {
+	padding: 41px 50px 34px 49px
+}
+
+.results_content .review_logo {
+	width: 148px;
+	height: 148px;
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: center;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	border: 1px solid #dce4e7;
+	flex: 0 0 calc(148px);
+	margin-right: 20px;
+	width: 148px;
+}
+
+.results_content .search_review_middle {
+	flex: 0 0 auto;
+	max-width: calc(100% - 230px - 140px);
+}
+
+.results_content ul.company_card_tags {
+	flex-wrap: wrap;
+	width: calc(100% + 22px);
+	margin: 0;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	list-style: none;
+	padding: 0;
+	margin-right: -17px;
+	margin-top: 10px;
+	margin-bottom: 0;
+	font-size: 16px;
+	margin-bottom: 15px;
+
+}
+
+.results_content ul.company_card_tags li {
+	margin-right: 15px;
+	border-bottom: 0.5px dashed #001640;
+	white-space: nowrap;
+	margin-bottom: 0;
+}
+
+.results_content .review_search_right {
+	margin-left: auto;
+	width: 140px;
+	flex: 0 0 calc(140px);
+	position: relative;
+}
+
+.results_content .reviews_count_reviews {
+	white-space: nowrap;
+}
+
+.results_content .review_search_right .rating_page_text.review_average_round {
+	width: 60px;
+	height: 60px;
+}
+
+.results_content .review_search_right .rating_page_text.review_average_round .inner {
+	width: 54px;
+	height: 54px;
+	line-height: 56px;
+	font-size: 18px;
+}
+
+.results_content .review_search_right .compare_container {
+	right: 0;
+	top: 5px;
+}
+
+.results_content .stars_and_reviews {
+	margin-top: auto;
+}
+
+.search_category_results_left {
+	width: 280px;
+	margin-right: 20px;
+}
+
+.search_category_results_right {
+	width: calc(100% - 280px);
+}
+
+.search_category_results_right .review_top_rating_and_percents {
+	
+	display: flex;
+	margin-left: auto;
+}
+
+.results_content .review_search_right .rating_page_text.review_average_round {
+	margin-top: auto;
+}
+
+.found_text {
+	display: flex;
+	justify-content: center;
+}
+
+.found_text:before {
+	content: '';
+	display: block;
+	background-image: url(../img/smile.svg);
+	width: 20px;
+	height: 20px;
+	margin-right: 10px;
+}
+
+.found_more_top {
+	height: 80px;
+	align-items: center;
+	padding: 0 33px;
+	margin-top: 60px;
+}
+
+.found_more_top .comments_top_title {
+    padding-right: 15px;
+    border-right: 1px solid #EEE;
+    margin-right: 15px;
+}
+
+.found_more_top .found_more_sorter {
+    position: relative;
+    margin-left: auto;
+    height: 80px;
+    align-items: center;
+    display: flex;
+	font-size: 14px;
+}
+
+.review_top_rating_percents {
+	
+	display: flex;
+	flex-direction: column;
+	font-size: 16px;
+	font-weight: normal;
+	margin-top: auto;
+	text-align: right;
+	margin-bottom: 8px;
+	margin-right: 17px;
+}
+
+#search_results_form {
+	width: 100%;
+	margin-top: 30px;
+	border: 1px solid #E9F0F3;
+	margin-bottom: 40px;
+	position: relative;
+	overflow: hidden;
+}
+
+#search_results_form input {
+	border: 0;
+	height: 55px;
+	line-height: 55px;
+	font-size: 18px;
+	padding: 0 20px;
+	padding-right: 0px;
+	width: calc(100% - 100px);
+}
+
+#search_results_form .big_search_icon {
+    display: block;
+    width: 19px;
+    height: 16px;
+    background-image: url(../img/icon_search.svg);
+    background-size: contain;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: right;
+    right: 20px;
+    top: 19px;
+    cursor: pointer;
+}
+
+#search_results_form .big_search_icon_clear {
+    display: none;
+    width: 14px;
+    height: 14px;
+    background-image: url(../img/close.svg);
+    background-size: contain;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: right;
+    right: 50px;
+    top: 20px;
+    cursor: pointer;
+}
+
+.active#search_results_form .big_search_icon_clear {
+	display: block;
+}
+
+.review_top_rating_percents .icon_rating_good {
+	color: #21B67B;
+}
+
+.review_top_rating_percents .icon_rating_good:before {
+	content: '+';
+}
+
+.review_top_rating_percents .icon_rating_bad {
+	color: #1a3368;
+}
+
+.search_results_filter_header .wrap {
+	display: flex;
+	height: 54px;
+	align-items: center;
+}
+
+.search_results_top_sorter {
+	margin-left: auto;
+	position: relative;
+}
+
+.search_filter_title {
+	display: flex;
+	align-items: center;
+	color: #5B6068;
+	font-size: 14px;
+	width: 300px;
+}
+
+.search_results_filter_header .current_tag {
+	margin:0;
+	padding: 0;
+	list-style: none;
+	
+}
+
+.search_results_filter_header .current_tag li {
+	font-size: 16px;
+	white-space: nowrap;
+color: #001640;
+margin-right: 20px;
+cursor: pointer;
+display: flex;
+	border-left: 1px solid #E9F0F3;
+	padding-left: 23px;
+}
+
+.search_results_filter_header .current_tag li::after {
+    background-image: url(../img/close.svg);
+    width: 10px;
+    height: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 10px 10px;
+    content: '';
+    display: block;
+    align-self: center;
+    margin-left: 5px;
+}
+
+.search_filter_title:before {
+	background-image: url(../img/icon_filter_white.svg);
+	content: '';
+	display: block;
+	margin-right: 10px;
+	width: 31px;
+	height: 31px;
+	background-color: #CCDBE1;
+	flex: 0 0 31px;
+	background-repeat: no-repeat;
+	background-position: center;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.search_results_top_sorter ul {
+	display: none;
+}
+
+.search_results_top_sorter.active ul {
+	display: block;
+	position: absolute;
+	top: 37px;
+	width: 260px;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	background-color: #FFF;
+	border: 1px solid #edf1f4;
+	list-style: none;
+	z-index: 2;
+}
+
+.search_results_top_sorter.active ul li {
+    border-bottom: 1px solid #edf1f4;
+    padding: 20px 25px;
+    display: flex;
+}
+
+.search_results_top_sorter.active ul li:after {
+    content: ' ';
+    width: 16px;
+    height: 16px;
+    border: 2px solid #5b5f66;
+    display: block;
+    margin-left: auto;
+}
+
+.search_results_top_sorter.active ul li.active:after {
+    border: 2px solid #21B67B;
+    background-image: url(../img/icon_check_active.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.review_top_rating_percents .icon_rating_bad:before {
+	content: '-';
+}
+
+.search_results_filter_tags {
+	
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.search_results_filter_tags li {
+	margin-right: 15px;
+	font-size: 16px;
+	color: #001640;
+	border-bottom: 0.5px dashed #001640;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+.search_results_filter_tags_more {
+	display: flex;
+	flex-wrap: wrap;
+	display: none;
+}
+
+.search_results_filter_tags_more.active {
+	display: flex;
+}
+
+
+@media screen and (max-width: 700px) {
+
+	.page_header_search .wrap {
+		padding-left: 22px;
+		padding-right: 22px;
+	}
+
+	.results_content li.white_block {
+
+		border: 0;
+		border-bottom: 1px solid #E9F0F3;
+		padding: 0 24px;
+		position: relative;
+		padding-top: 70px;
+		padding-bottom: 100px;
+		margin: 0;
+	}
+
+	.results_content .review_logo {
+		width: 70px;
+		height: 70px;
+		flex: 0 0 calc(70px);
+	}
+
+	.results_content .stars {
+		margin-top: auto;
+		position: absolute;
+		left: 24px;
+		bottom: 30px;
+	}
+
+	.results_content .stars div {
+		width: 32px;
+		height: 32px;
+	}
+
+	.results_content ul.company_card_tags {
+		position: absolute;
+		top: 20px;
+		left: 24px;
+	}
+
+	.results_content .review_search_right {
+		position: unset;
+	}
+
+	.results_content .review_search_right .compare_container {
+		right: 24px;
+		top: 24px;
+	}
+
+	.results_content .review_search_right .rating_page_text.review_average_round {
+		position: absolute;
+		bottom: 20px;
+		right: 24px;
+		width: 50px;
+		height: 50px;
+	}
+
+	.results_content .review_search_right .rating_page_text.review_average_round .inner {
+		width: 46px;
+		height: 46px;
+		line-height: 48px;
+	}
+}
+
+@media screen and (min-width: 701px) and (max-width: 1210px) {
+	.results_content .stars_and_reviews {
+		flex-direction: column;
+	}
+	
+	.results_content .search_review_middle {
+		flex: 0 0 calc(100% - 70px - 140px);
+		width: calc(100% - 70px - 140px);
+	}
+	
+	.results_content .stars_and_reviews_counts {
+		margin-left: 0 !important;
+		margin-top: 15px;
+	}
+}

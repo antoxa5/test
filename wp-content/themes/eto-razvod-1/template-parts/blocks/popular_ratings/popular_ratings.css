@@ -1,0 +1,244 @@
+.popular_ratings_left {
+	flex: 0 0 calc(295px);
+}
+
+.popular_ratings_right {
+	flex: 0 0 calc(100% - 325px);
+	margin-left: auto;
+}
+
+.popular_ratings_list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	padding-left: 15px;
+	margin-left: -15px;
+	margin-right: 20px;
+
+}
+
+.popular_ratings_list li {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 30px;
+	cursor: pointer;
+}
+
+.popular_ratings_list li span {
+	display: inline-block;
+}
+
+.popular_ratings_list li.inactive span {
+	border-bottom: 0.5px dashed #001640;
+}
+
+.popular_ratings_list li.active span {
+	background: #F5EBE1;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius: 4px;
+	padding: 6px 10px;
+	position: relative;
+}
+
+.popular_ratings_list li.active span:after {
+	display: block;
+	width: 15px;
+	height: 36px;
+	content: '';
+	background-color: #F5EBE1;
+	-webkit-mask-image: url('../../../img/arrow_search_right.svg');
+	mask-image: url('../../../img/arrow_search_right.svg');
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+	right: -12px;
+	top: 0;
+	position: absolute;
+}
+
+.popular_ratings_list li.active {
+	margin-left: -10px;
+	margin-bottom: 25px;
+}
+
+.popular_ratings_right .ul_content {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	padding-left: 0;
+	width: calc(100% + 200px);
+}
+
+.popular_ratings_right .ul_content li.white_block {
+	width: 380px;
+	margin-right: 15px;
+}
+
+.popular_ratings_right .review_logo {
+	width: 70px;
+	height: 70px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	display: block;
+	flex: 0 0 calc(70px);
+	border: 1px solid #dce4e7;
+	margin-right: 20px;
+	align-self: flex-start;
+}
+
+.popular_ratings_right .review_average_round .inner {
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+	font-size: 14px;
+}
+
+.popular_ratings_right .stars {
+	margin-top: 0;
+}
+
+.popular_ratings_right .company_block_footer {
+	border-top: 1px solid #edf1f4;
+	align-items: center;
+	padding-left: 26px;
+	padding-right: 29px;
+	padding-bottom: 18px;
+	padding-top: 13px;
+}
+
+.popular_ratings_right .company_block_header {
+	padding-left: 26px;
+	padding-top: 30px;
+	padding-bottom: 23px;
+	padding-right: 29px;
+}
+
+.popular_ratings_right ul.company_card_tags {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	margin-top: 10px;
+
+}
+
+.popular_ratings_right ul.company_card_tags li {
+	margin-right: 15px;
+	border-bottom: 1px dashed #001640;
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 4px;
+	border-bottom: unset;
+}
+
+
+.popular_ratings_right .stars div {
+	width: 33px;
+	height: 33px;
+}
+
+.popular_ratings_links {
+	text-align: right;
+	width: 870px;
+	margin-top: 80px;
+}
+
+.popular_ratings_right .rating_page_text.review_average_round {
+	width: 48px;
+	height: 48px;
+	margin-left: auto;
+}
+
+.block_popular_ratings .hide_more {
+	display: none;
+}
+
+.block_popular_ratings .hide_more.active {
+	display: block;
+}
+
+@media screen and (max-width: 700px) {
+
+	.block_popular_ratings .wrap {
+		flex-wrap: wrap;
+	}
+
+	.popular_ratings_left {
+		flex: 0 0 calc(100%);
+	}
+
+	.popular_ratings_right {
+		margin-left: 0;
+		flex: 0 0 calc(100%);
+		width: 100%;
+	}
+
+	.block_popular_ratings {
+		padding-top: 0;
+	}
+
+	.block_popular_ratings h2 {
+		padding-left: 25px;
+	}
+
+	.popular_ratings_list {
+		margin-left: 22px;
+		margin-right: 22px;
+	}
+
+	.popular_ratings_right .font_new_medium_2 {
+		text-align: center;
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	.popular_ratings_right .color_darker_gray.m_b_35 {
+		text-align: center;
+		padding-left: 40px;
+		padding-right: 40px;
+		margin-bottom: 5px;
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.popular_ratings_right .ul_content {
+		overflow: hidden;
+		width: calc(100%);
+	}
+
+	.popular_ratings_right .ul_content li.white_block {
+		width: 100%;
+		flex: 0 0 calc(100% - 50px);
+		margin-left: 25px;
+		margin-right: 25px;
+		-webkit-box-shadow: 5px 5px 20px 0px rgb(37 55 102 / 15%);
+		-moz-box-shadow: 5px 5px 20px 0px rgba(37,55,102,0.15);
+		box-shadow: 5px 5px 20px 0px rgb(37 55 102 / 15%);
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+
+	.popular_ratings_links {
+		width: 100%;
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	.popular_ratings_links .link_all_ratings {
+		display: inline-block;
+	}
+
+	.popular_ratings_left .buttons {
+		margin-left: 35px;
+		margin-top: 0;
+	}
+}
+
+.popular_ratings_left .title_h2 {
+	text-decoration: none;
+	margin-top: 20px;
+}

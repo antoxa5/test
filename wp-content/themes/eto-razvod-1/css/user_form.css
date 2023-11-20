@@ -1,0 +1,25 @@
+.user-form__title {
+    display: block;
+    text-align: left;
+    margin-bottom: 18px;
+}
+
+.user-form__avatar {
+    margin-bottom: 23px;
+}
+
+.user-form__twoinputs > input {
+    max-width: calc((100% / 2) - 50px);
+}
+
+.user-form__twoinputs {
+    justify-content: space-between;
+}
+
+.user-form__title_mt_40 {
+    margin-top: 30px;
+}
+
+.user-form__social_mb_40 {
+    margin-bottom: 40px;
+}

@@ -1,0 +1,5264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eto Razvod v1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-31 18:21+0000\n"
+"PO-Revision-Date: 2023-02-01 20:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian (Bokmål)\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: er_theme"
+
+#: !!!functions.php:594 backup_antibot_functions.php:648 functions copy.php:641
+msgid " &laquo;Это развод™&raquo;"
+msgstr " &laquo;Revieweek™&raquo;"
+
+#: backup_antibot_functions.php:475 functions copy.php:472
+msgid ""
+" &mdash; это крупный информационный сервис обзоров и отзывов о компаниях, "
+"которые у всех на слуху и не только. Размещайте жалобы, отзывы и обзоры на "
+"компании. Это неоценимо полезно!"
+msgstr ""
+" &mdash; er en viktig informasjonstjeneste for anmeldelser og "
+"tilbakemeldinger om selskaper som alle hører om og mer. Legg inn klager, "
+"anmeldelser og bedriftsanmeldelser. Det er uvurderlig!"
+
+#: !!!functions.php:429
+msgid ""
+" &mdash; это крупный информационный сервис обзоров и отзывов о российских "
+"компаниях. Наш сервис позволяет размещать жалобы, отзывы и обзоры на "
+"различные компании."
+msgstr ""
+
+#: inc/addons/redirects copy.php:285
+msgid " - написал отзыв о компании"
+msgstr ""
+
+#: !!!functions.php:1190 backup_antibot_functions.php:1618 functions
+#: copy.php:1543
+msgid " | Это развод™"
+msgstr " | Revieweek™"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4140
+#: inc/addons/!щдв-25-05-2021-comments.php:4207 inc/addons/comments.php:6758
+#: inc/addons/comments.php:6825 inc/addons/comments-1.php:3269
+#: inc/addons/comments-1.php:3336 inc/addons/comments copy 2.php:6293
+#: inc/addons/comments copy 2.php:6360 inc/addons/comments copy.php:4148
+#: inc/addons/comments copy.php:4215
+#: inc/addons/!бекап_пожаловаться_comments.php:3271
+#: inc/addons/!бекап_пожаловаться_comments.php:3338
+#: inc/addons/11!comments.php:3266 inc/addons/11!comments.php:3333
+#: inc/addons/comments-artem.php:3219 inc/addons/comments-artem.php:3286
+#: inc/addons/comments-bc.php:3228 inc/addons/comments-bc.php:3295
+msgid " Добавить"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:774 inc/addons/comments.php:1282
+#: inc/addons/comments-1.php:682 inc/addons/comments copy 2.php:1141
+#: inc/addons/comments copy.php:782
+#: inc/addons/!бекап_пожаловаться_comments.php:694
+#: inc/addons/11!comments.php:694 inc/addons/comments-artem.php:645
+#: inc/addons/comments-bc.php:641
+msgid " Текст жалобы: "
+msgstr ""
+
+#: single-promocodes.php:107
+msgid " Читать полностью"
+msgstr ""
+
+#: single-post.php:163
+msgid " года"
+msgstr ""
+
+#: inc/addons/notify.php:139 inc/addons/notify.php:332
+#: inc/addons/user_functions.php:1606
+msgid " на компанию"
+msgstr ""
+
+#: inc/addons/messages.php:295
+msgid ""
+"! Спасибо за регистрацию на нашем сайте! Сейчас вам доступны следующие "
+"функции сайта:"
+msgstr ""
+
+#: functions-w-root.php:3600 functions-w-root.php:3745
+#: functions17122022.php:3616 functions17122022.php:3761
+#: functions7122022.php:3611 functions7122022.php:3756 functions.php:3726
+#: functions.php:3871
+#, php-format
+msgid "%s и другие."
+msgstr "% og andre."
+
+#: functions-w-root.php:2653 functions17122022.php:2669
+#: functions7122022.php:2664 functions.php:2709
+#, php-format
+msgid ""
+"%s новости %s. Будьте в курсе последних новостей и комментариев компании."
+msgstr ""
+"%s nyheter %s. Hold deg oppdatert med de siste selskapsnyhetene og "
+"kommentarene."
+
+#: functions-w-root.php:852 functions-w-root.php:921 !!!functions.php:594
+#: functions17122022.php:868 functions17122022.php:937 functions7122022.php:863
+#: functions7122022.php:932 backup_antibot_functions.php:648 functions
+#: copy.php:641 functions.php:873 functions.php:942
+msgid "&copy; Copyright 2015&mdash;"
+msgstr ""
+
+#: functions-w-root.php:852 functions-w-root.php:921 functions17122022.php:868
+#: functions17122022.php:937 functions7122022.php:863 functions7122022.php:932
+#: functions.php:873 functions.php:942
+msgid "&laquo;Это развод™&raquo;"
+msgstr "&laquo;Revieweek™&raquo;"
+
+#: functions-w-root.php:634 functions-w-root.php:652 functions17122022.php:650
+#: functions17122022.php:668 functions7122022.php:645 functions7122022.php:663
+#: functions.php:655 functions.php:673
+msgid ""
+"&mdash; это крупный информационный сервис обзоров и отзывов о компаниях, "
+"которые у всех на слуху и не только. Размещайте жалобы, отзывы и обзоры на "
+"компании. Это неоценимо полезно!"
+msgstr ""
+"&mdash; er en viktig informasjonstjeneste for anmeldelser og "
+"tilbakemeldinger om selskaper som alle hører om og mer. Legg inn klager, "
+"anmeldelser og bedriftsanmeldelser. Det er uvurderlig!"
+
+#: inc/addons/redirects.php:637
+msgid "- die Meinungen von echten Menschen."
+msgstr ""
+
+#: inc/addons/redirects.php:639
+msgid "- las opiniones de personas reales."
+msgstr ""
+
+#: inc/addons/redirects.php:641
+msgid "- les opinions de personnes réelles."
+msgstr ""
+
+#: inc/addons/redirects.php:635
+msgid "- the opinions of real people."
+msgstr ""
+
+#: inc/addons/redirects copy.php:333 inc/addons/redirects.php:683
+msgid "- мнения реальных людей."
+msgstr ""
+
+#: inc/addons/popups.php:2443 inc/addons/popups_new_test.php:380
+msgid "2015"
+msgstr ""
+
+#: inc/addons/popups.php:2442 inc/addons/popups_new_test.php:379
+msgid "2016"
+msgstr ""
+
+#: inc/addons/popups.php:2441 inc/addons/popups_new_test.php:378
+msgid "2017"
+msgstr ""
+
+#: inc/addons/popups.php:2440 inc/addons/popups_new_test.php:377
+msgid "2018"
+msgstr ""
+
+#: inc/addons/popups.php:2439 inc/addons/popups_new_test.php:376
+msgid "2019"
+msgstr ""
+
+#: inc/addons/popups.php:2438 inc/addons/popups_new_test.php:375
+msgid "2020"
+msgstr ""
+
+#: inc/addons/popups.php:2437 inc/addons/popups_new_test.php:374
+msgid "2021"
+msgstr ""
+
+#: inc/addons/popups.php:2436 inc/addons/popups_new_test.php:373
+msgid "2022"
+msgstr ""
+
+#: inc/addons/popups.php:2435 inc/addons/popups_new_test.php:372
+msgid "2023"
+msgstr ""
+
+#: functions17122022.php:842 functions17122022.php:911 functions7122022.php:837
+#: functions7122022.php:906 functions.php:847 functions.php:916
+msgid "Android"
+msgstr ""
+
+#: inc/addons/navs/navs.php:17
+msgid "Bar 1"
+msgstr ""
+
+#: inc/addons/navs/navs.php:18
+msgid "Bar 2"
+msgstr ""
+
+#: inc/addons/navs/navs.php:19
+msgid "Bar 3"
+msgstr ""
+
+#: inc/addons/navs/navs.php:20
+msgid "Bar 4"
+msgstr ""
+
+#: inc/addons/navs/navs.php:21
+msgid "Bar 5"
+msgstr ""
+
+#: inc/addons/navs/navs.php:22
+msgid "Bar 6"
+msgstr ""
+
+#: inc/addons/popups.php:4141
+msgid "Client ID"
+msgstr ""
+
+#: inc/addons/profile_functions.php:433
+msgid "Company Overviews"
+msgstr ""
+
+#: inc/addons/profile_functions.php:436
+msgid "Complaints"
+msgstr ""
+
+#: inc/addons/comments.php:6477 inc/addons/comments.php:6575
+msgid "Das Bild wurde erfolgreich hochgeladen!"
+msgstr ""
+
+#: inc/addons/popups.php:4135
+msgid "Description"
+msgstr ""
+
+#: inc/addons/comments.php:6440 inc/addons/comments.php:6498
+#: inc/addons/comments.php:6538 inc/addons/comments.php:6597
+#: inc/addons/comments.php:6617
+msgid "Dieses Bild kann nicht angehängt werden"
+msgstr ""
+
+#: inc/addons/popups.php:1060
+msgid "E-mail не зарегистрирован"
+msgstr ""
+
+#: inc/addons/popups.php:2626
+msgid "E-mail не корректен"
+msgstr ""
+
+#: inc/addons/admin_fix.php:1093 inc/addons/admin_fix.php:1094
+#: inc/addons/admin_fix.php:1110
+msgid "E-mail рассылки"
+msgstr ""
+
+#: inc/addons/popups.php:2577
+msgid "E-mail уже зарегистрирован. Введите пароль, чтобы авторизоваться, или "
+msgstr ""
+
+#: functions-w-root.php:712 !!!functions.php:489 functions17122022.php:728
+#: functions7122022.php:723 backup_antibot_functions.php:535 functions
+#: copy.php:532 functions.php:733
+msgid "Email-адрес некорректен"
+msgstr "E-postadressen er feil"
+
+#: inc/addons/comments.php:2034
+msgid "Envoi d`une plainte pour spam"
+msgstr ""
+
+#: inc/addons/comments.php:2078
+msgid ""
+"Erreur dans l'envoi de la plainte. Veuillez en informer l'administrateur à "
+"l'adresse info@revieweek.fr."
+msgstr ""
+
+#: inc/addons/comments.php:2076
+msgid ""
+"Error en el envío de la denuncia. Por favor, informe al administrador en "
+"info@revieweek.es."
+msgstr ""
+
+#: inc/addons/comments.php:2072
+msgid ""
+"Error in submitting a complaint. Please inform the administrator at "
+"info@revieweek.com"
+msgstr ""
+
+#. Name of the theme
+msgid "Eto Razvod v1"
+msgstr ""
+
+#: inc/addons/blocks.php:11 inc/addons/!!!!!blocks.php:11
+msgid "Eto-Razvod"
+msgstr ""
+
+#: functions-w-root.php:634 functions-w-root.php:652 functions17122022.php:650
+#: functions17122022.php:668 functions7122022.php:645 functions7122022.php:663
+#: backup_antibot_functions.php:475 functions copy.php:472 functions.php:655
+#: functions.php:673
+msgid "eto-razvod.ru"
+msgstr "no.revieweek.com"
+
+#: functions-w-root.php:3608 functions17122022.php:3624
+#: functions7122022.php:3619 functions.php:3734
+#, php-format
+msgid ""
+"Examine the promotional codes on our website, copy the desired promotional "
+"code and use it when ordering services from %s."
+msgstr ""
+
+#: inc/addons/navs/navs.php:24
+msgid "Fast 1"
+msgstr ""
+
+#: inc/addons/navs/navs.php:33
+msgid "Fast 10"
+msgstr ""
+
+#: inc/addons/navs/navs.php:34
+msgid "Fast 11"
+msgstr ""
+
+#: inc/addons/navs/navs.php:25
+msgid "Fast 2"
+msgstr ""
+
+#: inc/addons/navs/navs.php:26
+msgid "Fast 3"
+msgstr ""
+
+#: inc/addons/navs/navs.php:27
+msgid "Fast 4"
+msgstr ""
+
+#: inc/addons/navs/navs.php:28
+msgid "Fast 5"
+msgstr ""
+
+#: inc/addons/navs/navs.php:29
+msgid "Fast 6"
+msgstr ""
+
+#: inc/addons/navs/navs.php:30
+msgid "Fast 7"
+msgstr ""
+
+#: inc/addons/navs/navs.php:31
+msgid "Fast 8"
+msgstr ""
+
+#: inc/addons/navs/navs.php:32
+msgid "Fast 9"
+msgstr ""
+
+#: inc/addons/navs/navs.php:16
+msgid "Fast Links"
+msgstr ""
+
+#: inc/addons/comments.php:2074
+msgid ""
+"Fehler beim Absenden der Beschwerde. Bitte informieren Sie den Administrator "
+"unter  info@revieweek.de."
+msgstr ""
+
+#: inc/addons/navs/navs.php:12
+msgid "Foo 1"
+msgstr ""
+
+#: inc/addons/navs/navs.php:13
+msgid "Foo 2"
+msgstr ""
+
+#: inc/addons/navs/navs.php:14
+msgid "Foo 3"
+msgstr ""
+
+#: inc/addons/navs/navs.php:8
+msgid "Footer 1"
+msgstr ""
+
+#: inc/addons/navs/navs.php:10
+msgid "Footer 2"
+msgstr ""
+
+#: inc/addons/navs/navs.php:11
+msgid "Footer 3"
+msgstr ""
+
+#: inc/addons/navs/navs.php:15
+msgid "Footer Bottom"
+msgstr ""
+
+#: functions-w-root.php:3602 functions17122022.php:3618
+#: functions7122022.php:3613 functions.php:3728
+#, php-format
+msgid ""
+"For %s we do not have promo codes of %s, but we are already working on it."
+msgstr ""
+
+#: functions-w-root.php:3606 functions17122022.php:3622
+#: functions7122022.php:3617 functions.php:3732
+#, php-format
+msgid "How to use a promotional code on the site of %s?"
+msgstr ""
+
+#: functions-w-root.php:4174 functions17122022.php:4190
+#: functions7122022.php:4185 backup_antibot_functions.php:10280 functions
+#: copy.php:10165 functions.php:4300
+msgid "HTML"
+msgstr "HTML"
+
+#. Author URI of the theme
+msgid "https://eto-razvod.ru/"
+msgstr "https://no.revieweek.com/"
+
+#. URI of the theme
+msgid "https:/eto-razvod.ru/"
+msgstr ""
+
+#: functions-w-root.php:4106 functions17122022.php:4122
+#: functions7122022.php:4117 functions.php:4232 inc/addons/admin_fix.php:1486
+msgid "ID"
+msgstr ""
+
+#: inc/addons/admin_fix.php:187
+msgid "id Метки"
+msgstr "Merkelapper Id"
+
+#: inc/addons/comments.php:6444 inc/addons/comments.php:6502
+#: inc/addons/comments.php:6542 inc/addons/comments.php:6601
+msgid "Impossible de joindre cette image"
+msgstr ""
+
+#: inc/addons/profile_functions.php:428
+msgid "Information"
+msgstr ""
+
+#: functions17122022.php:843 functions17122022.php:912 functions7122022.php:838
+#: functions7122022.php:907 functions.php:848 functions.php:917
+msgid "iOS"
+msgstr ""
+
+#: inc/addons/comments.php:6481 inc/addons/comments.php:6579
+msgid "L'image a été téléchargée avec succès !"
+msgstr ""
+
+#: inc/addons/comments.php:6479 inc/addons/comments.php:6577
+msgid "La imagen se ha cargado con éxito."
+msgstr ""
+
+#. Name of the template
+msgid "Landing"
+msgstr ""
+
+#. Description of the theme
+msgid "Local theme for eto-razvod.ru"
+msgstr ""
+
+#: comment-single_view.php:986 comment-single_view copy.php:947
+#: comment-single_view copy.php:1794 inc/addons/comments.php:1742
+#: inc/addons/comments copy 2.php:1601 inc/addons/profile_functions.php:208
+#: inc/addons/profile_functions.php:653
+msgid "minus"
+msgstr ""
+
+#: comment-single_view.php:986 comment-single_view copy.php:947
+#: comment-single_view copy.php:947 comment-single_view copy.php:1794
+#: comment-single_view copy.php:1794 inc/addons/comments.php:1742
+#: inc/addons/comments.php:1742 inc/addons/comments copy 2.php:1601
+#: inc/addons/comments copy 2.php:1601 inc/addons/profile_functions.php:208
+#: inc/addons/profile_functions.php:208 inc/addons/profile_functions.php:653
+#: inc/addons/profile_functions.php:653
+msgid "minuses"
+msgstr ""
+
+#: functions-w-root.php:4476 functions17122022.php:4492
+#: functions7122022.php:4487 backup_antibot_functions.php:10587 functions
+#: copy.php:10472 functions.php:4602
+msgid "N/A"
+msgstr ""
+
+#. Name of the template
+#: inc/addons/navs/navs.php:9
+msgid "News"
+msgstr ""
+
+#: inc/addons/navs/navs.php:23
+msgid "News Nav"
+msgstr ""
+
+#: inc/addons/comments.php:6442 inc/addons/comments.php:6500
+#: inc/addons/comments.php:6540 inc/addons/comments.php:6599
+#: inc/addons/comments.php:6619
+msgid "No se puede adjuntar esta imagen"
+msgstr ""
+
+#: functions-w-root.php:973 functions17122022.php:989 functions7122022.php:984
+#: functions.php:995
+msgid "Nous sommes sur les médias sociaux"
+msgstr ""
+
+#: functions17122022.php:978 functions7122022.php:973 functions.php:983
+msgid "OK"
+msgstr ""
+
+#: inc/addons/messages.php:756 inc/addons/messages.php:807
+#: inc/addons/messages.php:884 inc/addons/messages.php:897
+#: inc/addons/messages.php:950
+msgid "ok"
+msgstr ""
+
+#: functions17122022.php:980 functions7122022.php:975 functions.php:985
+msgid "Pinterest"
+msgstr ""
+
+#: inc/addons/comments.php:6615
+msgid "Please specify a valid URL"
+msgstr ""
+
+#: comment-single_view.php:986 comment-single_view copy.php:947
+#: comment-single_view copy.php:1794 inc/addons/comments.php:1741
+#: inc/addons/comments copy 2.php:1600 inc/addons/profile_functions.php:208
+#: inc/addons/profile_functions.php:653
+msgid "plus"
+msgstr ""
+
+#: comment-single_view.php:986 comment-single_view copy.php:947
+#: comment-single_view copy.php:947 comment-single_view copy.php:1794
+#: comment-single_view copy.php:1794 inc/addons/comments.php:1741
+#: inc/addons/comments.php:1741 inc/addons/comments copy 2.php:1600
+#: inc/addons/comments copy 2.php:1600 inc/addons/profile_functions.php:208
+#: inc/addons/profile_functions.php:208 inc/addons/profile_functions.php:653
+#: inc/addons/profile_functions.php:653
+msgid "pluses"
+msgstr ""
+
+#: backup_antibot_functions.php:10285 functions copy.php:10170
+msgid "Popup"
+msgstr ""
+
+#: inc/addons/navs/navs.php:7
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions-w-root.php:451 functions17122022.php:467 functions7122022.php:462
+#: functions.php:472
+msgid "PRO-аккаунт"
+msgstr "PRO-konto"
+
+#. Name of the template
+msgid "Promocodes"
+msgstr ""
+
+#. Name of the template
+msgid "Rating"
+msgstr ""
+
+#. Name of the template
+msgid "Rating All"
+msgstr ""
+
+#: inc/addons/profile_functions.php:430
+msgid "Reviews"
+msgstr ""
+
+#: single-casino.php:607 single-casino-2.php:505
+msgid "Reviews and description"
+msgstr ""
+
+#: inc/addons/rating/rating.php:4060
+msgid "RUB"
+msgstr ""
+
+#: inc/addons/rating/rating.php:4042
+msgid "RUB/месяц"
+msgstr ""
+
+#: inc/addons/comments.php:2032
+msgid "Se ha enviado una queja por spam"
+msgstr ""
+
+#. Name of the template
+msgid "Service"
+msgstr ""
+
+#: inc/addons/user_functions.php:1205
+msgid "Set up later"
+msgstr ""
+
+#: inc/addons/notify.php:188 inc/addons/notify.php:274
+#: inc/addons/notify.php:294
+msgid "Site Administration"
+msgstr ""
+
+#: inc/addons/comments.php:2028
+msgid "Spam complaint sent"
+msgstr ""
+
+#: inc/addons/comments.php:2030
+msgid "Spam-Beschwerde gesendet"
+msgstr ""
+
+#: functions17122022.php:976 functions7122022.php:971 functions.php:981
+msgid "Telegram"
+msgstr ""
+
+#. Name of the template
+msgid "Temporary ST"
+msgstr ""
+
+#: inc/addons/comments.php:6475 inc/addons/comments.php:6573
+msgid "The image has been successfully uploaded!"
+msgstr ""
+
+#: inc/addons/popups.php:4132
+msgid "Title"
+msgstr ""
+
+#: inc/addons/subscribe.php:9
+msgid "To sign up for company updates, please log in."
+msgstr ""
+
+#: functions17122022.php:979 functions7122022.php:974 functions.php:984
+msgid "Twitter"
+msgstr ""
+
+#: inc/addons/comments.php:6438 inc/addons/comments.php:6496
+#: inc/addons/comments.php:6536 inc/addons/comments.php:6595
+msgid "Unable to attach this image"
+msgstr ""
+
+#: functions.php:988
+msgid "VC.RU"
+msgstr ""
+
+#: inc/addons/comments.php:6621
+msgid "Veuillez spécifier une URL valide"
+msgstr ""
+
+#: functions17122022.php:977 functions7122022.php:972 functions.php:982
+#: inc/addons/!щдв-25-05-2021-comments.php:528 inc/addons/comments.php:1036
+#: inc/addons/comments-1.php:436 inc/addons/comments copy 2.php:895
+#: inc/addons/comments copy.php:536
+#: inc/addons/!бекап_пожаловаться_comments.php:448
+#: inc/addons/11!comments.php:448 inc/addons/comments-artem.php:399
+#: inc/addons/comments-bc.php:395
+msgid "VK"
+msgstr ""
+
+#: functions-w-root.php:983 functions17122022.php:999 functions7122022.php:994
+#: functions.php:1005
+msgid "We are on social media"
+msgstr ""
+
+#: functions-w-root.php:3598 functions17122022.php:3614
+#: functions7122022.php:3609 functions.php:3724
+#, php-format
+msgid "What are promo codes, coupons and discounts of %s for %s?"
+msgstr ""
+
+#. Author of the theme
+msgid "WPShop"
+msgstr ""
+
+#: inc/addons/redirects copy.php:330 inc/addons/redirects.php:681
+msgid "written by"
+msgstr ""
+
+#: inc/addons/redirects copy.php:283
+msgid "wrote a review about"
+msgstr ""
+
+#: inc/addons/subscribe.php:10
+msgid "You have successfully subscribed"
+msgstr ""
+
+#: functions17122022.php:982 functions7122022.php:977 functions.php:987
+msgid "Youtube"
+msgstr ""
+
+#: functions17122022.php:981 functions7122022.php:976 functions.php:986
+msgid "Zen"
+msgstr ""
+
+#: inc/addons/messages.php:57 inc/addons/messages.php:86
+#: inc/addons/messages.php:366 inc/addons/messages.php:389
+#: inc/addons/messages.php:421 inc/addons/messages.php:508
+#: inc/addons/messages.php:531
+msgid "Администрация"
+msgstr ""
+
+#: inc/addons/notify.php:190 inc/addons/notify.php:276
+#: inc/addons/notify.php:296 inc/addons/user_functions.php:1558
+msgid "Администрация сайта"
+msgstr ""
+
+#: inc/addons/table/table.php:355
+msgid "Адрес"
+msgstr ""
+
+#: functions-w-root.php:4517 functions-w-root.php:4525
+#: functions17122022.php:4533 functions17122022.php:4541
+#: functions7122022.php:4528 functions7122022.php:4536 functions.php:4643
+#: functions.php:4651
+msgid "Активация"
+msgstr "Aktivering"
+
+#: functions-w-root.php:4535 functions17122022.php:4551
+#: functions7122022.php:4546 functions.php:4661
+msgid "Активирован"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:56 inc/addons/fields/repeater.php:313
+msgid "Активна"
+msgstr ""
+
+#: inc/addons/company_activities.php:16 inc/addons/company_activities.php:47
+#: inc/addons/profile_functions.php:1505
+msgid "Активность"
+msgstr ""
+
+#: functions-w-root.php:1868 functions-w-root.php:1908 !!!functions.php:978
+#: functions17122022.php:1884 functions17122022.php:1924
+#: functions7122022.php:1879 functions7122022.php:1919
+#: backup_antibot_functions.php:1163 backup_antibot_functions.php:1194
+#: functions copy.php:1132 functions copy.php:1164 functions.php:1899
+#: functions.php:1940
+msgid "Акции"
+msgstr "Aksjer"
+
+#: functions-w-root.php:5440 functions-w-root.php:5528
+#: functions-w-root.php:5609 functions-w-root.php:5823
+#: functions17122022.php:5456 functions17122022.php:5544
+#: functions17122022.php:5625 functions17122022.php:5839
+#: functions7122022.php:5451 functions7122022.php:5539
+#: functions7122022.php:5620 functions7122022.php:5834 functions.php:5578
+#: functions.php:5666 functions.php:5747 functions.php:5961 comment-single_view
+#: copy.php:884 comment-single_view copy.php:890 comment-single_view
+#: copy.php:1734 comment-single_view copy.php:1737
+#: comment-single_view_new.php:455 comment-single_view_new.php:671
+#: comment-single_view_new.php:779 comment-single_view_new.php:782
+#: inc/addons/comments copy 2.php:4201
+msgid "Анонимный пользователь"
+msgstr "Anonym bruker"
+
+#: functions-w-root.php:4551 functions-w-root.php:4559
+#: functions17122022.php:4567 functions17122022.php:4575
+#: functions7122022.php:4562 functions7122022.php:4570 functions.php:4677
+#: functions.php:4685
+msgid "Баланс"
+msgstr "Balanse"
+
+#: inc/addons/fields/!!!repeater.php:679 inc/addons/fields/repeater.php:1276
+msgid "Без комиссии"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:524 inc/addons/fields/repeater.php:1046
+msgid "Без процентов"
+msgstr ""
+
+#: template-promocodes.php:574 functions-w-root.php:2350 !!!functions.php:1136
+#: functions17122022.php:2366 functions7122022.php:2361
+#: single-promocodes.php:199 backup_antibot_functions.php:1524 functions
+#: copy.php:1449 functions.php:2382 single-promocodes_cats.php:175
+#: single-promocodes_cats.php:312 inc/addons/add_links.php:166
+#: inc/addons/company_dashboard_functions.php:1494 inc/addons/banners.php:2088
+#: inc/addons/banners.php:3659 inc/addons/admin_fix.php:3386 inc/addons/banners
+#: copy.php:885 inc/addons/search.php:751 inc/addons/layout.php:710
+#: template-parts/blocks/list_promocodes/list_promocodes.php:107
+#: template-parts/blocks/popular_categories/popular_categories.php:939
+msgid "Бесплатная доставка"
+msgstr "Gratis levering"
+
+#: inc/addons/fields/!!!repeater.php:414 inc/addons/fields/!!!repeater.php:500
+#: inc/addons/fields/!!!repeater.php:719 inc/addons/fields/repeater.php:925
+#: inc/addons/fields/repeater.php:1022 inc/addons/fields/repeater.php:1076
+#: inc/addons/fields/repeater.php:1124 inc/addons/fields/repeater.php:1316
+msgid "Бесплатно"
+msgstr ""
+
+#: functions-w-root.php:2476 functions17122022.php:2492
+#: functions7122022.php:2487 functions.php:2508
+msgid "Бесплатные промокоды на скидку"
+msgstr "Gratis rabattkampanjekoder"
+
+#: !!!functions.php:1182 backup_antibot_functions.php:1610 functions
+#: copy.php:1535
+msgid "Бесплатные промокоды на скидку | Это развод™"
+msgstr ""
+
+#: template-promocodes.php:570 functions-w-root.php:2346 !!!functions.php:1132
+#: functions17122022.php:2362 functions7122022.php:2357
+#: single-promocodes.php:195 backup_antibot_functions.php:1520 functions
+#: copy.php:1445 functions.php:2378 single-promocodes_cats.php:171
+#: single-promocodes_cats.php:308 inc/addons/add_links.php:162
+#: inc/addons/company_dashboard_functions.php:1490 inc/addons/banners.php:2084
+#: inc/addons/banners.php:3655 inc/addons/admin_fix.php:3382 inc/addons/banners
+#: copy.php:881 inc/addons/search.php:747 inc/addons/layout.php:706
+#: template-parts/blocks/list_promocodes/list_promocodes.php:103
+#: template-parts/blocks/popular_categories/popular_categories.php:935
+msgid "Бесплатный демо-счет"
+msgstr "Gratis demokonto"
+
+#: find-news.php:50 category.php:85 template-news.php:36
+msgid "Блог"
+msgstr ""
+
+#: inc/addons/search.php:51
+msgid "Больше"
+msgstr ""
+
+#: template-promocodes.php:568 functions-w-root.php:2344 !!!functions.php:1130
+#: functions17122022.php:2360 functions7122022.php:2355
+#: single-promocodes.php:193 backup_antibot_functions.php:1518 functions
+#: copy.php:1443 functions.php:2376 single-promocodes_cats.php:169
+#: single-promocodes_cats.php:306 inc/addons/add_links.php:160
+#: inc/addons/company_dashboard_functions.php:1488 inc/addons/banners.php:2082
+#: inc/addons/banners.php:3653 inc/addons/admin_fix.php:3380 inc/addons/banners
+#: copy.php:879 inc/addons/search.php:745 inc/addons/layout.php:704
+#: template-parts/blocks/list_promocodes/list_promocodes.php:101
+#: template-parts/blocks/popular_categories/popular_categories.php:933
+msgid "Бонус при регистрации"
+msgstr "Registreringsbonus"
+
+#: functions-w-root.php:1002 !!!functions.php:641 functions17122022.php:1018
+#: functions7122022.php:1013 backup_antibot_functions.php:697 functions
+#: copy.php:690 functions.php:1024
+msgid "Быстрые ссылки"
+msgstr "Hurtigkoblinger"
+
+#: single-promocodes_cats.php:360
+msgid "В данной категории сейчас нет промокодов."
+msgstr ""
+
+#: inc/addons/fields/repeater.php:441
+msgid "В ипотеку"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:443
+msgid "В кредит"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:445
+msgid "В рассрочку"
+msgstr ""
+
+#: inc/addons/layout.php:867 inc/addons/rating copy/rating copy.php:694
+#: inc/addons/rating copy/rating copy.php:810 inc/addons/rating copy/rating
+#: copy.php:876 inc/addons/rating copy/rating.php:702 inc/addons/rating
+#: copy/rating.php:818 inc/addons/rating copy/rating.php:884 inc/addons/rating
+#: copy/rating copy 2.php:714 inc/addons/rating copy/rating copy 2.php:833
+#: inc/addons/rating copy/rating copy 2.php:899 inc/addons/rating/rating
+#: copy.php:694 inc/addons/rating/rating copy.php:810 inc/addons/rating/rating
+#: copy.php:876 inc/addons/rating/rating.php:1336
+#: inc/addons/rating/rating.php:1563 inc/addons/rating/rating.php:1626
+#: inc/addons/rating/rating.php:1693 inc/addons/rating/rating.php:1772
+#: inc/addons/rating/rating.php:1841 inc/addons/rating/rating.php:1905
+#: inc/addons/rating/rating.php:1972 inc/addons/rating/rating.php:2098
+#: inc/addons/rating/rating.php:2161 inc/addons/rating/rating.php:2225
+#: inc/addons/rating/rating.php:2292 inc/addons/rating/rating copy 2.php:714
+#: inc/addons/rating/rating copy 2.php:833 inc/addons/rating/rating copy
+#: 2.php:899
+msgid "В рейтинге:"
+msgstr ""
+
+#: functions-w-root.php:1621 functions17122022.php:1637
+#: functions7122022.php:1632 functions.php:1652
+#, php-format
+msgid ""
+"В этом рейтинге собраны самые лучшие компании в %s году в разделе %s. На %s "
+"доступно %s. Вы можете воспользоваться сортировкой по положительным и "
+"отрицательным отзывам, рейтингу и другим критериям."
+msgstr ""
+"Denne rangeringen sammenstiller de beste selskapene i %s år under %s. Det er "
+"%s tilgjengelig på %s. Du kan bruke sortering etter positive og negative "
+"vurderinger, rangering og andre kriterier."
+
+#: functions-w-root.php:3766 functions17122022.php:3782
+#: functions7122022.php:3777 functions.php:3892
+#, php-format
+msgid "Вам доступен %s промокод компании %s."
+msgstr "Kampanjekode %s for selskap %s er tilgjengelig for deg."
+
+#: functions-w-root.php:3791 functions17122022.php:3807
+#: functions7122022.php:3802 functions.php:3917
+#, php-format
+msgid "Вам доступно %s актуальных промокода компании %s."
+msgstr "Det er %s nåværende %s-kampanjekoder tilgjengelig for deg."
+
+#: functions-w-root.php:5977 functions17122022.php:5993
+#: functions7122022.php:5988 functions.php:6115
+#, php-format
+msgid "Ваш %s прошел модерацию!"
+msgstr "Din %s har blitt moderert!"
+
+#: functions-w-root.php:480 functions-w-root.php:528 functions-w-root.php:936
+#: !!!functions.php:245 !!!functions.php:290 !!!functions.php:609
+#: functions17122022.php:496 functions17122022.php:544
+#: functions17122022.php:952 page-forgot-password.php:28
+#: functions7122022.php:491 functions7122022.php:539 functions7122022.php:947
+#: page-signup.php:27 backup_antibot_functions.php:329
+#: backup_antibot_functions.php:374 backup_antibot_functions.php:664 functions
+#: copy.php:326 functions copy.php:371 functions copy.php:657 functions.php:501
+#: functions.php:549 functions.php:957 page-signin.php:22
+#: inc/addons/!!!!popups.php:151 inc/addons/popups.php:292
+#: inc/addons/popups.php:941 inc/addons/!popups.php:151
+msgid "Ваш E-mail"
+msgstr "E-postadressen din"
+
+#: inc/addons/notify.php:143 inc/addons/notify.php:336
+#: inc/addons/user_functions.php:1610
+msgid "Ваш комментарий к записи"
+msgstr ""
+
+#: inc/addons/popups.php:911
+msgid "Ваш комментарий ожидает модерации"
+msgstr ""
+
+#: functions-w-root.php:6001 functions17122022.php:6017
+#: functions7122022.php:6012 functions.php:6139
+msgid "Ваш комментарий прошел модерацию!"
+msgstr "Kommentaren din har blitt moderert!"
+
+#: inc/addons/notify.php:139 inc/addons/notify.php:332
+#: inc/addons/user_functions.php:1606
+msgid "Ваш ответ на отзыв пользователя"
+msgstr ""
+
+#: inc/addons/notify.php:129 inc/addons/user_functions.php:1593
+msgid "Ваш отзыв на запись"
+msgstr ""
+
+#: functions-w-root.php:5973 functions17122022.php:5989
+#: functions7122022.php:5984 functions.php:6111
+#, php-format
+msgid ""
+"Ваш отзыв на запись %s успешно прошел модерацию. Теперь Вы можете увидеть "
+"его на %s"
+msgstr "Din anmeldelse av %s har blitt moderert. Du kan nå se det på %s"
+
+#: inc/addons/notify.php:125 inc/addons/notify.php:323
+#: inc/addons/popups.php:500 inc/addons/popups.php:2704
+#: inc/addons/popups.php:2975 inc/addons/popups.php:3148
+#: inc/addons/user_functions.php:1589
+msgid "Ваш отзыв на компанию"
+msgstr ""
+
+#: functions-w-root.php:5967 functions17122022.php:5983
+#: functions7122022.php:5978 functions.php:6105
+#, php-format
+msgid ""
+"Ваш отзыв на компанию %s успешно прошел модерацию. Теперь Вы можете увидеть "
+"его на %s"
+msgstr "Din anmeldelse av %s har blitt moderert. Du kan nå se det på %s"
+
+#: inc/addons/!!!!popups.php:362 inc/addons/popups.php:848
+#: inc/addons/popups.php:2134 inc/addons/!popups.php:335
+msgid "Ваш отзыв ожидает модерации"
+msgstr ""
+
+#: functions-w-root.php:5952 functions17122022.php:5968
+#: functions7122022.php:5963 functions.php:6090
+msgid "Ваш отзыв прошел модерацию!"
+msgstr "Din anmeldelse har blitt moderert!"
+
+#: !!!functions.php:546 backup_antibot_functions.php:600 functions copy.php:593
+msgid "Ваш пароль:"
+msgstr ""
+
+#: inc/addons/notify.php:117 inc/addons/notify.php:316
+#: inc/addons/popups.php:512 inc/addons/user_functions.php:1580
+msgid "Ваша жалоба на компанию"
+msgstr ""
+
+#: inc/addons/!!!!popups.php:358 inc/addons/popups.php:830
+#: inc/addons/popups.php:2127 inc/addons/!popups.php:333
+msgid "Ваша жалоба ожидает модерации"
+msgstr ""
+
+#: functions-w-root.php:5929 functions17122022.php:5945
+#: functions7122022.php:5940 functions.php:6067
+msgid "Ваша жалоба прошла модерацию!"
+msgstr "Klagen din har blitt moderert!"
+
+#: template-parts/blocks/list_more/list_more.php:95
+msgid "Ваша компания есть на сайте?"
+msgstr ""
+
+#: functions-w-root.php:693 !!!functions.php:470 functions17122022.php:709
+#: functions7122022.php:704 backup_antibot_functions.php:516 functions
+#: copy.php:513 functions.php:714
+msgid "Введенные пароли не совпадают"
+msgstr "De angitte passordene stemmer ikke overens"
+
+#: functions-w-root.php:2936 functions17122022.php:2952
+#: functions7122022.php:2947 backup_antibot_functions.php:1919 functions
+#: copy.php:1833 functions.php:2992
+msgid "Введите ваше сообщение"
+msgstr "Skriv inn meldingen din"
+
+#: page-dashboard-add-company.php:62 inc/addons/popups.php:2290
+#: inc/addons/popups.php:2517 inc/addons/admin_fix.php:3004
+#: inc/addons/user_functions.php:90 inc/addons/user_functions.php:3783
+#: inc/addons/popups_new_test.php:466
+msgid "Введите название компании"
+msgstr ""
+
+#: functions-w-root.php:697 !!!functions.php:474 functions17122022.php:713
+#: functions7122022.php:708 backup_antibot_functions.php:520 functions
+#: copy.php:517 functions.php:718
+msgid "Введите пароль"
+msgstr "Skriv inn passord"
+
+#: functions-w-root.php:700 !!!functions.php:477 functions17122022.php:716
+#: functions7122022.php:711 backup_antibot_functions.php:523 functions
+#: copy.php:520 functions.php:721
+msgid "Введите повтор пароля"
+msgstr "Skriv inn passordet ditt på nytt"
+
+#: inc/addons/popups.php:2462 inc/addons/popups.php:2469
+#: inc/addons/popups_new_test.php:399 inc/addons/popups_new_test.php:406
+msgid "Введите текст.."
+msgstr ""
+
+#: functions-w-root.php:4604 functions17122022.php:4620
+#: functions7122022.php:4615 functions.php:4730
+msgid "Введённые пароли не совпадают"
+msgstr "De angitte passordene stemmer ikke overens"
+
+#: inc/addons/fields/repeater.php:125
+msgid "Верифицированный"
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"Вероятно, вы могли перейти по ссылке, которая ведет на удаленный материал "
+"или сделали ошибку в адресе URL. Воспользуйтесь формой поиска, с помощью "
+"которой вы быстро найдёте искомую страницу или перейдете в нужный раздел."
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:914
+msgid "Виды поддержки"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:449
+msgid "Военная ипотека"
+msgstr ""
+
+#: inc/addons/!!!!popups.php:367 inc/addons/popups.php:860
+#: inc/addons/popups.php:916 inc/addons/popups.php:2139
+#: inc/addons/popups.php:2145 inc/addons/!popups.php:340
+msgid "Возникла ошибка"
+msgstr ""
+
+#: inc/addons/popups.php:2927 inc/addons/popups.php:2967
+#: inc/addons/popups.php:3140
+msgid "Возникла ошибка!"
+msgstr ""
+
+#: functions-w-root.php:534 !!!functions.php:296 functions17122022.php:550
+#: functions7122022.php:545 backup_antibot_functions.php:380 functions
+#: copy.php:377 functions.php:555 page-signin.php:29
+#: inc/addons/!!!!popups.php:157 inc/addons/popups.php:298
+#: inc/addons/!popups.php:157
+msgid "Войти"
+msgstr "Logg inn"
+
+#: inc/addons/navs/navs.php:269
+msgid "Войти в аккаунт"
+msgstr ""
+
+#: functions-w-root.php:501 !!!functions.php:263 functions17122022.php:517
+#: page-forgot-password.php:38 functions7122022.php:512 page-signup.php:48
+#: backup_antibot_functions.php:347 functions copy.php:344 functions.php:522
+#: inc/addons/popups.php:954
+msgid "Войти в мой аккаунт"
+msgstr "Logg inn på kontoen min"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:1376 inc/addons/comments.php:2197
+#: inc/addons/comments-1.php:1305 inc/addons/comments copy 2.php:2030
+#: inc/addons/comments copy.php:1384
+#: inc/addons/!бекап_пожаловаться_comments.php:1317
+#: inc/addons/11!comments.php:1317 inc/addons/comments-artem.php:1268
+#: inc/addons/comments-bc.php:1264
+msgid "Войти по E-mail и паролю"
+msgstr ""
+
+#: functions-w-root.php:502 functions-w-root.php:535 !!!functions.php:264
+#: !!!functions.php:297 functions17122022.php:518 functions17122022.php:551
+#: page-forgot-password.php:29 functions7122022.php:513
+#: functions7122022.php:546 page-signup.php:49 backup_antibot_functions.php:348
+#: backup_antibot_functions.php:381 functions copy.php:345 functions
+#: copy.php:378 functions.php:523 functions.php:556 page-signin.php:30
+#: inc/addons/!щдв-25-05-2021-comments.php:1862
+#: inc/addons/!!!!popups.php:158 inc/addons/comments.php:2683
+#: inc/addons/comments-1.php:1791 inc/addons/comments copy 2.php:2516
+#: inc/addons/comments copy.php:1870
+#: inc/addons/!бекап_пожаловаться_comments.php:1803
+#: inc/addons/popups.php:299 inc/addons/popups.php:942
+#: inc/addons/11!comments.php:1803 inc/addons/comments-artem.php:1754
+#: inc/addons/!popups.php:158 inc/addons/comments-bc.php:1750
+msgid "Восстановить пароль"
+msgstr "Gjenopprette passord"
+
+#: page-forgot-password.php:25 inc/addons/!щдв-25-05-2021-comments.php:1565
+#: inc/addons/comments.php:2386 inc/addons/comments-1.php:1494
+#: inc/addons/comments copy 2.php:2219 inc/addons/comments copy.php:1573
+#: inc/addons/!бекап_пожаловаться_comments.php:1506
+#: inc/addons/popups.php:938 inc/addons/11!comments.php:1506
+#: inc/addons/comments-artem.php:1457 inc/addons/comments-bc.php:1453
+msgid "Восстановление пароля"
+msgstr ""
+
+#: functions-w-root.php:4660 functions17122022.php:4676
+#: functions7122022.php:4671 functions.php:4786
+msgid "Восстановление пароля на сайте eto-razvod.ru"
+msgstr "Gjenoppretting av passord på no.revieweek.com"
+
+#: functions-w-root.php:4091 functions17122022.php:4107
+#: functions7122022.php:4102 backup_antibot_functions.php:10204 functions
+#: copy.php:10089 functions.php:4217
+msgid "Время:"
+msgstr "Tid:"
+
+#: !!!functions.php:896 inc/addons/add_links.php:133
+msgid "Все"
+msgstr ""
+
+#: inc/addons/search.php:102
+#: template-parts/blocks/big_search_main/big_search.php:154
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:154
+msgid "Все категории"
+msgstr ""
+
+#: inc/addons/search.php:291
+msgid "Все компании рубрики"
+msgstr ""
+
+#: functions-w-root.php:4197 functions17122022.php:4213
+#: functions7122022.php:4208 backup_antibot_functions.php:10303 functions
+#: copy.php:10188 functions.php:4323
+msgid "Все места"
+msgstr "Alle steder"
+
+#: inc/addons/user_functions.php:2082 inc/addons/user_functions.php:2153
+#: inc/addons/user_functions.php:2209
+msgid "Все платежи"
+msgstr ""
+
+#: inc/addons/review_widgets.php:731 inc/addons/review_widgets.php:733
+msgid "Все рейтинги"
+msgstr ""
+
+#: inc/addons/notify.php:357
+msgid "Все сообщения"
+msgstr ""
+
+#: functions-w-root.php:4191 functions17122022.php:4207
+#: functions7122022.php:4202 backup_antibot_functions.php:10297 functions
+#: copy.php:10182 functions.php:4317
+msgid "Все типы"
+msgstr "Alle typer"
+
+#: inc/addons/notify.php:180 inc/addons/notify.php:359
+#: inc/addons/user_functions.php:1635
+msgid "Все уведомления"
+msgstr ""
+
+#: functions-w-root.php:1168 functions-w-root.php:1170
+#: functions17122022.php:1184 functions17122022.php:1186
+#: functions7122022.php:1179 functions7122022.php:1181
+#: backup_antibot_functions.php:787 functions copy.php:775 functions.php:1199
+#: functions.php:1201 inc/addons/company_dashboard_functions.php:749
+#: inc/addons/similar.php:80 inc/addons/layout.php:1078
+msgid "Всего отзывов"
+msgstr "Total tilbakemelding"
+
+#: functions-w-root.php:164 functions-w-root.php:228 functions-w-root.php:525
+#: !!!functions.php:108 !!!functions.php:287 functions17122022.php:180
+#: functions17122022.php:244 functions17122022.php:541 functions7122022.php:175
+#: functions7122022.php:239 functions7122022.php:536
+#: backup_antibot_functions.php:148 backup_antibot_functions.php:371 functions
+#: copy.php:145 functions copy.php:368 functions.php:182 functions.php:246
+#: functions.php:546 page-signin.php:19
+#: inc/addons/!щдв-25-05-2021-comments.php:1309
+#: inc/addons/!щдв-25-05-2021-comments.php:1818
+#: inc/addons/!!!!popups.php:148 inc/addons/comments.php:2130
+#: inc/addons/comments.php:2639 inc/addons/comments-1.php:1238
+#: inc/addons/comments-1.php:1747 inc/addons/comments copy 2.php:1963
+#: inc/addons/comments copy 2.php:2472 inc/addons/comments copy.php:1317
+#: inc/addons/comments copy.php:1826
+#: inc/addons/!бекап_пожаловаться_comments.php:1250
+#: inc/addons/!бекап_пожаловаться_comments.php:1759
+#: inc/addons/popups.php:289 inc/addons/11!comments.php:1250
+#: inc/addons/11!comments.php:1759 inc/addons/comments-artem.php:1201
+#: inc/addons/comments-artem.php:1710 inc/addons/!popups.php:148
+#: inc/addons/comments-bc.php:1197 inc/addons/comments-bc.php:1706
+msgid "Вход"
+msgstr "Logg inn"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:1366
+#: inc/addons/!щдв-25-05-2021-comments.php:1851 inc/addons/comments.php:2187
+#: inc/addons/comments.php:2672 inc/addons/comments-1.php:1295
+#: inc/addons/comments-1.php:1780 inc/addons/comments copy 2.php:2020
+#: inc/addons/comments copy 2.php:2505 inc/addons/comments copy.php:1374
+#: inc/addons/comments copy.php:1859
+#: inc/addons/!бекап_пожаловаться_comments.php:1307
+#: inc/addons/!бекап_пожаловаться_comments.php:1792
+#: inc/addons/11!comments.php:1307 inc/addons/11!comments.php:1792
+#: inc/addons/comments-artem.php:1258 inc/addons/comments-artem.php:1743
+#: inc/addons/comments-bc.php:1254 inc/addons/comments-bc.php:1739
+msgid "Вход через соц. сети"
+msgstr ""
+
+#: functions-w-root.php:2726 functions17122022.php:2742
+#: functions7122022.php:2737 functions.php:2782
+#, php-format
+msgid ""
+"Вы авторизовались через %s. Чтобы иметь доступ ко всем функциям сайта, "
+"пожалуйста, укажите ваш E-mail в настройках профиля."
+msgstr ""
+"Du er logget inn via %s. For å få tilgang til alle funksjonene på nettstedet "
+"må du oppgi e-postadressen din i profilinnstillingene dine."
+
+#: inc/addons/!щдв-25-05-2021-comments.php:526 inc/addons/comments.php:1034
+#: inc/addons/comments-1.php:434 inc/addons/comments copy 2.php:893
+#: inc/addons/comments copy.php:534
+#: inc/addons/!бекап_пожаловаться_comments.php:446
+#: inc/addons/11!comments.php:446 inc/addons/comments-artem.php:397
+#: inc/addons/comments-bc.php:393
+msgid "Вы вошли через"
+msgstr ""
+
+#: functions-w-root.php:4657 functions17122022.php:4673
+#: functions7122022.php:4668 functions.php:4783
+#, php-format
+msgid "Вы запросили восстановление пароля для аккаунта: %s"
+msgstr "Du har bedt om gjenoppretting av passord for kontoen: %s"
+
+#: inc/addons/comments.php:1545 inc/addons/comments copy 2.php:1404
+msgid "Вы не можете проголосовать за себя"
+msgstr ""
+
+#: inc/addons/popups.php:891
+msgid "Вы не написали комментарий"
+msgstr ""
+
+#: inc/addons/!!!!popups.php:322 inc/addons/popups.php:731
+#: inc/addons/popups.php:2085 inc/addons/!popups.php:297
+msgid "Вы не написали отзыв"
+msgstr ""
+
+#: functions-w-root.php:668 !!!functions.php:446 functions17122022.php:684
+#: functions7122022.php:679 backup_antibot_functions.php:492 functions
+#: copy.php:489 functions.php:689 inc/addons/recent.php:11
+msgid "Вы недавно смотрели"
+msgstr "Har du nylig sett på"
+
+#: inc/addons/subscribe.php:89 inc/addons/subscribe.php:133
+#: template-parts/blocks/list_services2/page-prices.php:335
+#: template-parts/blocks/list_services/page-prices.php:344
+msgid "Вы подписаны"
+msgstr ""
+
+#: inc/addons/user_functions.php:559 inc/addons/user_functions.php:609
+#: inc/addons/user_functions.php:1676
+msgid "Вы подписаны на"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:935 inc/addons/comments.php:1513
+#: inc/addons/comments-1.php:843 inc/addons/comments copy 2.php:1372
+#: inc/addons/comments copy.php:943
+#: inc/addons/!бекап_пожаловаться_comments.php:855
+#: inc/addons/11!comments.php:855 inc/addons/comments-artem.php:806
+#: inc/addons/comments-bc.php:802
+msgid "Вы уже голосовали за этот комментарий"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:5004 inc/addons/comments.php:7656
+#: inc/addons/comments-1.php:4129 inc/addons/comments copy 2.php:7179
+#: inc/addons/comments copy.php:5012
+#: inc/addons/!бекап_пожаловаться_comments.php:4134
+#: inc/addons/11!comments.php:4126 inc/addons/comments-artem.php:4076
+#: inc/addons/comments-bc.php:4085
+msgid "Вы уже голосовали за эту страницу!"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:5082 inc/addons/comments.php:7734
+#: inc/addons/comments-1.php:4207 inc/addons/comments copy 2.php:7257
+#: inc/addons/comments copy.php:5090
+#: inc/addons/!бекап_пожаловаться_comments.php:4212
+#: inc/addons/11!comments.php:4204 inc/addons/comments-artem.php:4154
+#: inc/addons/comments-bc.php:4163
+msgid "Вы уже отправляли жалобу на этот комментарий"
+msgstr ""
+
+#: inc/addons/subscribe.php:178
+msgid "Вы уже подписались ранее"
+msgstr ""
+
+#: !!!functions.php:546 backup_antibot_functions.php:600 functions copy.php:593
+msgid "Вы успешно зарегистрировались с E-mail адресом:"
+msgstr ""
+
+#: functions-w-root.php:778 functions17122022.php:794 functions7122022.php:789
+#: functions.php:799
+#, php-format
+msgid "Вы успешно зарегистрировались с E-mail адресом: %s. Ваш пароль: %s"
+msgstr "Du har registrert deg med e-postadresse: %s. Ditt passord: %s"
+
+#: inc/addons/popups.php:2665
+msgid "Вы успешно зарегистрированы. Ваш пароль: "
+msgstr ""
+
+#: inc/addons/profile_functions.php:1007 inc/addons/profile_functions.php:1013
+#: inc/addons/profile_functions.php:1025 inc/addons/subscribe.php:13
+#: inc/addons/subscribe.php:192
+msgid "Вы успешно подписались"
+msgstr ""
+
+#: template-parts/blocks/big_search_main/big_search.php:153
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:153
+msgid "Выберите категорию или название компании"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2946 inc/addons/admin_fix.php:2992
+msgid "Выберите поле"
+msgstr ""
+
+#: template-rating-all.php:52
+msgid "Выберите рубрику"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2973 inc/addons/admin_fix.php:2981
+msgid "Выберите тип компании"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4696 inc/addons/comments.php:7314
+#: inc/addons/comments-1.php:3824 inc/addons/comments copy 2.php:6849
+#: inc/addons/comments copy.php:4704
+#: inc/addons/!бекап_пожаловаться_comments.php:3826
+#: inc/addons/admin_fix.php:1509 inc/addons/11!comments.php:3821
+#: inc/addons/comments-artem.php:3771 inc/addons/comments-bc.php:3780
+msgid "Выбрать"
+msgstr ""
+
+#: inc/addons/contents.php:14
+msgid "Выбрать раздел"
+msgstr ""
+
+#: functions-w-root.php:4180 functions17122022.php:4196
+#: functions7122022.php:4191 backup_antibot_functions.php:10286 functions
+#: copy.php:10171 functions.php:4306
+msgid "Выезжающий"
+msgstr "Å gå ut"
+
+#: inc/addons/fields/repeater.php:471
+msgid "Выигранные дела"
+msgstr ""
+
+#: functions-w-root.php:1977 functions17122022.php:1993
+#: functions7122022.php:1988 backup_antibot_functions.php:1253 functions
+#: copy.php:1222 functions.php:2009
+msgid "Выйти"
+msgstr "Gå til"
+
+#: inc/addons/navs/navs.php:307
+msgid "Выйти из аккаунта"
+msgstr ""
+
+#: backup_antibot_functions.php:2164 backup_antibot_functions.php:2186
+#: backup_antibot_functions.php:2209 backup_antibot_functions.php:2232
+#: functions copy.php:2039 functions copy.php:2058 functions copy.php:2078
+#: functions copy.php:2100 functions copy.php:2123 functions copy.php:2146
+msgid "Где взять промокод компании "
+msgstr ""
+
+#: inc/addons/admin_fix.php:186
+msgid "Где выводится?"
+msgstr ""
+
+#: functions-w-root.php:1966 functions17122022.php:1982
+#: functions7122022.php:1977 backup_antibot_functions.php:1243 functions
+#: copy.php:1213 functions.php:1998 inc/addons/breadcrumbs/breadcrumbs.php:13
+#: inc/addons/navs/navs.php:298
+msgid "Главная"
+msgstr "Hjem"
+
+#: inc/addons/popups.php:3982
+msgid "Год использования"
+msgstr "År for bruk"
+
+#: comment-single_view.php:442 comment-single_view.php:499 comment-single_view
+#: copy.php:315 comment-single_view copy.php:359 comment-single_view
+#: copy.php:1196 comment-single_view copy.php:1230
+#: comment-single_view_new.php:147 comment-single_view_new.php:181
+#: inc/addons/comments.php:4491 inc/addons/comments copy 2.php:4209
+#: inc/addons/popups.php:3386
+msgid "Год использования:"
+msgstr "År for bruk:"
+
+#: inc/addons/fields/!!!repeater.php:112 inc/addons/fields/repeater.php:513
+msgid "Горячий"
+msgstr ""
+
+#: inc/addons/popups.php:2451 inc/addons/popups.php:3375
+#: inc/addons/popups.php:3977 inc/addons/popups_new_test.php:388
+#: inc/addons/fields/!!!repeater.php:282 inc/addons/fields/repeater.php:587
+#: inc/addons/fields/repeater.php:595 inc/addons/fields/repeater.php:717
+msgid "Да"
+msgstr ""
+
+#: inc/addons/user_functions.php:923
+msgid "Данные пользователя"
+msgstr ""
+
+#: functions-w-root.php:4036 functions-w-root.php:4113
+#: functions17122022.php:4052 functions17122022.php:4129
+#: functions7122022.php:4047 functions7122022.php:4124
+#: backup_antibot_functions.php:10152 functions copy.php:10037
+#: functions.php:4162 functions.php:4239
+#: inc/addons/!щдв-25-05-2021-comments.php:4681 inc/addons/comments.php:7299
+#: inc/addons/comments-1.php:3809 inc/addons/comments copy 2.php:6834
+#: inc/addons/comments copy.php:4689
+#: inc/addons/!бекап_пожаловаться_comments.php:3811
+#: inc/addons/admin_fix.php:188 inc/addons/11!comments.php:3806
+#: inc/addons/comments-artem.php:3756 inc/addons/comments-bc.php:3765
+msgid "Дата"
+msgstr "Dato"
+
+#: inc/addons/admin_fix.php:1492
+msgid "Дата обновления"
+msgstr ""
+
+#: inc/addons/admin_fix.php:1491
+msgid "Дата отправки"
+msgstr ""
+
+#: inc/addons/admin_fix.php:1291
+msgid "Дата отправки, до"
+msgstr ""
+
+#: inc/addons/admin_fix.php:1287
+msgid "Дата отправки, от"
+msgstr ""
+
+#: functions-w-root.php:3999 functions17122022.php:4015
+#: functions7122022.php:4010 functions.php:4125
+msgid "Дата регистрации"
+msgstr "Dato for registrering"
+
+#: functions-w-root.php:4187 functions17122022.php:4203
+#: functions7122022.php:4198 backup_antibot_functions.php:10293 functions
+#: copy.php:10178 functions.php:4313
+msgid "Дефолтный"
+msgstr "Standard"
+
+#: functions-w-root.php:811 functions-w-root.php:880 !!!functions.php:578
+#: functions17122022.php:827 functions17122022.php:896 functions7122022.php:822
+#: functions7122022.php:891 backup_antibot_functions.php:632 functions
+#: copy.php:625 functions.php:832 functions.php:901
+#: template-parts/blocks/big_links/big_links.php:80
+msgid "Для компаний"
+msgstr "For bedrifter"
+
+#: template-parts/blocks/big_links/big_links.php:79
+msgid "Для пользователей"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:884
+msgid "До"
+msgstr ""
+
+#: inc/addons/popups.php:1882
+msgid "Добавить"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:1054
+#: inc/addons/company_dashboard_functions.php:1167
+msgid "Добавить акцию"
+msgstr ""
+
+#: inc/addons/admin_fix.php:3016
+msgid "Добавить значения в указанные обзоры"
+msgstr ""
+
+#: inc/addons/user_functions.php:1160
+msgid "Добавить интерес"
+msgstr ""
+
+#: functions-w-root.php:2040 functions17122022.php:2056
+#: functions7122022.php:2051 page-dashboard-add-company.php:58
+#: functions.php:2072 inc/addons/popups.php:2286
+#: inc/addons/user_functions.php:86 inc/addons/user_functions.php:3779
+msgid "Добавить компанию"
+msgstr "Legg til selskap"
+
+#: inc/addons/layout.php:348 inc/addons/layout.php:466
+msgid "Добавить новую компанию"
+msgstr ""
+
+#: functions-w-root.php:2037 functions17122022.php:2053
+#: functions7122022.php:2048 functions.php:2069
+msgid "Добавить обзор"
+msgstr "Legge til anmeldelse"
+
+#: comments.php:46 functions-w-root.php:2036 functions17122022.php:2052
+#: functions7122022.php:2047 header.php:351 header.php:472 functions.php:2068
+#: inc/addons/!!!!popups.php:90 inc/addons/comments.php:657 inc/addons/comments
+#: copy 2.php:516 inc/addons/popups.php:210 inc/addons/!popups.php:90
+msgid "Добавить отзыв"
+msgstr "Legg til anmeldelse"
+
+#: inc/addons/company_dashboard_functions.php:1052
+#: inc/addons/company_dashboard_functions.php:1165
+msgid "Добавить промокод"
+msgstr ""
+
+#: inc/addons/messages.php:342
+msgid "Добавьте или привяжите компанию"
+msgstr ""
+
+#: functions-w-root.php:765 functions-w-root.php:2718 functions17122022.php:781
+#: functions17122022.php:2734 functions7122022.php:776
+#: functions7122022.php:2729 functions.php:786 functions.php:2774
+msgid "Добро пожаловать на сайт!"
+msgstr ""
+
+#: inc/addons/messages.php:297
+msgid "Добрый день!"
+msgstr ""
+
+#: inc/addons/messages.php:295
+msgid "Добрый день,"
+msgstr ""
+
+#: functions-w-root.php:2649 functions17122022.php:2665
+#: functions7122022.php:2660 functions.php:2705
+msgid ""
+"Документ не найден. Вероятно, вы могли бы перейти по ссылке, которая ведёт "
+"на удаленный материал или сделали ошибку в адресе URL."
+msgstr ""
+"Dokumentet ble ikke funnet. Du kan sannsynligvis ha klikket på en lenke som "
+"fører til slettet materiale eller gjort en feil i nettadressen."
+
+#: inc/addons/popups.php:3922
+msgid "Дополнительная информация"
+msgstr ""
+
+#: inc/addons/!!!!popups.php:248 inc/addons/popups.php:406
+#: inc/addons/popups.php:461 inc/addons/user_functions.php:3344
+#: inc/addons/!popups.php:229
+msgid "Допустимые форматы: jpg, jpeg, png, gif"
+msgstr ""
+
+#: functions-w-root.php:4659 functions17122022.php:4675
+#: functions7122022.php:4670 functions.php:4785
+msgid ""
+"Если Вы не запрашивали восстановление пароля - то не переходите по этой "
+"ссылке."
+msgstr ""
+"Hvis du ikke har bedt om at passordet ditt skal gjenopprettes, ikke klikk på "
+"denne lenken."
+
+#: inc/addons/messages.php:320
+msgid "Если вы хотите:"
+msgstr ""
+
+#: inc/addons/messages.php:332
+msgid "Если вы – представитель компании и хотели бы:"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:292 inc/addons/fields/repeater.php:99
+#: inc/addons/fields/repeater.php:304 inc/addons/fields/repeater.php:725
+#: inc/addons/fields/repeater.php:727
+msgid "Есть"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:21 inc/addons/fields/repeater.php:24
+msgid "Есть мобильные приложения"
+msgstr ""
+
+#: functions-w-root.php:1190 !!!functions.php:691 functions17122022.php:1206
+#: functions7122022.php:1201 backup_antibot_functions.php:798 functions
+#: copy.php:786 functions.php:1221
+#: inc/addons/company_dashboard_functions.php:760 inc/addons/similar.php:91
+#: inc/addons/layout.php:1089
+msgid "Еще нет жалоб"
+msgstr "Ingen klager ennå"
+
+#: functions-w-root.php:1175 !!!functions.php:682 functions17122022.php:1191
+#: functions7122022.php:1186 backup_antibot_functions.php:789 functions
+#: copy.php:777 functions.php:1206
+#: inc/addons/company_dashboard_functions.php:751 inc/addons/similar.php:82
+#: inc/addons/layout.php:1080
+msgid "Еще нет отзывов"
+msgstr "Ingen anmeldelser ennå"
+
+#: comment-single_view_new.php:376
+msgid "Еще отзывы о компании"
+msgstr ""
+
+#: inc/addons/list_more_ajax.php:43 inc/addons/list_more_ajax.php:169
+#: inc/addons/list_more_ajax.php:299
+#: template-parts/blocks/list_more/list_more.php:50
+msgid "Еще по теме"
+msgstr ""
+
+#: inc/addons/comments.php:982 inc/addons/comments copy 2.php:841
+msgid "Ещё нет жалоб, будьте первым!"
+msgstr ""
+
+#: comments.php:83 inc/addons/comments.php:749 inc/addons/comments copy
+#: 2.php:608
+msgid "Ещё нет отзывов, будьте первым!"
+msgstr ""
+
+#: inc/addons/popups.php:3957
+msgid "ЖАЛОБА"
+msgstr "KRITIKK"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:765
+#: inc/addons/!щдв-25-05-2021-comments.php:1215
+#: inc/addons/!щдв-25-05-2021-comments.php:5031 inc/addons/comments.php:1273
+#: inc/addons/comments.php:2010 inc/addons/comments.php:7683
+#: inc/addons/comments-1.php:673 inc/addons/comments-1.php:1144
+#: inc/addons/comments-1.php:4156 inc/addons/comments copy 2.php:1132
+#: inc/addons/comments copy 2.php:1869 inc/addons/comments copy 2.php:7206
+#: inc/addons/comments copy.php:773 inc/addons/comments copy.php:1223
+#: inc/addons/comments copy.php:5039
+#: inc/addons/!бекап_пожаловаться_comments.php:685
+#: inc/addons/!бекап_пожаловаться_comments.php:1156
+#: inc/addons/!бекап_пожаловаться_comments.php:4161
+#: inc/addons/11!comments.php:685 inc/addons/11!comments.php:1156
+#: inc/addons/11!comments.php:4153 inc/addons/comments-artem.php:636
+#: inc/addons/comments-artem.php:1107 inc/addons/comments-artem.php:4103
+#: inc/addons/comments-bc.php:632 inc/addons/comments-bc.php:1103
+#: inc/addons/comments-bc.php:4112
+msgid "Жалоба на комментарий #"
+msgstr ""
+
+#: inc/addons/!!!!popups.php:123 inc/addons/popups.php:263
+#: inc/addons/!popups.php:123
+msgid "Жалоба на компанию"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:1231
+#: inc/addons/!щдв-25-05-2021-comments.php:5047 inc/addons/comments.php:2036
+#: inc/addons/comments.php:7699 inc/addons/comments-1.php:1160
+#: inc/addons/comments-1.php:4172 inc/addons/comments copy 2.php:1885
+#: inc/addons/comments copy 2.php:7222 inc/addons/comments copy.php:1239
+#: inc/addons/comments copy.php:5055
+#: inc/addons/!бекап_пожаловаться_comments.php:1172
+#: inc/addons/!бекап_пожаловаться_comments.php:4177
+#: inc/addons/11!comments.php:1172 inc/addons/11!comments.php:4169
+#: inc/addons/comments-artem.php:1123 inc/addons/comments-artem.php:4119
+#: inc/addons/comments-bc.php:1119 inc/addons/comments-bc.php:4128
+msgid "Жалоба на спам отправлена"
+msgstr ""
+
+#: functions-w-root.php:445 functions-w-root.php:1867 functions-w-root.php:1882
+#: functions-w-root.php:1970 !!!functions.php:977 functions17122022.php:461
+#: functions17122022.php:1883 functions17122022.php:1898
+#: functions17122022.php:1986 functions7122022.php:456
+#: functions7122022.php:1878 functions7122022.php:1893
+#: functions7122022.php:1981 backup_antibot_functions.php:1162
+#: backup_antibot_functions.php:1177 backup_antibot_functions.php:1246
+#: functions copy.php:1131 functions copy.php:1147 functions copy.php:1215
+#: functions.php:466 functions.php:1898 functions.php:1913 functions.php:2002
+#: inc/addons/!щдв-25-05-2021-comments.php:415 inc/addons/comments.php:898
+#: inc/addons/comments-1.php:341 inc/addons/comments copy 2.php:757
+#: inc/addons/comments copy.php:423
+#: inc/addons/!бекап_пожаловаться_comments.php:353
+#: inc/addons/11!comments.php:353 inc/addons/profile_functions.php:452
+#: inc/addons/comments-artem.php:310 inc/addons/comments-bc.php:306
+#: inc/addons/navs/navs.php:300
+msgid "Жалобы"
+msgstr "Klager"
+
+#: comment-single_view_new.php:811
+msgid "Жалобы:"
+msgstr "Klager:"
+
+#: inc/addons/review_widgets.php:208
+msgid "За год"
+msgstr ""
+
+#: inc/addons/review_widgets.php:207
+msgid "За месяц"
+msgstr ""
+
+#: inc/addons/review_widgets.php:206
+msgid "За неделю"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:1841 inc/addons/comments.php:2662
+#: inc/addons/comments-1.php:1770 inc/addons/comments copy 2.php:2495
+#: inc/addons/comments copy.php:1849
+#: inc/addons/!бекап_пожаловаться_comments.php:1782
+#: inc/addons/11!comments.php:1782 inc/addons/comments-artem.php:1733
+#: inc/addons/comments-bc.php:1729
+msgid "Забыли пароль?"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:544 inc/addons/comments.php:1052
+#: inc/addons/comments-1.php:452 inc/addons/comments copy 2.php:911
+#: inc/addons/comments copy.php:552
+#: inc/addons/!бекап_пожаловаться_comments.php:464
+#: inc/addons/11!comments.php:464 inc/addons/comments-artem.php:415
+#: inc/addons/comments-bc.php:411
+msgid "Завершите регистрацию или "
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:521 inc/addons/comments.php:1029
+#: inc/addons/comments-1.php:429 inc/addons/comments copy 2.php:888
+#: inc/addons/comments copy.php:529
+#: inc/addons/!бекап_пожаловаться_comments.php:441
+#: inc/addons/11!comments.php:441 inc/addons/comments-artem.php:392
+#: inc/addons/comments-bc.php:388
+msgid "Завершите регистрацию на сайте"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:610 inc/addons/comments.php:1118
+#: inc/addons/comments-1.php:518 inc/addons/comments copy 2.php:977
+#: inc/addons/comments copy.php:618
+#: inc/addons/!бекап_пожаловаться_comments.php:530
+#: inc/addons/11!comments.php:530 inc/addons/comments-artem.php:481
+#: inc/addons/comments-bc.php:477
+msgid "Завершить регистрацию"
+msgstr ""
+
+#: inc/addons/popups.php:2477 inc/addons/popups_new_test.php:414
+msgid "Заголовок"
+msgstr ""
+
+#: find-news.php:155 template-news.php:155 inc/addons/comments.php:746
+#: inc/addons/comments copy 2.php:605 inc/addons/news.php:307
+#: inc/addons/news.php:393
+msgid "Загрузить еще"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4140
+#: inc/addons/!щдв-25-05-2021-comments.php:4207 inc/addons/comments.php:6758
+#: inc/addons/comments.php:6825 inc/addons/comments-1.php:3269
+#: inc/addons/comments-1.php:3336 inc/addons/comments copy 2.php:6293
+#: inc/addons/comments copy 2.php:6360 inc/addons/comments copy.php:4148
+#: inc/addons/comments copy.php:4215
+#: inc/addons/!бекап_пожаловаться_comments.php:3271
+#: inc/addons/!бекап_пожаловаться_comments.php:3338
+#: inc/addons/11!comments.php:3266 inc/addons/11!comments.php:3333
+#: inc/addons/comments-artem.php:3219 inc/addons/comments-artem.php:3286
+#: inc/addons/comments-bc.php:3228 inc/addons/comments-bc.php:3295
+msgid "Загрузить из интернета"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4146
+#: inc/addons/!щдв-25-05-2021-comments.php:4213 inc/addons/comments.php:6764
+#: inc/addons/comments.php:6831 inc/addons/comments-1.php:3275
+#: inc/addons/comments-1.php:3342 inc/addons/comments copy 2.php:6299
+#: inc/addons/comments copy 2.php:6366 inc/addons/comments copy.php:4154
+#: inc/addons/comments copy.php:4221
+#: inc/addons/!бекап_пожаловаться_comments.php:3277
+#: inc/addons/!бекап_пожаловаться_comments.php:3344
+#: inc/addons/11!comments.php:3272 inc/addons/11!comments.php:3339
+#: inc/addons/comments-artem.php:3225 inc/addons/comments-artem.php:3292
+#: inc/addons/comments-bc.php:3234 inc/addons/comments-bc.php:3301
+msgid "Загрузить с компьютера"
+msgstr ""
+
+#: inc/addons/messages.php:302
+msgid "Заполнение вашего профиля на сайте."
+msgstr ""
+
+#: inc/addons/messages.php:310
+msgid ""
+"Заполнить личный кабинет, чтобы другие пользователи узнали больше о вас и вы "
+"лучше себя позиционировали в нашем сообществе."
+msgstr ""
+
+#: functions-w-root.php:532 !!!functions.php:294 functions17122022.php:548
+#: functions7122022.php:543 backup_antibot_functions.php:378 functions
+#: copy.php:375 functions.php:553 page-signin.php:27
+#: inc/addons/!щдв-25-05-2021-comments.php:1838
+#: inc/addons/!!!!popups.php:155 inc/addons/comments.php:2659
+#: inc/addons/comments-1.php:1767 inc/addons/comments copy 2.php:2492
+#: inc/addons/comments copy.php:1846
+#: inc/addons/!бекап_пожаловаться_comments.php:1779
+#: inc/addons/popups.php:296 inc/addons/11!comments.php:1779
+#: inc/addons/comments-artem.php:1730 inc/addons/!popups.php:155
+#: inc/addons/comments-bc.php:1726
+msgid "Запомнить меня"
+msgstr "Husk meg"
+
+#: functions-w-root.php:487 !!!functions.php:252 functions17122022.php:503
+#: functions7122022.php:498 page-signup.php:35 backup_antibot_functions.php:336
+#: functions copy.php:333 functions.php:508
+#: template-parts/blocks/cta/cta_reg.php:80 inc/addons/navs/navs.php:270
+msgid "Зарегистрироваться"
+msgstr "Registrere"
+
+#: inc/addons/admin_fix.php:2229 inc/addons/admin_fix.php:2230
+msgid "Заявки по компаниям"
+msgstr ""
+
+#: functions-w-root.php:5564 functions17122022.php:5580
+#: functions7122022.php:5575 functions.php:5702
+#, php-format
+msgid ""
+"Здравствуйте, %s!<br>\n"
+"\n"
+"Ваш отзыв %s был опубликован на сайте со статусом «Достоверный». Ваш отзыв "
+"участвует в рейтинге компании.\n"
+"<br><br>\n"
+"Следите за ответом компании и комментариями пользователей к вашему отзыву "
+"любым удобным способом – через личный кабинет, почту или на сайте в карточке "
+"компании.\n"
+"<br><br>\n"
+"Правила пользования сервисом <a href=\"https://eto-razvod.ru/rules/\">https:"
+"//eto-razvod.ru/rules/</a>.<br><br>\n"
+"\n"
+"С уважением, <br>\n"
+"Администрация сайта <br>\n"
+msgstr ""
+"Hei %s!<br>\n"
+"\n"
+"Din anmeldelse %s har blitt publisert på nettstedet med statusen "
+"\"Autentisk\". Din anmeldelse er inkludert i vurderingen av selskapet.\n"
+"<br><br>\n"
+"Følg selskapets svar og brukerkommentarer til din anmeldelse på en passende "
+"måte - gjennom din personlige konto, mail eller på nettsiden i firmakortet.\n"
+"<br><br>\n"
+"Regler for bruk av tjenesten <a href=\"https://no.revieweek.com/rules/\">"
+"https://no.revieweek.com/rules/</a>.<br><br>\n"
+"\n"
+"Med vennlig hilsen <br>\n"
+"Nettstedsadministrasjon <br>"
+
+#: functions-w-root.php:5651 functions17122022.php:5667
+#: functions7122022.php:5662 functions.php:5789
+#, php-format
+msgid ""
+"Здравствуйте, %s!<br>\n"
+"\n"
+"Ваш отзыв %s был опубликован на сайте со статусом «Недостоверный». Ваш отзыв "
+"не участвует в рейтинге компании.\n"
+"<br><br>\n"
+"Следите за ответом компании и комментариями пользователей к вашему отзыву "
+"любым удобным способом – через личный кабинет, почту или на сайте в карточке "
+"компании.\n"
+"<br><br>\n"
+"Чтобы получить статус «Одобрен к публикации», добавьте к отзыву больше "
+"текста и подробной  информации о пользовании услугами компании. Чтобы "
+"получить статус «Достоверный», добавьте к отзыву фото доказательств "
+"пользования услугами компании.\n"
+"<br><br>\n"
+"Это могут быть фото или скриншоты договора с компанией, чека оплаты услуги, "
+"чека, подтверждающего перевод денег онлайн, других документов, "
+"подтверждающих ваше взаимодействие с компанией.\n"
+"<br><br>\n"
+"После исправления ваш отзыв автоматически отправится на повторную проверку "
+"модераторами.\n"
+"<br><br>\n"
+"Правила пользования сервисом <a href=\"https://eto-razvod.ru/rules/\">https:"
+"//eto-razvod.ru/rules/</a>.<br><br>\n"
+"\n"
+"С уважением, <br>\n"
+"Администрация сайта <br>\n"
+msgstr ""
+"Hei %s!<br>\n"
+"\n"
+"Din anmeldelse %s ble publisert på nettstedet med statusen \"Ugyldig\". Din "
+"anmeldelse er ikke inkludert i vurderingen av selskapet.\n"
+"<br><br>\n"
+"Følg selskapets svar og brukerkommentarer til din anmeldelse på en passende "
+"måte - gjennom din personlige konto, mail eller på nettsiden i firmakortet.\n"
+"<br><br>\n"
+"For å få statusen \"Godkjent for publisering\", legg til mer tekst og "
+"detaljer om bruken av selskapets tjenester til anmeldelsen. For å få "
+"statusen \"Pålitelig\", legg til anmeldelsen et bilde av bevis på bruk av "
+"selskapets tjenester.\n"
+"<br><br>\n"
+"Dette kan være bilder eller skjermbilder av en avtale med selskapet, en "
+"kvittering for betaling for en tjeneste, en kvittering som bekrefter "
+"overføring av penger på nett, og andre dokumenter som bekrefter din "
+"interaksjon med selskapet.\n"
+"<br><br>\n"
+"Når den er rettet, vil anmeldelsen din automatisk bli sjekket på nytt av "
+"moderatorer.\n"
+"<br><br>\n"
+"Regler for bruk av tjenesten <a href=\"https://no.revieweek.com/rules/\">"
+"https://no.revieweek.com/rules/</a>.<br><br>\n"
+"\n"
+"Med vennlig hilsen <br>\n"
+"Nettstedsadministrasjon <br>"
+
+#: functions-w-root.php:5479 functions17122022.php:5495
+#: functions7122022.php:5490 functions.php:5617
+#, php-format
+msgid ""
+"Здравствуйте, %s!<br>\n"
+"\n"
+"Ваш отзыв %s был опубликован на сайте со статусом «Одобрен к публикации». "
+"Ваш отзыв участвует в рейтинге компании.\n"
+"<br><br>\n"
+"Следите за ответом компании и комментариями пользователей к вашему отзыву "
+"любым удобным способом – через личный кабинет, почту или на сайте в карточке "
+"компании.\n"
+"<br><br>\n"
+"Чтобы получить статус «Достоверный», добавьте к отзыву фото доказательств "
+"пользования услугами компании. Это могут быть фото или скриншоты договора с "
+"компанией, чека оплаты услуги, чека, подтверждающего перевод денег онлайн, "
+"других документов, подтверждающих ваше взаимодействие с компанией.\n"
+"<br><br>\n"
+"После исправления ваш отзыв автоматически отправится на повторную проверку "
+"модераторами.\n"
+"<br><br>\n"
+"Правила пользования сервисом <a href=\"https://eto-razvod.ru/rules/\">https:"
+"//eto-razvod.ru/rules/</a>.<br><br>\n"
+"\n"
+"С уважением, <br>\n"
+"Администрация сайта <br>\n"
+msgstr ""
+"Hei %s!<br>\n"
+"\n"
+"Din anmeldelse %s har blitt publisert på nettstedet med statusen \"Godkjent "
+"for publisering\". Din anmeldelse er inkludert i vurderingen av selskapet.\n"
+"<br><br>\n"
+"Følg selskapets svar og brukerkommentarer til din anmeldelse på en passende "
+"måte - gjennom din personlige konto, mail eller på nettsiden i firmakortet.\n"
+"<br><br>\n"
+"For å få statusen \"Pålitelig\", legg til anmeldelsen et bilde av bevis på "
+"bruk av selskapets tjenester. Dette kan være bilder eller skjermbilder av en "
+"avtale med selskapet, en kvittering for betaling for en tjeneste, en "
+"kvittering som bekrefter overføring av penger på nett, og andre dokumenter "
+"som bekrefter din interaksjon med selskapet.\n"
+"<br><br>\n"
+"Når den er rettet, vil anmeldelsen din automatisk bli sjekket på nytt av "
+"moderatorer.\n"
+"<br><br>\n"
+"Regler for bruk av tjenesten <a href=\"https://no.revieweek.com/rules/\">"
+"https://no.revieweek.com/rules/</a>.<br><br>\n"
+"\n"
+"Med vennlig hilsen <br>\n"
+"Nettstedsadministrasjon <br>"
+
+#: functions-w-root.php:5870 functions17122022.php:5886
+#: functions7122022.php:5881 functions.php:6008
+#, php-format
+msgid ""
+"Здравствуйте, %s!<br>\n"
+"\n"
+"Ваш отзыв на компанию %s снят с публикации модератором сайта по этим "
+"причинам:<br>\n"
+"<ul class=\"ul_notify\">\n"
+"<li>содержание отзыва оскорбительно или запрещено законом</li>\n"
+"<li>отзыв содержит мало полезных сведений о товаре / услуге</li>\n"
+"<li>запрещено размещать отзывы с упоминанием фамилий, имен и других "
+"персональных данных</li>\n"
+"<li>запрещено размещать отзывы со ссылками</li>\n"
+"<li>запрещено размещать отзывы с рекламой.</li>\n"
+"</ul>\n"
+"Правила пользования сервисом <a href=\"https://eto-razvod.ru/rules/\">https:"
+"//eto-razvod.ru/rules/</a>.<br><br>\n"
+"\n"
+"Заблокированные отзывы доступны в вашем профиле. После исправления отзывы "
+"автоматически отправляются на повторную проверку модераторами.<br><br>\n"
+"\n"
+"С уважением, <br>\n"
+"Администрация сайта <br>\n"
+msgstr ""
+"Hei %s!<br>\n"
+"\n"
+"Din anmeldelse av %s har blitt fjernet fra publisering av "
+"nettstedmoderatoren av disse grunnene:<br>\n"
+"<ul class=\"ul_notify\">\n"
+"<li>Innholdet i anmeldelsen er støtende eller forbudt ved lov</li>\n"
+"<li>anmeldelsen inneholder lite nyttig informasjon om "
+"produktet/tjenesten</li>\n"
+"<li>det er forbudt å legge ut anmeldelser som nevner etternavn, navn og "
+"andre personlige data</li>\n"
+"<li>ikke tillatt å legge inn anmeldelser med linker</li>\n"
+"<li>Det er forbudt å legge inn anmeldelser sammen med reklame.</li>\n"
+"</ul>\n"
+"Regler for bruk av tjenesten <a href=\"https://no.revieweek.com/rules/\">"
+"https://no.revieweek.com/rules/</a>.<br><br>\n"
+"\n"
+"Blokkerte anmeldelser er tilgjengelige på profilen din. Etter korrigering "
+"sendes anmeldelser automatisk for ny kontroll av moderatorer.<br><br>\n"
+"\n"
+"Med vennlig hilsen <br>\n"
+"Nettstedsadministrasjon <br>"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:769 inc/addons/comments.php:1277
+#: inc/addons/comments-1.php:677 inc/addons/comments copy 2.php:1136
+#: inc/addons/comments copy.php:777
+#: inc/addons/!бекап_пожаловаться_comments.php:689
+#: inc/addons/11!comments.php:689 inc/addons/comments-artem.php:640
+#: inc/addons/comments-bc.php:636
+msgid "Здравствуйте. Поступила жалоба на комментарий #"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:1220
+#: inc/addons/!щдв-25-05-2021-comments.php:5036 inc/addons/comments.php:2015
+#: inc/addons/comments.php:7688 inc/addons/comments-1.php:1149
+#: inc/addons/comments-1.php:4161 inc/addons/comments copy 2.php:1874
+#: inc/addons/comments copy 2.php:7211 inc/addons/comments copy.php:1228
+#: inc/addons/comments copy.php:5044
+#: inc/addons/!бекап_пожаловаться_comments.php:1161
+#: inc/addons/!бекап_пожаловаться_comments.php:4166
+#: inc/addons/11!comments.php:1161 inc/addons/11!comments.php:4158
+#: inc/addons/comments-artem.php:1112 inc/addons/comments-artem.php:4108
+#: inc/addons/comments-bc.php:1108 inc/addons/comments-bc.php:4117
+msgid "Здравствуйте. Поступила жалоба на спам в комментарии #"
+msgstr ""
+
+#: 404.php:12
+msgid "Извините, страница не существует"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2469 inc/addons/admin_fix.php:2470
+msgid "Изменение данных по компании"
+msgstr ""
+
+#: functions-w-root.php:4173 functions17122022.php:4189
+#: functions7122022.php:4184 backup_antibot_functions.php:10279 functions
+#: copy.php:10164 functions.php:4299
+msgid "Изображение"
+msgstr "Bilde"
+
+#: inc/addons/!!!!popups.php:238 inc/addons/popups.php:396
+#: inc/addons/popups.php:451 inc/addons/user_functions.php:3330
+#: inc/addons/!popups.php:219
+msgid "Изображение успешно загружено"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:3927
+#: inc/addons/!щдв-25-05-2021-comments.php:3989 inc/addons/comments.php:6483
+#: inc/addons/comments.php:6581 inc/addons/comments-1.php:3056
+#: inc/addons/comments-1.php:3118 inc/addons/comments copy 2.php:6079
+#: inc/addons/comments copy 2.php:6141 inc/addons/comments copy.php:3935
+#: inc/addons/comments copy.php:3997
+#: inc/addons/!бекап_пожаловаться_comments.php:3058
+#: inc/addons/!бекап_пожаловаться_comments.php:3120
+#: inc/addons/11!comments.php:3053 inc/addons/11!comments.php:3115
+#: inc/addons/comments-artem.php:3006 inc/addons/comments-artem.php:3068
+#: inc/addons/comments-bc.php:3015 inc/addons/comments-bc.php:3077
+msgid "Изображение успешно загружено!"
+msgstr ""
+
+#: inc/addons/messages.php:303
+msgid "Изучение материалов сайта."
+msgstr ""
+
+#: functions-w-root.php:1019 functions17122022.php:1035
+#: functions7122022.php:1030 functions.php:1041
+msgid "Изучите все категории"
+msgstr "Utforsk alle kategorier"
+
+#: !!!functions.php:642 backup_antibot_functions.php:698 functions copy.php:691
+msgid "Изучите популярные категории"
+msgstr ""
+
+#: functions-w-root.php:3858 functions-w-root.php:3886
+#: functions17122022.php:3874 functions17122022.php:3902
+#: functions7122022.php:3869 functions7122022.php:3897 functions.php:3984
+#: functions.php:4012
+#, php-format
+msgid ""
+"Изучите промокоды %s, скопируйте нужный промокод и используйте его при "
+"заказе услуг в компании %s."
+msgstr ""
+"Utforsk %s-kampanjekoder, kopier kampanjekoden du ønsker og bruk den når du "
+"bestiller tjenester fra %s."
+
+#: functions-w-root.php:3753 functions17122022.php:3769
+#: functions7122022.php:3764 functions.php:3879
+#, php-format
+msgid ""
+"Изучите промокоды на нашем сайте, скопируйте нужный промокод и используйте "
+"его при заказе услуг в компании %s."
+msgstr ""
+"Utforsk kampanjekodene på nettstedet vårt, kopier den nødvendige "
+"kampanjekoden og bruk den når du bestiller tjenester fra %s."
+
+#: functions-w-root.php:3804 functions-w-root.php:3831
+#: functions17122022.php:3820 functions17122022.php:3847
+#: functions7122022.php:3815 functions7122022.php:3842 functions.php:3930
+#: functions.php:3957
+#, php-format
+msgid ""
+"Изучите промокоды, скопируйте нужный промокод и используйте его при заказе "
+"услуг в компании %s."
+msgstr ""
+"Utforsk kampanjekodene, kopier den nødvendige kampanjekoden og bruk den når "
+"du bestiller tjenester fra %s."
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4612
+#: inc/addons/!щдв-25-05-2021-comments.php:4613 inc/addons/comments.php:7230
+#: inc/addons/comments.php:7231 inc/addons/comments-1.php:3740
+#: inc/addons/comments-1.php:3741 inc/addons/comments copy 2.php:6765
+#: inc/addons/comments copy 2.php:6766 inc/addons/comments copy.php:4620
+#: inc/addons/comments copy.php:4621
+#: inc/addons/!бекап_пожаловаться_comments.php:3742
+#: inc/addons/!бекап_пожаловаться_comments.php:3743
+#: inc/addons/11!comments.php:3737 inc/addons/11!comments.php:3738
+#: inc/addons/comments-artem.php:3687 inc/addons/comments-artem.php:3688
+#: inc/addons/comments-bc.php:3696 inc/addons/comments-bc.php:3697
+msgid "Импорт из Cackle"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4630 inc/addons/comments.php:7248
+#: inc/addons/comments-1.php:3758 inc/addons/comments copy 2.php:6783
+#: inc/addons/comments copy.php:4638
+#: inc/addons/!бекап_пожаловаться_comments.php:3760
+#: inc/addons/11!comments.php:3755 inc/addons/comments-artem.php:3705
+#: inc/addons/comments-bc.php:3714
+msgid "Импорт комментариев из Cackle"
+msgstr ""
+
+#: functions-w-root.php:482 !!!functions.php:247 functions17122022.php:498
+#: functions7122022.php:493 page-signup.php:29 backup_antibot_functions.php:331
+#: functions copy.php:328 functions.php:503 inc/addons/popups.php:2581
+msgid "Имя"
+msgstr "Navn"
+
+#: inc/addons/fields/!!!repeater.php:154 inc/addons/fields/repeater.php:559
+msgid "Интернет-эквайринг:"
+msgstr ""
+
+#: inc/addons/profile_functions.php:444
+msgid "Информация"
+msgstr ""
+
+#: functions17122022.php:70 functions.php:70
+#: template-parts/blocks/big_search_main/big_search.php:64
+#: template-parts/blocks/big_search_main/big_search.php:198
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:64
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:198
+#: template-parts/blocks/big_search/big_search.php:75
+#: template-parts/blocks/big_search/big_search.php:196
+msgid "Искать"
+msgstr ""
+
+#: functions-w-root.php:542 !!!functions.php:258 !!!functions.php:302
+#: functions17122022.php:558 page-forgot-password.php:34
+#: functions7122022.php:553 backup_antibot_functions.php:342
+#: backup_antibot_functions.php:386 functions copy.php:339 functions
+#: copy.php:383 functions.php:563 page-signin.php:35
+#: inc/addons/!!!!popups.php:163 inc/addons/popups.php:949
+#: inc/addons/!popups.php:163
+msgid "Используйте сервисы для входа"
+msgstr "Bruk tjenester for å logge inn"
+
+#: functions-w-root.php:495 functions17122022.php:511 functions7122022.php:506
+#: page-signup.php:41 functions.php:516 inc/addons/popups.php:306
+msgid "Используйте сервисы для регистрации"
+msgstr "Bruk tjenester for å registrere deg"
+
+#: functions-w-root.php:2360 functions17122022.php:2376
+#: functions7122022.php:2371 backup_antibot_functions.php:1534 functions
+#: copy.php:1459 functions.php:2392
+#: template-parts/blocks/popular_categories/popular_categories.php:949
+msgid "Истекает сегодня"
+msgstr "Utløper i dag"
+
+#: functions-w-root.php:2363 functions17122022.php:2379
+#: functions7122022.php:2374 backup_antibot_functions.php:1537 functions
+#: copy.php:1462 functions.php:2395
+#: template-parts/blocks/popular_categories/popular_categories.php:952
+msgid "Истекает через"
+msgstr "Utløper i"
+
+#: inc/addons/admin_fix.php:3228 inc/addons/admin_fix.php:3229
+msgid "Истекшие промокоды (в ручную)"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:602
+msgid "КАСКО"
+msgstr ""
+
+#: inc/addons/popups.php:3959
+msgid "КОММЕНТАРИЙ/ОТВЕТ"
+msgstr ""
+
+#: inc/addons/popups.php:2433
+msgid "Как давно пользовались?"
+msgstr ""
+
+#: functions-w-root.php:3751 functions-w-root.php:3776
+#: functions-w-root.php:3801 functions-w-root.php:3828
+#: functions-w-root.php:3855 functions-w-root.php:3883
+#: functions17122022.php:3767 functions17122022.php:3792
+#: functions17122022.php:3817 functions17122022.php:3844
+#: functions17122022.php:3871 functions17122022.php:3899
+#: functions7122022.php:3762 functions7122022.php:3787
+#: functions7122022.php:3812 functions7122022.php:3839
+#: functions7122022.php:3866 functions7122022.php:3894 functions.php:3877
+#: functions.php:3902 functions.php:3927 functions.php:3954 functions.php:3981
+#: functions.php:4009
+#, php-format
+msgid "Как использовать промокод на сайте %s?"
+msgstr "Hvordan bruker jeg en kampanjekode på %s nettsted?"
+
+#: inc/addons/review_widgets.php:209
+msgid "Как формируются рейтинги"
+msgstr ""
+
+#: functions-w-root.php:3743 functions-w-root.php:3770
+#: functions-w-root.php:3795 functions-w-root.php:3821
+#: functions-w-root.php:3848 functions-w-root.php:3875
+#: functions17122022.php:3759 functions17122022.php:3786
+#: functions17122022.php:3811 functions17122022.php:3837
+#: functions17122022.php:3864 functions17122022.php:3891
+#: functions7122022.php:3754 functions7122022.php:3781
+#: functions7122022.php:3806 functions7122022.php:3832
+#: functions7122022.php:3859 functions7122022.php:3886 functions.php:3869
+#: functions.php:3896 functions.php:3921 functions.php:3947 functions.php:3974
+#: functions.php:4001
+#, php-format
+msgid "Какие есть промокоды, купоны и скидки %s на %s?"
+msgstr "Hvilke kampanjekoder, kuponger og rabatter %s finnes det for %s?"
+
+#: inc/addons/table/table.php:358
+msgid "Карта"
+msgstr ""
+
+#: inc/addons/admin_fix.php:689 inc/addons/admin_fix.php:690
+msgid "Клики"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:681 inc/addons/fields/repeater.php:1278
+msgid "Комиссия"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4024 inc/addons/comments.php:6642
+#: inc/addons/comments-1.php:3153 inc/addons/comments copy 2.php:6177
+#: inc/addons/comments copy.php:4032
+#: inc/addons/!бекап_пожаловаться_comments.php:3155
+#: inc/addons/11!comments.php:3150 inc/addons/comments-artem.php:3103
+#: inc/addons/comments-bc.php:3112
+msgid "Комментировать"
+msgstr ""
+
+#: header.php:300 header.php:421 inc/addons/popups.php:1881
+#: inc/addons/search.php:672
+msgid "Компании"
+msgstr "Selskaper"
+
+#: inc/addons/layout.php:191 inc/addons/layout.php:465
+msgid "Компании не найдены"
+msgstr ""
+
+#: inc/addons/review_widgets.php:37 inc/addons/review_widgets.php:122
+msgid "Компания"
+msgstr ""
+
+#: inc/addons/review_widgets.php:202
+msgid "Компания в рейтингах"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:917
+#: inc/addons/company_dashboard_functions.php:962
+#: inc/addons/profile_functions.php:37 inc/addons/profile_functions.php:40
+#: inc/addons/user_functions.php:1118
+msgid "Контакты"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:128 inc/addons/fields/repeater.php:214
+msgid "Криптовалюта"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:321 inc/addons/fields/repeater.php:797
+msgid "Круглосуточно"
+msgstr ""
+
+#: functions-w-root.php:5216 functions17122022.php:5232
+#: functions7122022.php:5227 functions.php:5342
+#, php-format
+msgid "Купить %s на Binance"
+msgstr "Kjøp %s på Binance"
+
+#: !!!functions.php:898 inc/addons/add_links.php:135
+msgid "Купоны"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:165 inc/addons/fields/repeater.php:201
+#: inc/addons/fields/repeater.php:205 inc/addons/fields/repeater.php:252
+#: inc/addons/fields/repeater.php:288 inc/addons/fields/repeater.php:292
+msgid "Лимиты отсутствуют"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:51 inc/addons/fields/repeater.php:308
+msgid "Лицензирована"
+msgstr ""
+
+#: inc/addons/banners.php:2268 inc/addons/banners.php:3245
+#: inc/addons/banners.php:3853 inc/addons/banners copy.php:1063
+#: inc/addons/!!!!!banners.php:549
+msgid "Лучшие бонусы категории"
+msgstr ""
+
+#: inc/addons/review_widgets.php:9
+msgid "Лучшие компании в рейтинге"
+msgstr ""
+
+#: functions-w-root.php:4203 functions17122022.php:4219
+#: functions7122022.php:4214 backup_antibot_functions.php:10309 functions
+#: copy.php:10194 functions.php:4329
+msgid "Любой таргетинг"
+msgstr "Eventuell målretting"
+
+#: inc/addons/admin_fix.php:2969
+msgid "Массовое обновление обзоров"
+msgstr ""
+
+#: !!!functions.php:368 inc/addons/search.php:826
+msgid "Материалы по Вашему запросу не найдены"
+msgstr ""
+
+#: inc/addons/review_widgets.php:38 inc/addons/review_widgets.php:123
+#: inc/addons/review_widgets.php:212
+msgid "Место"
+msgstr "Beliggenhet"
+
+#: functions-w-root.php:4034 functions17122022.php:4050
+#: functions7122022.php:4045 backup_antibot_functions.php:10150 functions
+#: copy.php:10035 functions.php:4160
+msgid "Место размещения"
+msgstr ""
+
+#: functions-w-root.php:4937 functions17122022.php:4953
+#: functions7122022.php:4948 functions.php:5063
+msgid "Метка:"
+msgstr "Tag:"
+
+#: functions-w-root.php:4185 functions17122022.php:4201
+#: functions7122022.php:4196 backup_antibot_functions.php:10291 functions
+#: copy.php:10176 functions.php:4311
+msgid "Метки"
+msgstr "Merkelapper"
+
+#: functions-w-root.php:4058 functions17122022.php:4074
+#: functions7122022.php:4069 backup_antibot_functions.php:10171 functions
+#: copy.php:10056 functions.php:4184
+msgid "Метки:"
+msgstr "Merkelapper:"
+
+#: comment-single_view.php:751 comment-single_view copy.php:466
+#: comment-single_view copy.php:1337 comment-single_view_new.php:288
+#: inc/addons/comments.php:4916 inc/addons/comments copy 2.php:4578
+#: inc/addons/popups.php:2467 inc/addons/popups.php:3358
+#: inc/addons/comments_new.php:992 inc/addons/popups_new_test.php:404
+msgid "Минусы"
+msgstr ""
+
+#: inc/addons/popups.php:3993
+msgid "Минусы:"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:148 inc/addons/fields/repeater.php:553
+msgid "Мобильный эквайринг:"
+msgstr ""
+
+#: functions-w-root.php:444 functions-w-root.php:1997 functions17122022.php:460
+#: functions17122022.php:2013 functions7122022.php:455
+#: functions7122022.php:2008 functions.php:465 functions.php:2029
+msgid "Мои компании"
+msgstr "Mine selskaper"
+
+#: inc/addons/fields/!!!repeater.php:588 inc/addons/fields/!!!repeater.php:705
+#: inc/addons/fields/repeater.php:1180 inc/addons/fields/repeater.php:1302
+msgid "Моментально"
+msgstr ""
+
+#: functions-w-root.php:957 !!!functions.php:621 functions17122022.php:973
+#: functions7122022.php:968 backup_antibot_functions.php:676 functions
+#: copy.php:669 functions.php:978
+msgid "Мы в социальных сетях"
+msgstr "Vi er på sosiale medier"
+
+#: functions-w-root.php:325 functions17122022.php:341 functions7122022.php:336
+#: functions.php:345
+msgid ""
+"Мы используем <a href=\"/privacy-policy/\" target=\"_blank\">файлы cookie</a>"
+"."
+msgstr "Vi bruker <a href=\"/privacy-policy/\" target=\"_blank\">cookies</a>."
+
+#: functions-w-root.php:325 functions17122022.php:341 functions7122022.php:336
+#: functions.php:345
+msgid ""
+"Мы используем файлы cookie, ознакомьтесь <br>с <a href=\"/privacy-policy/\" "
+"target=\"_blank\">Политикой конфиденциальности</a>."
+msgstr ""
+"Vi bruker informasjonskapsler, vennligst les <a href=\"/privacy-policy/\" "
+"target=\"_blank\">Privacy Policy</a>."
+
+#: functions-w-root.php:766 functions-w-root.php:2721 functions17122022.php:782
+#: functions17122022.php:2737 functions7122022.php:777
+#: functions7122022.php:2732 functions.php:787 functions.php:2777
+#, php-format
+msgid ""
+"Мы отправили письмо для активации на ваш адрес %s. Пожалуйста, перейдите по "
+"ссылке, чтобы подтвердить ваш E-mail."
+msgstr ""
+"Vi har sendt en aktiverings-e-post til din %s-adresse. Klikk på lenken for å "
+"bekrefte e-posten din."
+
+#: functions-w-root.php:3772 functions17122022.php:3788
+#: functions7122022.php:3783 functions.php:3898
+#, php-format
+msgid ""
+"На %s актуален %s промокод %s, который позволит сэкономить на покупках %s. "
+"Его действие закончится %s."
+msgstr ""
+"For %s kampanjekoden %s %s er gyldig, som vil spare deg for penger på %s "
+"kjøp. Den utløper %s."
+
+#: functions-w-root.php:3797 functions17122022.php:3813
+#: functions7122022.php:3808 functions.php:3923
+#, php-format
+msgid ""
+"На %s актуально %s промокода %s, которые позволят сэкономить на покупках до "
+"%s: %s.<br> Действие одного из них истекает %s"
+msgstr ""
+"Fra og med %s er det %s %s-kampanjekoder som vil spare deg for penger på "
+"kjøp opp til %s: %s.<br> En av dem utløper %s"
+
+#: functions-w-root.php:3824 functions17122022.php:3840
+#: functions7122022.php:3835 functions.php:3950
+#, php-format
+msgid ""
+"На %s актуально %s промокода %s, которые позволят сэкономить на покупках до "
+"%s: %s.<br> Некоторые из них истекают %s."
+msgstr ""
+
+#: functions-w-root.php:3851 functions-w-root.php:3878
+#: functions17122022.php:3867 functions17122022.php:3894
+#: functions7122022.php:3862 functions7122022.php:3889 functions.php:3977
+#: functions.php:4004
+#, php-format
+msgid ""
+"На %s доступны следующие промокоды %s, которые позволят сэкономить на "
+"покупках до %s: %s.<br> Некоторые из них истекают %s."
+msgstr ""
+"Følgende %s kampanjekoder er tilgjengelige på %s, som vil spare deg for "
+"penger på kjøp opp til %s: %s.<br> Noen av dem utløper %s."
+
+#: functions-w-root.php:3747 functions17122022.php:3763
+#: functions7122022.php:3758 functions.php:3873
+#, php-format
+msgid "На %s у нас нет промокодов %s, но мы уже работаем над этим."
+msgstr "Vi har ikke %s kampanjekoder på %s, men vi jobber allerede med det."
+
+#: inc/addons/admin_fix.php:2951
+msgid "На данный момент массовое обновление доступно только для метки learn"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:1405
+msgid "На сайт"
+msgstr ""
+
+#: inc/addons/messages.php:313
+msgid "На сайте вы можете:"
+msgstr ""
+
+#: functions-w-root.php:4032 functions-w-root.php:4107
+#: functions17122022.php:4048 functions17122022.php:4123
+#: functions7122022.php:4043 functions7122022.php:4118
+#: backup_antibot_functions.php:10148 backup_antibot_functions.php:10217
+#: functions copy.php:10033 functions copy.php:10102 functions.php:4158
+#: functions.php:4233
+msgid "Название"
+msgstr "Tittel"
+
+#: functions-w-root.php:4919 functions17122022.php:4935
+#: functions7122022.php:4930 functions.php:5045
+msgid "Название метки"
+msgstr "Merkets navn"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4155 inc/addons/comments.php:6773
+#: inc/addons/comments-1.php:3284 inc/addons/comments copy 2.php:6308
+#: inc/addons/comments copy.php:4163
+#: inc/addons/!бекап_пожаловаться_comments.php:3286
+#: inc/addons/11!comments.php:3281 inc/addons/comments-artem.php:3234
+#: inc/addons/comments-bc.php:3243
+msgid ""
+"Нам важна полнота информации о компании.  Просим вас оценить ее по этим "
+"критериям."
+msgstr ""
+
+#: !!!functions.php:223 backup_antibot_functions.php:302 functions copy.php:299
+msgid "Написать отзыв"
+msgstr ""
+
+#: template-parts/blocks/big_search_main/big_search.php:62
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:62
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:62
+#: template-parts/blocks/big_search/big_search.php:73
+#: template-parts/blocks/big_search/big_search.php:73
+msgid "Например"
+msgstr ""
+
+#: inc/addons/user_functions.php:1207
+msgid "Настроить позже"
+msgstr ""
+
+#: inc/addons/messages.php:305
+msgid ""
+"Начисление баллов за активность на сайте (например, за публикации отзывов, "
+"жалоб и комментариев)."
+msgstr ""
+
+#: inc/addons/user_functions.php:1015
+msgid "Начните вводить название города"
+msgstr ""
+
+#: !!!functions.php:32
+msgid "Начните вводить название компании, например"
+msgstr ""
+
+#: inc/addons/user_functions.php:998
+msgid "Начните вводить название страны"
+msgstr ""
+
+#: template-rating-all.php:53
+msgid "Начните вводить текст"
+msgstr ""
+
+#: functions-w-root.php:824 functions-w-root.php:893 functions17122022.php:840
+#: functions17122022.php:909 functions7122022.php:835 functions7122022.php:904
+#: functions.php:845 functions.php:914
+msgid "Наши приложения"
+msgstr "Våre applikasjoner"
+
+#: comment-single_view.php:447 comment-single_view.php:798 comment-single_view
+#: copy.php:320 comment-single_view copy.php:511 comment-single_view
+#: copy.php:1201 comment-single_view copy.php:1382
+#: comment-single_view_new.php:152 comment-single_view_new.php:333
+#: inc/addons/comments copy 2.php:4626 inc/addons/comments_new.php:1035
+msgid "Не рекомендую"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:463
+#: inc/addons/company_activities.php:29 inc/addons/company_activities.php:60
+#: inc/addons/comments.php:954 inc/addons/comments copy 2.php:813
+#: inc/addons/comments copy.php:471
+msgid "Не решено"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:211
+msgid "Неверифицированный"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:3902
+#: inc/addons/!щдв-25-05-2021-comments.php:3936
+#: inc/addons/!щдв-25-05-2021-comments.php:3964
+#: inc/addons/!щдв-25-05-2021-comments.php:3999 inc/addons/comments.php:6446
+#: inc/addons/comments.php:6504 inc/addons/comments.php:6544
+#: inc/addons/comments.php:6603 inc/addons/comments-1.php:3031
+#: inc/addons/comments-1.php:3065 inc/addons/comments-1.php:3093
+#: inc/addons/comments-1.php:3128 inc/addons/comments copy 2.php:6054
+#: inc/addons/comments copy 2.php:6088 inc/addons/comments copy 2.php:6116
+#: inc/addons/comments copy 2.php:6151 inc/addons/comments copy.php:3910
+#: inc/addons/comments copy.php:3944 inc/addons/comments copy.php:3972
+#: inc/addons/comments copy.php:4007
+#: inc/addons/!бекап_пожаловаться_comments.php:3033
+#: inc/addons/!бекап_пожаловаться_comments.php:3067
+#: inc/addons/!бекап_пожаловаться_comments.php:3095
+#: inc/addons/!бекап_пожаловаться_comments.php:3130
+#: inc/addons/11!comments.php:3028 inc/addons/11!comments.php:3062
+#: inc/addons/11!comments.php:3090 inc/addons/11!comments.php:3125
+#: inc/addons/comments-artem.php:2981 inc/addons/comments-artem.php:3015
+#: inc/addons/comments-artem.php:3043 inc/addons/comments-artem.php:3078
+#: inc/addons/comments-bc.php:2990 inc/addons/comments-bc.php:3024
+#: inc/addons/comments-bc.php:3052 inc/addons/comments-bc.php:3087
+msgid "Невозможно прикрепить данное изображение"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:130 inc/addons/fields/repeater.php:171
+#: inc/addons/fields/repeater.php:216 inc/addons/fields/repeater.php:258
+msgid "Недоступно"
+msgstr ""
+
+#: inc/addons/cookies.php:35
+msgid "Необходимо авторизоваться"
+msgstr ""
+
+#: functions-w-root.php:1254 functions17122022.php:1270
+#: functions7122022.php:1265 backup_antibot_functions.php:837 functions
+#: copy.php:825 functions.php:1286
+msgid "Неподтвержденная компания"
+msgstr "Ubekreftet selskap"
+
+#: inc/addons/popups.php:2454 inc/addons/popups.php:3377
+#: inc/addons/popups.php:3979 inc/addons/popups_new_test.php:391
+#: inc/addons/fields/!!!repeater.php:300 inc/addons/fields/!!!repeater.php:519
+#: inc/addons/fields/repeater.php:101 inc/addons/fields/repeater.php:589
+#: inc/addons/fields/repeater.php:597 inc/addons/fields/repeater.php:735
+#: inc/addons/fields/repeater.php:1041
+msgid "Нет"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:39 inc/addons/fields/repeater.php:51
+msgid "Нет мобильных приложений"
+msgstr ""
+
+#: inc/addons/notify.php:351
+msgid "Нет новых сообщений"
+msgstr ""
+
+#: inc/addons/notify.php:353
+msgid "Нет новых уведомлений"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:2382 inc/addons/comments.php:3685
+#: inc/addons/comments.php:7884 inc/addons/comments-1.php:2155
+#: inc/addons/comments copy 2.php:3427 inc/addons/comments copy 2.php:7398
+#: inc/addons/comments copy.php:2390
+#: inc/addons/!бекап_пожаловаться_comments.php:2168
+#: inc/addons/11!comments.php:2167 inc/addons/comments-artem.php:2118
+#: inc/addons/comments-bc.php:2114
+msgid "Новая"
+msgstr ""
+
+#: functions-w-root.php:5917 functions17122022.php:5933
+#: functions7122022.php:5928 functions.php:6055
+msgid "Новая жалоба на вашу компанию!"
+msgstr "En ny klage på bedriften din!"
+
+#: page-dashboard-add-company.php:54 inc/addons/popups.php:2282
+#: inc/addons/user_functions.php:82 inc/addons/user_functions.php:3775
+msgid "Новая жалоба на компанию"
+msgstr ""
+
+#: inc/addons/subscribe.php:28 inc/addons/subscribe.php:35
+msgid "Новая подписка на вашу компанию!"
+msgstr ""
+
+#: header.php:304 header.php:425 backup_antibot_functions.php:1248 functions
+#: copy.php:1217 inc/addons/search.php:673 inc/addons/table/table.php:392
+msgid "Новости"
+msgstr "Nyheter"
+
+#: inc/addons/notify.php:106 inc/addons/notify.php:199
+#: inc/addons/notify.php:307 inc/addons/user_functions.php:1565
+msgid "Новости сайта"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:461
+#: inc/addons/company_activities.php:27 inc/addons/company_activities.php:58
+#: inc/addons/comments.php:952 inc/addons/comments copy 2.php:811
+#: inc/addons/comments copy.php:469
+msgid "Новые"
+msgstr ""
+
+#: inc/addons/new_companies.php:44 inc/addons/new_companies.php:146
+#: inc/addons/new_companies.php:246
+msgid "Новые компании на сайте"
+msgstr ""
+
+#: inc/addons/user_functions.php:1637
+msgid "Новые уведомления"
+msgstr ""
+
+#: functions-w-root.php:6022 functions17122022.php:6038
+#: functions7122022.php:6033 functions.php:6160
+msgid "Новый комментарий к вашему отзыву"
+msgstr "En ny kommentar til anmeldelsen din"
+
+#: functions-w-root.php:5989 functions17122022.php:6005
+#: functions7122022.php:6000 functions.php:6127
+msgid "Новый комментарий о вашей компании!"
+msgstr "Ny kommentar om din bedrift!"
+
+#: inc/addons/popups.php:2515 inc/addons/popups_new_test.php:464
+msgid "Новый отзыв"
+msgstr ""
+
+#: functions-w-root.php:5941 functions17122022.php:5957
+#: functions7122022.php:5952 functions.php:6079
+msgid "Новый отзыв о вашей компании!"
+msgstr "Ny gjennomgang av bedriften din!"
+
+#: page-dashboard-add-company.php:56 inc/addons/popups.php:2284
+#: inc/addons/popups.php:2347 inc/addons/popups.php:2351
+#: inc/addons/user_functions.php:84 inc/addons/user_functions.php:3777
+msgid "Новый отзыв о компании"
+msgstr ""
+
+#: functions-w-root.php:1830 !!!functions.php:975 functions17122022.php:1846
+#: functions7122022.php:1841 backup_antibot_functions.php:1141 functions
+#: copy.php:1125 functions copy.php:1140 functions.php:1861
+msgid "О компании"
+msgstr "Om oss"
+
+#: functions-w-root.php:807 functions-w-root.php:876 !!!functions.php:574
+#: functions17122022.php:823 functions17122022.php:892 functions7122022.php:818
+#: functions7122022.php:887 backup_antibot_functions.php:628 functions
+#: copy.php:621 functions.php:828 functions.php:897
+msgid "О нас"
+msgstr "Om oss"
+
+#: inc/addons/fields/repeater.php:602
+msgid "ОСАГО"
+msgstr ""
+
+#: inc/addons/popups.php:3961
+msgid "ОТЗЫВ"
+msgstr ""
+
+#: functions-w-root.php:1865 functions-w-root.php:1880 !!!functions.php:976
+#: functions17122022.php:1881 functions17122022.php:1896
+#: functions7122022.php:1876 functions7122022.php:1891
+#: backup_antibot_functions.php:1160 backup_antibot_functions.php:1175
+#: functions copy.php:1129 functions copy.php:1145 functions.php:1896
+#: functions.php:1911
+msgid "Обзор"
+msgstr "Oversikt"
+
+#: single-casino.php:603 single-casino-2.php:501
+msgid "Обзор и отзывы"
+msgstr ""
+
+#: backup_antibot_functions.php:1247 functions copy.php:1216
+#: inc/addons/profile_functions.php:449
+msgid "Обзоры"
+msgstr ""
+
+#: template-parts/blocks/popular_ratings/popular_ratings.php:138
+#: inc/addons/rating copy/rating copy.php:23 inc/addons/rating
+#: copy/rating.php:23 inc/addons/rating copy/rating copy 2.php:23
+#: inc/addons/rating/rating copy.php:23 inc/addons/rating/rating.php:28
+#: inc/addons/rating/rating copy 2.php:23
+msgid "Обзоры, отзывы, жалобы, акции"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2804 inc/addons/admin_fix.php:2805
+msgid "Обновление обзоров"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:439
+msgid "Онлайн"
+msgstr ""
+
+#: functions-w-root.php:4108 functions17122022.php:4124
+#: functions7122022.php:4119 backup_antibot_functions.php:10218 functions
+#: copy.php:10103 functions.php:4234
+msgid "Описание"
+msgstr "Beskrivelse"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:872 inc/addons/comments.php:1441
+#: inc/addons/comments-1.php:780 inc/addons/comments copy 2.php:1300
+#: inc/addons/comments copy.php:880
+#: inc/addons/!бекап_пожаловаться_comments.php:792
+#: inc/addons/11!comments.php:792 inc/addons/comments-artem.php:743
+#: inc/addons/comments-bc.php:739
+msgid "Опишите Вашу жалобу..."
+msgstr ""
+
+#: inc/addons/popups.php:2491 inc/addons/popups_new_test.php:443
+msgid "Опубликовать отзыв"
+msgstr ""
+
+#: functions-w-root.php:2039 !!!functions.php:221 functions17122022.php:2055
+#: functions7122022.php:2050 backup_antibot_functions.php:300 functions
+#: copy.php:297 functions.php:2071
+#: inc/addons/!щдв-25-05-2021-comments.php:418 inc/addons/comments.php:901
+#: inc/addons/comments-1.php:344 inc/addons/comments copy 2.php:760
+#: inc/addons/comments copy.php:426
+#: inc/addons/!бекап_пожаловаться_comments.php:356
+#: inc/addons/messages.php:245 inc/addons/11!comments.php:356
+#: inc/addons/comments-artem.php:312 inc/addons/comments-bc.php:308
+msgid "Оставить жалобу"
+msgstr "Legg inn en klage"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:3809 inc/addons/comments.php:6343
+#: inc/addons/comments-1.php:2938 inc/addons/comments copy 2.php:5961
+#: inc/addons/comments copy.php:3817
+#: inc/addons/!бекап_пожаловаться_comments.php:2940
+#: inc/addons/11!comments.php:2935 inc/addons/comments-artem.php:2888
+#: inc/addons/comments-bc.php:2897
+msgid "Оставить комментарий"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:263
+#: inc/addons/!щдв-25-05-2021-comments.php:3807 inc/addons/comments.php:8
+#: inc/addons/comments.php:6341 inc/addons/comments-1.php:240
+#: inc/addons/comments-1.php:2936 inc/addons/comments copy 2.php:8
+#: inc/addons/comments copy 2.php:5959 inc/addons/comments copy.php:263
+#: inc/addons/comments copy.php:3815
+#: inc/addons/!бекап_пожаловаться_comments.php:252
+#: inc/addons/!бекап_пожаловаться_comments.php:2938
+#: inc/addons/messages.php:244 inc/addons/11!comments.php:252
+#: inc/addons/11!comments.php:2933 inc/addons/comments-artem.php:226
+#: inc/addons/comments-artem.php:2886 inc/addons/comments-bc.php:223
+#: inc/addons/comments-bc.php:2895
+msgid "Оставить отзыв"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:3809
+#: inc/addons/!щдв-25-05-2021-comments.php:4024 inc/addons/comments.php:6343
+#: inc/addons/comments.php:6642 inc/addons/comments-1.php:2938
+#: inc/addons/comments-1.php:3153 inc/addons/comments copy 2.php:5961
+#: inc/addons/comments copy 2.php:6177 inc/addons/comments copy.php:3817
+#: inc/addons/comments copy.php:4032
+#: inc/addons/!бекап_пожаловаться_comments.php:2940
+#: inc/addons/!бекап_пожаловаться_comments.php:3155
+#: inc/addons/11!comments.php:2935 inc/addons/11!comments.php:3150
+#: inc/addons/comments-artem.php:2888 inc/addons/comments-artem.php:3103
+#: inc/addons/comments-bc.php:2897 inc/addons/comments-bc.php:3112
+msgid "Оставьте свой комментарий..."
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:3807 inc/addons/comments.php:6341
+#: inc/addons/comments-1.php:2936 inc/addons/comments copy 2.php:5959
+#: inc/addons/comments copy.php:3815
+#: inc/addons/!бекап_пожаловаться_comments.php:2938
+#: inc/addons/11!comments.php:2933 inc/addons/comments-artem.php:2886
+#: inc/addons/comments-bc.php:2895
+msgid "Оставьте свой отзыв..."
+msgstr ""
+
+#: inc/addons/admin_fix.php:749 inc/addons/admin_fix.php:860 inc/addons/rating
+#: copy/rating copy.php:1966 inc/addons/rating copy/rating.php:1974
+#: inc/addons/rating copy/rating copy 2.php:2008 inc/addons/rating
+#: copy/!rating.php:438 inc/addons/fields/repeater.php:136
+#: inc/addons/fields/repeater.php:222 inc/addons/rating/rating copy.php:1966
+#: inc/addons/rating/rating.php:4349 inc/addons/rating/rating copy 2.php:2008
+#: inc/addons/rating/!rating.php:438
+msgid "От"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:449
+#: inc/addons/!щдв-25-05-2021-comments.php:464 inc/addons/comments.php:939
+#: inc/addons/comments.php:955 inc/addons/comments-1.php:371
+#: inc/addons/comments copy 2.php:798 inc/addons/comments copy 2.php:814
+#: inc/addons/comments copy.php:457 inc/addons/comments copy.php:472
+#: inc/addons/!бекап_пожаловаться_comments.php:383
+#: inc/addons/11!comments.php:383 inc/addons/comments-artem.php:338
+#: inc/addons/comments-bc.php:334
+msgid "Ответ получен"
+msgstr ""
+
+#: functions-w-root.php:2941 functions17122022.php:2957
+#: functions7122022.php:2952 backup_antibot_functions.php:1924 functions
+#: copy.php:1838 functions.php:2997 comment-single_view_new.php:325
+#: inc/addons/!щдв-25-05-2021-comments.php:2712
+#: inc/addons/!щдв-25-05-2021-comments.php:2934
+#: inc/addons/!щдв-25-05-2021-comments.php:3210 inc/addons/comments.php:3838
+#: inc/addons/comments.php:4288 inc/addons/comments.php:5502
+#: inc/addons/comments.php:8008 inc/addons/comments-1.php:2331
+#: inc/addons/comments-1.php:2495 inc/addons/comments copy 2.php:3580
+#: inc/addons/comments copy 2.php:4017 inc/addons/comments copy 2.php:5121
+#: inc/addons/comments copy 2.php:7522 inc/addons/comments copy.php:2720
+#: inc/addons/comments copy.php:2942 inc/addons/comments copy.php:3218
+#: inc/addons/!бекап_пожаловаться_comments.php:2345
+#: inc/addons/!бекап_пожаловаться_comments.php:2497
+#: inc/addons/11!comments.php:2344 inc/addons/11!comments.php:2494
+#: inc/addons/comments-artem.php:2296 inc/addons/comments-artem.php:2445
+#: inc/addons/comments_new.php:440 inc/addons/comments-bc.php:2290
+#: inc/addons/comments-bc.php:2454
+msgid "Ответить"
+msgstr "Svar"
+
+#: comment-single_view.php:788 comment-single_view copy.php:503
+#: comment-single_view copy.php:1374 inc/addons/comments.php:3524
+#: inc/addons/comments.php:4952 inc/addons/comments copy 2.php:3269
+#: inc/addons/comments copy 2.php:4614 inc/addons/comments_new.php:1027
+msgid "Ответить на отзыв"
+msgstr ""
+
+#: comment-single_view.php:456 comment-single_view copy.php:329
+#: comment-single_view copy.php:1210 comment-single_view_new.php:161
+msgid "Отзыв на компанию"
+msgstr ""
+
+#: functions-w-root.php:5890 functions-w-root.php:5896
+#: functions17122022.php:5906 functions17122022.php:5912
+#: functions7122022.php:5901 functions7122022.php:5907 functions.php:6028
+#: functions.php:6034
+msgid "Отзыв не прошел модерацию"
+msgstr ""
+
+#: comment-single_view_new.php:173 comment-single_view_new.php:737
+msgid "Отзыв о компании"
+msgstr ""
+
+#: functions-w-root.php:5578 functions-w-root.php:5584
+#: functions17122022.php:5594 functions17122022.php:5600
+#: functions7122022.php:5589 functions7122022.php:5595 functions.php:5716
+#: functions.php:5722
+msgid "Отзыв прошел модерацию, статус «Достоверный»"
+msgstr ""
+
+#: functions-w-root.php:5671 functions-w-root.php:5677
+#: functions17122022.php:5687 functions17122022.php:5693
+#: functions7122022.php:5682 functions7122022.php:5688 functions.php:5809
+#: functions.php:5815
+msgid "Отзыв прошел модерацию, статус «Недостоверный»"
+msgstr "Gjennomgang bestått moderering, status \"Ugyldig\""
+
+#: functions-w-root.php:5497 functions-w-root.php:5503
+#: functions17122022.php:5513 functions17122022.php:5519
+#: functions7122022.php:5508 functions7122022.php:5514 functions.php:5635
+#: functions.php:5641
+msgid "Отзыв прошел модерацию, статус «Одобрен к публикации»"
+msgstr "Gjennomgang bestått moderering, status \"Godkjent for publisering\""
+
+#: comments.php:41 functions-w-root.php:447 functions-w-root.php:1863
+#: functions-w-root.php:1877 functions-w-root.php:1969
+#: functions-w-root.php:2093 functions-w-root.php:2291 single-casino.php:601
+#: !!!functions.php:974 !!!functions.php:1104 functions17122022.php:463
+#: functions17122022.php:1879 functions17122022.php:1893
+#: functions17122022.php:1985 functions17122022.php:2109
+#: functions17122022.php:2307 functions7122022.php:458
+#: functions7122022.php:1874 functions7122022.php:1888
+#: functions7122022.php:1980 functions7122022.php:2104
+#: functions7122022.php:2302 backup_antibot_functions.php:1158
+#: backup_antibot_functions.php:1172 backup_antibot_functions.php:1245
+#: backup_antibot_functions.php:1368 backup_antibot_functions.php:1465
+#: functions copy.php:1127 functions copy.php:1142 functions copy.php:1214
+#: functions copy.php:1293 functions copy.php:1390 functions.php:468
+#: functions.php:1894 functions.php:1908 functions.php:2001 functions.php:2125
+#: functions.php:2323 single-casino-2.php:499
+#: inc/addons/!щдв-25-05-2021-comments.php:260 inc/addons/comments.php:652
+#: inc/addons/comments-1.php:237 inc/addons/comments copy 2.php:511
+#: inc/addons/comments copy.php:260 inc/addons/new_companies.php:66
+#: inc/addons/new_companies.php:168 inc/addons/new_companies.php:268
+#: inc/addons/!бекап_пожаловаться_comments.php:249
+#: inc/addons/company_dashboard_functions.php:660
+#: inc/addons/11!comments.php:249 inc/addons/search.php:259
+#: inc/addons/search.php:363 inc/addons/profile_functions.php:446
+#: inc/addons/comments-artem.php:224 inc/addons/comments-bc.php:221
+#: template-parts/blocks/popular_ratings/popular_ratings.php:274
+#: template-parts/blocks/popular_categories/popular_categories.php:753
+#: template-parts/blocks/big_search/big_search.php:120
+#: template-parts/blocks/big_search/big_search.php:256
+#: inc/addons/navs/navs.php:299 inc/addons/rating copy/rating copy.php:63
+#: inc/addons/rating copy/rating.php:63 inc/addons/rating copy/rating copy
+#: 2.php:63 inc/addons/rating/rating copy.php:63
+#: inc/addons/rating/rating.php:176 inc/addons/rating/rating copy 2.php:63
+msgid "Отзывы"
+msgstr "Vurderinger"
+
+#: header.php:73 header.php:266 header.php:387
+msgid "Отзывы в Интернете"
+msgstr ""
+
+#: inc/addons/rating copy/rating copy.php:1048 inc/addons/rating copy/rating
+#: copy.php:1182 inc/addons/rating copy/rating copy.php:1910 inc/addons/rating
+#: copy/rating.php:1056 inc/addons/rating copy/rating.php:1190
+#: inc/addons/rating copy/rating.php:1918 inc/addons/rating copy/rating copy
+#: 2.php:1075 inc/addons/rating copy/rating copy 2.php:1201 inc/addons/rating
+#: copy/rating copy 2.php:1952 inc/addons/rating/rating copy.php:1048
+#: inc/addons/rating/rating copy.php:1182 inc/addons/rating/rating
+#: copy.php:1910 inc/addons/rating/rating.php:2952
+#: inc/addons/rating/rating.php:3158 inc/addons/rating/rating.php:4135
+#: inc/addons/rating/rating copy 2.php:1075 inc/addons/rating/rating copy
+#: 2.php:1201 inc/addons/rating/rating copy 2.php:1952
+msgid "Отзывы о блогере"
+msgstr ""
+
+#: inc/addons/rating copy/rating copy.php:1050 inc/addons/rating copy/rating
+#: copy.php:1184 inc/addons/rating copy/rating copy.php:1912 inc/addons/rating
+#: copy/rating.php:1058 inc/addons/rating copy/rating.php:1192
+#: inc/addons/rating copy/rating.php:1920 inc/addons/rating copy/rating copy
+#: 2.php:1077 inc/addons/rating copy/rating copy 2.php:1203 inc/addons/rating
+#: copy/rating copy 2.php:1954 inc/addons/rating/rating copy.php:1050
+#: inc/addons/rating/rating copy.php:1184 inc/addons/rating/rating
+#: copy.php:1912 inc/addons/rating/rating.php:2954
+#: inc/addons/rating/rating.php:3160 inc/addons/rating/rating.php:4137
+#: inc/addons/rating/rating copy 2.php:1077 inc/addons/rating/rating copy
+#: 2.php:1203 inc/addons/rating/rating copy 2.php:1954
+msgid "Отзывы о компании"
+msgstr ""
+
+#: comment-single_view_new.php:570
+msgid "Отзывы о похожих компаниях"
+msgstr ""
+
+#: comment-single_view_new.php:811
+msgid "Отзывы:"
+msgstr ""
+
+#: !!!functions.php:922
+msgid "Открыть фильтр"
+msgstr ""
+
+#: inc/addons/notify.php:153 inc/addons/user_functions.php:1621
+msgid "Отметить прочитанным"
+msgstr ""
+
+#: inc/addons/messages.php:659 inc/addons/messages.php:680
+#: inc/addons/messages.php:703 inc/addons/messages.php:727
+msgid "Отправить"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:875 inc/addons/comments.php:1444
+#: inc/addons/comments-1.php:783 inc/addons/comments copy 2.php:1303
+#: inc/addons/comments copy.php:883
+#: inc/addons/!бекап_пожаловаться_comments.php:795
+#: inc/addons/11!comments.php:795 inc/addons/comments-artem.php:746
+#: inc/addons/comments-bc.php:742
+msgid "Отправить жалобу"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:834 inc/addons/comments.php:1342
+#: inc/addons/comments-1.php:742 inc/addons/comments copy 2.php:1201
+#: inc/addons/comments copy.php:842
+#: inc/addons/!бекап_пожаловаться_comments.php:754
+#: inc/addons/11!comments.php:754 inc/addons/comments-artem.php:705
+#: inc/addons/comments-bc.php:701
+msgid "Отправить жалобу на комментарий"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:1161
+#: inc/addons/company_dashboard_functions.php:1278
+msgid "Отправить промокод"
+msgstr ""
+
+#: comments.php:53 inc/addons/comments.php:664 inc/addons/comments.php:915
+msgid "Отсортировать"
+msgstr ""
+
+#: !!!functions.php:905 inc/addons/!щдв-25-05-2021-comments.php:269
+#: inc/addons/!щдв-25-05-2021-comments.php:425 inc/addons/comments-1.php:243
+#: inc/addons/comments-1.php:347 inc/addons/comments copy 2.php:523
+#: inc/addons/comments copy 2.php:774 inc/addons/comments copy.php:269
+#: inc/addons/comments copy.php:433
+#: inc/addons/!бекап_пожаловаться_comments.php:255
+#: inc/addons/!бекап_пожаловаться_comments.php:359
+#: inc/addons/add_links.php:142 inc/addons/11!comments.php:255
+#: inc/addons/11!comments.php:359 inc/addons/profile_functions.php:1509
+#: inc/addons/user_functions.php:1709 inc/addons/comments-artem.php:228
+#: inc/addons/comments-artem.php:314 inc/addons/comments-bc.php:225
+#: inc/addons/comments-bc.php:310 inc/addons/layout.php:391
+#: inc/addons/layout.php:448 inc/addons/layout.php:502
+#: inc/addons/layout.php:547
+msgid "Отсортировать по"
+msgstr ""
+
+#: inc/addons/filter.php:76
+msgid "Отфильтровать"
+msgstr ""
+
+#: inc/addons/messages.php:331
+msgid "Оформите статус PRO здесь"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:490 inc/addons/fields/repeater.php:1012
+msgid "Оформить"
+msgstr ""
+
+#: inc/addons/popups.php:217 inc/addons/popups.php:2188
+#: inc/addons/popups.php:2384 inc/addons/popups.php:3205
+#: inc/addons/popups.php:3465 inc/addons/popups.php:3562
+#: inc/addons/popups.php:3777
+msgid "Оцените компанию по критериям"
+msgstr ""
+
+#: inc/addons/comments.php:4100 inc/addons/comments.php:5317
+#: inc/addons/comments copy 2.php:3833 inc/addons/comments copy 2.php:4936
+#: inc/addons/comments_new.php:252
+msgid "Оцените ответ"
+msgstr ""
+
+#: comment-single_view.php:576 inc/addons/comments.php:3387
+#: inc/addons/comments.php:4564 inc/addons/comments.php:8599
+#: inc/addons/comments.php:8956 inc/addons/comments.php:9352
+#: inc/addons/comments copy 2.php:3135 inc/addons/comments copy 2.php:4282
+#: inc/addons/comments copy 2.php:7978 inc/addons/comments copy 2.php:8329
+#: inc/addons/comments_new.php:737
+msgid "Оцените отзыв"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4680 inc/addons/!!!!popups.php:94
+#: inc/addons/comments.php:7298 inc/addons/comments-1.php:3808
+#: inc/addons/comments copy 2.php:6833 inc/addons/comments copy.php:4688
+#: inc/addons/!бекап_пожаловаться_comments.php:3810
+#: inc/addons/popups.php:3974 inc/addons/11!comments.php:3805
+#: inc/addons/comments-artem.php:3755 inc/addons/!popups.php:94
+#: inc/addons/comments-bc.php:3764
+msgid "Оценка"
+msgstr ""
+
+#: inc/addons/popups.php:2383
+msgid "Оценка компании является обязательной для публикации отзыва."
+msgstr ""
+
+#: inc/addons/!!!!popups.php:231 inc/addons/popups.php:382
+#: inc/addons/popups.php:437 inc/addons/user_functions.php:3322
+#: inc/addons/!popups.php:212
+msgid "Ошибка загрузки изображения"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:812
+#: inc/addons/!щдв-25-05-2021-comments.php:1262
+#: inc/addons/!щдв-25-05-2021-comments.php:5078 inc/addons/comments.php:1320
+#: inc/addons/comments.php:2080 inc/addons/comments.php:7730
+#: inc/addons/comments-1.php:720 inc/addons/comments-1.php:1191
+#: inc/addons/comments-1.php:4203 inc/addons/comments copy 2.php:1179
+#: inc/addons/comments copy 2.php:1916 inc/addons/comments copy 2.php:7253
+#: inc/addons/comments copy.php:820 inc/addons/comments copy.php:1270
+#: inc/addons/comments copy.php:5086
+#: inc/addons/!бекап_пожаловаться_comments.php:732
+#: inc/addons/!бекап_пожаловаться_comments.php:1203
+#: inc/addons/!бекап_пожаловаться_comments.php:4208
+#: inc/addons/11!comments.php:732 inc/addons/11!comments.php:1203
+#: inc/addons/11!comments.php:4200 inc/addons/comments-artem.php:683
+#: inc/addons/comments-artem.php:1154 inc/addons/comments-artem.php:4150
+#: inc/addons/comments-bc.php:679 inc/addons/comments-bc.php:1150
+#: inc/addons/comments-bc.php:4159
+msgid ""
+"Ошибка отправки жалобы. Пожалуйста, сообщите администратору на info@eto-"
+"razvod.ru."
+msgstr ""
+
+#: functions-w-root.php:485 functions-w-root.php:529 !!!functions.php:250
+#: !!!functions.php:291 functions17122022.php:501 functions17122022.php:545
+#: functions7122022.php:496 functions7122022.php:540 page-signup.php:33
+#: backup_antibot_functions.php:334 backup_antibot_functions.php:375 functions
+#: copy.php:331 functions copy.php:372 functions.php:506 functions.php:550
+#: page-signin.php:23 inc/addons/!щдв-25-05-2021-comments.php:1832
+#: inc/addons/!!!!popups.php:152 inc/addons/comments.php:2653
+#: inc/addons/comments-1.php:1761 inc/addons/comments copy 2.php:2486
+#: inc/addons/comments copy.php:1840
+#: inc/addons/!бекап_пожаловаться_comments.php:1773
+#: inc/addons/popups.php:293 inc/addons/11!comments.php:1773
+#: inc/addons/comments-artem.php:1724 inc/addons/!popups.php:152
+#: inc/addons/comments-bc.php:1720
+msgid "Пароль"
+msgstr "Passord"
+
+#: functions-w-root.php:4599 functions17122022.php:4615
+#: functions7122022.php:4610 functions.php:4725
+msgid "Пароль был успешно установлен"
+msgstr "Passordet har blitt angitt"
+
+#: inc/addons/banners.php:442 inc/addons/banners.php:1173
+#: inc/addons/banners.php:1956 inc/addons/banners.php:3056 inc/addons/banners
+#: copy.php:242 inc/addons/banners copy.php:753 inc/addons/!!!!!banners.php:201
+#: inc/addons/!!!!!banners.php:467
+msgid "Перейти"
+msgstr ""
+
+#: inc/addons/rating copy/rating copy.php:100 inc/addons/rating copy/rating
+#: copy.php:1215 inc/addons/rating copy/rating.php:100 inc/addons/rating
+#: copy/rating.php:1223 inc/addons/rating copy/rating copy 2.php:100
+#: inc/addons/rating copy/rating copy 2.php:1234 inc/addons/rating
+#: copy/!rating.php:11 inc/addons/rating/rating copy.php:100
+#: inc/addons/rating/rating copy.php:1215 inc/addons/rating/rating.php:213
+#: inc/addons/rating/rating.php:3191 inc/addons/rating/rating copy 2.php:100
+#: inc/addons/rating/rating copy 2.php:1234 inc/addons/rating/!rating.php:11
+msgid "Перейти в рейтинг"
+msgstr ""
+
+#: inc/addons/popups.php:2707 inc/addons/popups.php:2711
+#: inc/addons/popups.php:3043 inc/addons/popups.php:3104
+#: inc/addons/popups.php:3151 inc/addons/popups.php:3155
+msgid "Перейти к обзору компании"
+msgstr ""
+
+#: functions-w-root.php:1275 !!!functions.php:731 functions17122022.php:1291
+#: functions7122022.php:1286 backup_antibot_functions.php:858 functions
+#: copy.php:837 functions.php:1307
+#: inc/addons/company_dashboard_functions.php:848
+msgid "Перейти на сайт"
+msgstr "Gå til nettstedet"
+
+#: inc/addons/messages.php:1151
+msgid "Переписки с пользователями"
+msgstr ""
+
+#: inc/addons/admin_fix.php:762 inc/addons/admin_fix.php:873
+msgid "Переходы"
+msgstr ""
+
+#: functions-w-root.php:1976 functions17122022.php:1992
+#: functions7122022.php:1987 backup_antibot_functions.php:1252 functions
+#: copy.php:1221 functions.php:2008 inc/addons/navs/navs.php:306
+msgid "Платежи"
+msgstr "Betalinger"
+
+#: backup_antibot_functions.php:10222 functions copy.php:10107
+msgid "Плашка"
+msgstr ""
+
+#: comment-single_view.php:738 comment-single_view copy.php:453
+#: comment-single_view copy.php:1324 comment-single_view_new.php:275
+#: inc/addons/comments.php:4903 inc/addons/comments copy 2.php:4565
+#: inc/addons/popups.php:2460 inc/addons/popups.php:3345
+#: inc/addons/comments_new.php:979 inc/addons/popups_new_test.php:397
+msgid "Плюсы"
+msgstr ""
+
+#: inc/addons/popups.php:3985
+msgid "Плюсы:"
+msgstr ""
+
+#: template-rating-all.php:58 find-category.php:67
+msgid "По алфавиту (А-Я)"
+msgstr ""
+
+#: template-rating-all.php:59 find-category.php:68
+msgid "По алфавиту (Я-А)"
+msgstr ""
+
+#: comments.php:71
+msgid "По возрастанию оценки"
+msgstr ""
+
+#: inc/addons/search.php:286
+msgid "По данным параметрам ничего не найдено"
+msgstr ""
+
+#: comments.php:72
+msgid "По убыванию оценки"
+msgstr ""
+
+#: functions-w-root.php:4054 functions17122022.php:4070
+#: functions7122022.php:4065 backup_antibot_functions.php:10167 functions
+#: copy.php:10052 functions.php:4180
+msgid "По умолчанию"
+msgstr "Som standard"
+
+#: inc/addons/fields/repeater.php:453
+msgid "По эскроу-счету"
+msgstr ""
+
+#: functions-w-root.php:486 !!!functions.php:251 functions17122022.php:502
+#: functions7122022.php:497 page-signup.php:34 backup_antibot_functions.php:335
+#: functions copy.php:332 functions.php:507
+msgid "Повторите пароль"
+msgstr "Gjenta passordet"
+
+#: template-parts/blocks/list_more/list_more.php:97
+msgid ""
+"Подайте заявку на управление профилем своей компании, чтобы получить доступ "
+"к бесплатным бизнес-инструментам Etorazvod и вовремя отвечать на отзывы."
+msgstr ""
+
+#: template-promocodes.php:572 functions-w-root.php:2348 !!!functions.php:1134
+#: functions17122022.php:2364 functions7122022.php:2359
+#: single-promocodes.php:197 backup_antibot_functions.php:1522 functions
+#: copy.php:1447 functions.php:2380 single-promocodes_cats.php:173
+#: single-promocodes_cats.php:310 inc/addons/add_links.php:164
+#: inc/addons/company_dashboard_functions.php:1492 inc/addons/banners.php:2086
+#: inc/addons/banners.php:3657 inc/addons/admin_fix.php:3384 inc/addons/banners
+#: copy.php:883 inc/addons/search.php:749 inc/addons/layout.php:708
+#: template-parts/blocks/list_promocodes/list_promocodes.php:105
+#: template-parts/blocks/popular_categories/popular_categories.php:937
+msgid "Подарок"
+msgstr "Gaven"
+
+#: inc/addons/popups.php:2828
+msgid "Подарок за вашу лояльность"
+msgstr ""
+
+#: functions-w-root.php:453 functions17122022.php:469 functions7122022.php:464
+#: functions.php:474
+msgid "Подбор"
+msgstr "Utvalg"
+
+#: functions-w-root.php:1932 functions17122022.php:1948
+#: functions7122022.php:1943 functions.php:1964
+msgid "Поделиться"
+msgstr "Deling"
+
+#: inc/addons/!!!!popups.php:60 inc/addons/popups.php:159
+#: inc/addons/!popups.php:60
+msgid "Поделиться комментарием"
+msgstr ""
+
+#: inc/addons/popups.php:156
+msgid "Поделиться отзывом"
+msgstr ""
+
+#: inc/addons/!!!!popups.php:53 inc/addons/popups.php:83
+#: inc/addons/popups.php:137 inc/addons/!popups.php:53
+msgid "Поделиться страницей"
+msgstr ""
+
+#: inc/addons/verify_company.php:35
+msgid ""
+"Подключите личный кабинет своей компании, чтобы получить доступ к бесплатным "
+"бизнес-инструментам Это развод™"
+msgstr ""
+
+#: inc/addons/user_functions.php:1020
+msgid "Подключить мои социальные сети"
+msgstr ""
+
+#: functions-w-root.php:937 !!!functions.php:610 functions17122022.php:953
+#: functions7122022.php:948 backup_antibot_functions.php:665 functions
+#: copy.php:658 functions.php:958
+#: template-parts/blocks/list_services2/page-prices.php:337
+#: template-parts/blocks/list_services/page-prices.php:346
+msgid "Подписаться"
+msgstr "Abonnere"
+
+#: functions-w-root.php:933 !!!functions.php:607 functions17122022.php:949
+#: functions7122022.php:944 backup_antibot_functions.php:661 functions
+#: copy.php:654 functions.php:954
+msgid "Подписаться на рассылку"
+msgstr "Abonner på nyhetsbrev"
+
+#: inc/addons/profile_functions.php:1020 inc/addons/subscribe.php:42
+#: inc/addons/subscribe.php:95 inc/addons/subscribe.php:104
+#: inc/addons/subscribe.php:139 inc/addons/subscribe.php:148
+msgid "Подписаться на эту компанию"
+msgstr ""
+
+#: functions-w-root.php:1975 functions17122022.php:1991
+#: functions7122022.php:1986 backup_antibot_functions.php:1251 functions
+#: copy.php:1220 functions.php:2007 inc/addons/user_functions.php:1705
+#: inc/addons/navs/navs.php:305
+msgid "Подписки"
+msgstr "Abonnementer"
+
+#: template-promocodes.php:605 functions-w-root.php:2398 !!!functions.php:1156
+#: functions17122022.php:2414 functions7122022.php:2409
+#: single-promocodes.php:243 backup_antibot_functions.php:1572 functions
+#: copy.php:1497 functions.php:2430 single-promocodes_cats.php:206
+#: single-promocodes_cats.php:343 inc/addons/add_links.php:185
+#: inc/addons/company_dashboard_functions.php:1542 inc/addons/banners.php:2115
+#: inc/addons/banners.php:3686 inc/addons/admin_fix.php:3430 inc/addons/banners
+#: copy.php:912 inc/addons/search.php:780 inc/addons/verify_company.php:37
+#: inc/addons/verify_company.php:39 inc/addons/layout.php:739
+#: template-parts/blocks/list_promocodes/list_promocodes.php:158
+#: template-parts/blocks/popular_categories/popular_categories.php:1000
+#: template-parts/blocks/list_more/list_more.php:98
+#: template-parts/blocks/big_links/big_links.php:130
+#: template-parts/blocks/big_links/big_links.php:132 inc/addons/rating
+#: copy/rating copy.php:1915 inc/addons/rating copy/rating.php:1923
+#: inc/addons/rating copy/rating copy 2.php:1957 inc/addons/rating/rating
+#: copy.php:1915 inc/addons/rating/rating.php:4192 inc/addons/rating/rating
+#: copy 2.php:1957
+msgid "Подробнее"
+msgstr ""
+
+#: inc/addons/add_links.php:100 inc/addons/add_links.php:128
+msgid "Подробнее о компании"
+msgstr ""
+
+#: inc/addons/comments.php:3288 inc/addons/comments.php:4678
+#: inc/addons/comments.php:6057 inc/addons/comments copy 2.php:3084
+#: inc/addons/comments copy 2.php:4387 inc/addons/comments copy 2.php:5676
+#: inc/addons/comments_new.php:789
+msgid "Подробнее об отзыве"
+msgstr ""
+
+#: functions-w-root.php:767 functions-w-root.php:2723 functions17122022.php:783
+#: functions17122022.php:2739 functions7122022.php:778
+#: functions7122022.php:2734 functions.php:788 functions.php:2779
+msgid "Подтвердите ваш E-mail"
+msgstr "Bekreft e-postadressen din"
+
+#: inc/addons/messages.php:309
+msgid ""
+"Подтвердить ваш аккаунт, чтобы иметь доступ ко всем функциям сайта, например,"
+" получать уведомления об отзывах и жалобах на интересующие вас компании."
+msgstr ""
+
+#: functions-w-root.php:1252 !!!functions.php:723 functions17122022.php:1268
+#: functions7122022.php:1263 backup_antibot_functions.php:835 functions
+#: copy.php:823 functions.php:1284
+msgid "Подтвержденная компания"
+msgstr "Et verifisert selskap"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:2506
+#: inc/addons/!щдв-25-05-2021-comments.php:2718
+#: inc/addons/!щдв-25-05-2021-comments.php:2940
+#: inc/addons/!щдв-25-05-2021-comments.php:3216
+#: inc/addons/!щдв-25-05-2021-comments.php:3436
+#: inc/addons/!щдв-25-05-2021-comments.php:3676
+#: inc/addons/comments-1.php:2209 inc/addons/comments-1.php:2341
+#: inc/addons/comments-1.php:2505 inc/addons/comments-1.php:2636
+#: inc/addons/comments-1.php:2806 inc/addons/comments copy.php:2514
+#: inc/addons/comments copy.php:2726 inc/addons/comments copy.php:2948
+#: inc/addons/comments copy.php:3224 inc/addons/comments copy.php:3444
+#: inc/addons/comments copy.php:3684
+#: inc/addons/!бекап_пожаловаться_comments.php:2218
+#: inc/addons/!бекап_пожаловаться_comments.php:2351
+#: inc/addons/!бекап_пожаловаться_comments.php:2503
+#: inc/addons/!бекап_пожаловаться_comments.php:2633
+#: inc/addons/11!comments.php:2221 inc/addons/11!comments.php:2354
+#: inc/addons/11!comments.php:2504 inc/addons/11!comments.php:2633
+#: inc/addons/11!comments.php:2803 inc/addons/comments-artem.php:2172
+#: inc/addons/comments-artem.php:2306 inc/addons/comments-artem.php:2455
+#: inc/addons/comments-artem.php:2586 inc/addons/comments-artem.php:2756
+#: inc/addons/comments-bc.php:2168 inc/addons/comments-bc.php:2300
+#: inc/addons/comments-bc.php:2464 inc/addons/comments-bc.php:2595
+#: inc/addons/comments-bc.php:2765
+msgid "Пожаловаться"
+msgstr ""
+
+#: inc/addons/popups.php:2264 inc/addons/user_functions.php:3757
+msgid "Пожалуйста, авторизуйтесь на сайте."
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:5087 inc/addons/comments.php:7739
+#: inc/addons/comments-1.php:4212 inc/addons/comments copy 2.php:7262
+#: inc/addons/comments copy.php:5095
+#: inc/addons/!бекап_пожаловаться_comments.php:4217
+#: inc/addons/11!comments.php:4209 inc/addons/comments-artem.php:4159
+#: inc/addons/comments-bc.php:4168
+msgid "Пожалуйста, авторизуйтесь, чтобы пожаловаться на спам в комментарии."
+msgstr ""
+
+#: inc/addons/popups.php:1065
+msgid "Пожалуйста, введите E-mail"
+msgstr ""
+
+#: inc/addons/layout.php:208
+msgid "Пожалуйста, введите запрос или выберите рубрику для поиска"
+msgstr ""
+
+#: !!!functions.php:328 inc/addons/search.php:433
+msgid "Пожалуйста, введите поисковый запрос"
+msgstr ""
+
+#: inc/addons/popups.php:2048
+msgid "Пожалуйста, введите текст"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4027 inc/addons/comments.php:6645
+#: inc/addons/comments-1.php:3156 inc/addons/comments copy 2.php:6180
+#: inc/addons/comments copy.php:4035
+#: inc/addons/!бекап_пожаловаться_comments.php:3158
+#: inc/addons/11!comments.php:3153 inc/addons/comments-artem.php:3106
+#: inc/addons/comments-bc.php:3115
+msgid "Пожалуйста, войдите или зарегистрируйтесь, чтобы оставить комментарий."
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:3814 inc/addons/comments.php:6348
+#: inc/addons/comments-1.php:2943 inc/addons/comments copy 2.php:5966
+#: inc/addons/comments copy.php:3822
+#: inc/addons/!бекап_пожаловаться_comments.php:2945
+#: inc/addons/11!comments.php:2940 inc/addons/comments-artem.php:2893
+#: inc/addons/comments-bc.php:2902
+msgid "Пожалуйста, войдите или зарегистрируйтесь, чтобы оставить отзыв."
+msgstr ""
+
+#: functions-w-root.php:764 functions-w-root.php:2717 functions17122022.php:780
+#: functions17122022.php:2733 functions7122022.php:775
+#: functions7122022.php:2728 functions.php:785 functions.php:2773
+msgid ""
+"Пожалуйста, если вы еще это не сделали, заполните ваши интересы в личном "
+"кабинете, чтобы мы предложили вам только важную информацию."
+msgstr ""
+"Hvis du ikke allerede har gjort det, kan du fylle ut interessene dine i din "
+"personlige profil, slik at vi bare tilbyr deg viktig informasjon."
+
+#: inc/addons/messages.php:752 inc/addons/messages.php:793
+#: inc/addons/messages.php:879 inc/addons/messages.php:945
+msgid "Пожалуйста, напишите что-нибудь"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:816 inc/addons/comments.php:1324
+#: inc/addons/comments-1.php:724 inc/addons/comments copy 2.php:1183
+#: inc/addons/comments copy.php:824
+#: inc/addons/!бекап_пожаловаться_comments.php:736
+#: inc/addons/11!comments.php:736 inc/addons/comments-artem.php:687
+#: inc/addons/comments-bc.php:683
+msgid "Пожалуйста, опишите суть жалобы"
+msgstr ""
+
+#: inc/addons/popups.php:2572 inc/addons/subscribe.php:171
+msgid "Пожалуйста, укажите E-mail"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4008 inc/addons/comments.php:6623
+#: inc/addons/comments-1.php:3137 inc/addons/comments copy 2.php:6160
+#: inc/addons/comments copy.php:4016
+#: inc/addons/!бекап_пожаловаться_comments.php:3139
+#: inc/addons/11!comments.php:3134 inc/addons/comments-artem.php:3087
+#: inc/addons/comments-bc.php:3096
+msgid "Пожалуйста, укажите действительный URL"
+msgstr ""
+
+#: inc/addons/popups.php:2645 inc/addons/popups.php:2913
+msgid "Пожалуйста, укажите имя"
+msgstr ""
+
+#: inc/addons/user_functions.php:1154
+msgid "Поздравляем!"
+msgstr ""
+
+#: functions-w-root.php:66 functions17122022.php:72 functions7122022.php:67
+#: functions.php:72
+msgid "Поиск <span class=\"color_dark_gray\">по сайту...</span>"
+msgstr "Søk <span class=\"color_dark_gray\">på nettstedet...</span>."
+
+#: 404.php:24
+msgid "Поиск компаний"
+msgstr ""
+
+#: 404.php:26
+msgid "Поиск купонов"
+msgstr ""
+
+#: 404.php:25
+msgid "Поиск новостей"
+msgstr ""
+
+#: template-parts/blocks/big_search_main/big_search.php:153
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:153
+msgid "Поиск.."
+msgstr ""
+
+#: functions-w-root.php:1670 functions17122022.php:1686
+#: functions7122022.php:1681 functions.php:1701
+#: template-parts/blocks/popular_categories/popular_categories.php:83
+msgid "Показать все"
+msgstr "Vis alle"
+
+#: template-parts/blocks/popular_ratings/popular_ratings.php:111
+msgid "Показать все рейтинги"
+msgstr ""
+
+#: functions-w-root.php:2420 functions17122022.php:2436
+#: functions7122022.php:2431 single-promocodes.php:265 functions.php:2452
+#: inc/addons/comments copy 2.php:7779
+#: inc/addons/company_dashboard_functions.php:1562 inc/addons/search.php:283
+#: inc/addons/rating copy/rating copy.php:1236 inc/addons/rating
+#: copy/rating.php:1244 inc/addons/rating copy/rating copy 2.php:1255
+#: inc/addons/rating/rating copy.php:1236 inc/addons/rating/rating.php:3214
+#: inc/addons/rating/rating copy 2.php:1255
+msgid "Показать еще"
+msgstr "Vis mer"
+
+#: template-promocodes.php:594 functions-w-root.php:2387 !!!functions.php:1149
+#: functions17122022.php:2403 functions7122022.php:2398
+#: single-promocodes.php:236 backup_antibot_functions.php:1561 functions
+#: copy.php:1486 functions.php:2419 single-promocodes_cats.php:195
+#: single-promocodes_cats.php:332 inc/addons/add_links.php:178
+#: inc/addons/company_dashboard_functions.php:1534 inc/addons/search.php:805
+#: inc/addons/layout.php:764
+#: template-parts/blocks/list_promocodes/list_promocodes.php:147
+#: template-parts/blocks/popular_categories/popular_categories.php:989
+msgid "Показать код"
+msgstr "Vis kode"
+
+#: inc/addons/admin_fix.php:758 inc/addons/admin_fix.php:869
+msgid "Показы"
+msgstr ""
+
+#: !!!functions.php:1220 backup_antibot_functions.php:1648 functions
+#: copy.php:1573
+msgid "Полезные статьи блога из рубрики "
+msgstr ""
+
+#: functions-w-root.php:2641 functions17122022.php:2657
+#: functions7122022.php:2652 functions.php:2697
+#, php-format
+msgid ""
+"Полезные статьи блога из рубрики %s - только главное: обзоры, перспективы, "
+"советы, инструкции. Читайте и оставляйте комментарии."
+msgstr ""
+"Nyttige bloggartikler fra %s - bare det viktigste: anmeldelser, perspektiver,"
+" tips, instruksjoner. Les og kommenter."
+
+#: functions-w-root.php:2639 functions17122022.php:2655
+#: functions7122022.php:2650 functions.php:2695
+#, php-format
+msgid ""
+"Полезные статьи блога из рубрики %s, страница %s - только главное: обзоры, "
+"перспективы, советы, инструкции. Читайте и оставляйте комментарии."
+msgstr ""
+"Nyttige bloggartikler fra %s, side %s - bare det viktigste: anmeldelser, "
+"perspektiver, tips, instruksjoner. Les og kommenter."
+
+#: inc/addons/messages.php:1017
+msgid "Получатели:"
+msgstr ""
+
+#: template-promocodes.php:591 template-promocodes.php:596
+#: functions-w-root.php:2384 functions-w-root.php:2389 !!!functions.php:1151
+#: functions17122022.php:2400 functions17122022.php:2405
+#: functions7122022.php:2395 functions7122022.php:2400
+#: single-promocodes.php:233 single-promocodes.php:238
+#: backup_antibot_functions.php:1558 backup_antibot_functions.php:1563
+#: functions copy.php:1483 functions copy.php:1488 functions.php:2416
+#: functions.php:2421 single-promocodes_cats.php:192
+#: single-promocodes_cats.php:197 single-promocodes_cats.php:329
+#: single-promocodes_cats.php:334 inc/addons/add_links.php:180
+#: inc/addons/company_dashboard_functions.php:1531
+#: inc/addons/company_dashboard_functions.php:1536 inc/addons/banners.php:2106
+#: inc/addons/banners.php:2110 inc/addons/banners.php:2375
+#: inc/addons/banners.php:3352 inc/addons/banners.php:3677
+#: inc/addons/banners.php:3681 inc/addons/banners.php:3960
+#: inc/addons/popups.php:26 inc/addons/popups.php:2894
+#: inc/addons/admin_fix.php:3420 inc/addons/admin_fix.php:3425
+#: inc/addons/banners copy.php:903 inc/addons/banners copy.php:907
+#: inc/addons/banners copy.php:1161 inc/addons/search.php:802
+#: inc/addons/search.php:807 inc/addons/!!!!!banners.php:641
+#: inc/addons/layout.php:761 inc/addons/layout.php:766
+#: template-parts/blocks/list_promocodes/list_promocodes.php:144
+#: template-parts/blocks/list_promocodes/list_promocodes.php:149
+#: template-parts/blocks/popular_categories/popular_categories.php:986
+#: template-parts/blocks/popular_categories/popular_categories.php:991
+#: inc/addons/fields/repeater.php:634 inc/addons/fields/repeater.php:651
+msgid "Получить"
+msgstr "Motta"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4682 inc/addons/comments.php:7300
+#: inc/addons/comments-1.php:3810 inc/addons/comments copy 2.php:6835
+#: inc/addons/comments copy.php:4690
+#: inc/addons/!бекап_пожаловаться_comments.php:3812
+#: inc/addons/admin_fix.php:1488 inc/addons/11!comments.php:3807
+#: inc/addons/comments-artem.php:3757 inc/addons/comments-bc.php:3766
+msgid "Пользователь"
+msgstr ""
+
+#: functions-w-root.php:717 !!!functions.php:494 functions17122022.php:733
+#: functions7122022.php:728 backup_antibot_functions.php:540 functions
+#: copy.php:537 functions.php:738
+msgid "Пользователь с таким email уже зарегистрирован"
+msgstr "En bruker med denne e-postadressen er allerede registrert"
+
+#: functions-w-root.php:4109 functions-w-root.php:4179
+#: functions17122022.php:4125 functions17122022.php:4195
+#: functions7122022.php:4120 functions7122022.php:4190
+#: backup_antibot_functions.php:10219 functions copy.php:10104
+#: functions.php:4235 functions.php:4305
+msgid "Попап"
+msgstr "Popup"
+
+#: template-parts/blocks/big_search_main/big_search.php:211
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:211
+#: template-parts/blocks/big_search/big_search.php:209
+msgid "Популярно:"
+msgstr ""
+
+#: inc/addons/popups.php:2710 inc/addons/popups.php:3154
+msgid ""
+"После модерации отзыв появится на сайте. Мы подобрали для вас лучшие бонусы "
+"из различных категорий"
+msgstr ""
+
+#: inc/addons/popups.php:2706 inc/addons/popups.php:3150
+msgid ""
+"После модерации отзыв появится на сайте. Мы подобрали для вас лучшие бонусы "
+"категории"
+msgstr ""
+
+#: inc/addons/popups.php:519
+msgid "Посмотреть жалобу на странице компании"
+msgstr ""
+
+#: inc/addons/popups.php:507
+msgid "Посмотреть отзыв на странице компании"
+msgstr ""
+
+#: functions-w-root.php:4186 functions17122022.php:4202
+#: functions7122022.php:4197 backup_antibot_functions.php:10292 functions
+#: copy.php:10177 functions.php:4312
+msgid "Посты"
+msgstr "Innlegg"
+
+#: functions-w-root.php:4074 functions17122022.php:4090
+#: functions7122022.php:4085 backup_antibot_functions.php:10187 functions
+#: copy.php:10072 functions.php:4200
+msgid "Посты:"
+msgstr "Innlegg:"
+
+#: functions-w-root.php:1833 functions17122022.php:1849
+#: functions7122022.php:1844 backup_antibot_functions.php:1144 functions
+#: copy.php:1133 functions copy.php:1169 functions.php:1864
+#: inc/addons/layout.php:388 inc/addons/layout.php:445
+#: inc/addons/layout.php:499 inc/addons/layout.php:544
+msgid "Похожие компании"
+msgstr "Relaterte selskaper"
+
+#: inc/addons/popups.php:2492 inc/addons/popups_new_test.php:444
+msgid "Предпросмотр"
+msgstr ""
+
+#: inc/addons/news.php:212
+msgid "Предыдущая"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:450 inc/addons/comments.php:940
+#: inc/addons/comments-1.php:372 inc/addons/comments copy 2.php:799
+#: inc/addons/comments copy.php:458
+#: inc/addons/!бекап_пожаловаться_comments.php:384
+#: inc/addons/11!comments.php:384 inc/addons/comments-artem.php:339
+#: inc/addons/comments-bc.php:335
+msgid "Проблема решена"
+msgstr ""
+
+#: inc/addons/fields/simple.php:304
+msgid "Проверить аттестат"
+msgstr ""
+
+#: functions-w-root.php:2041 functions17122022.php:2057
+#: functions7122022.php:2052 functions.php:2073
+msgid "Проверить компанию"
+msgstr "Sjekk selskapet"
+
+#: inc/addons/fields/simple.php:290
+msgid "Проверить отзывы и претензии"
+msgstr ""
+
+#: inc/addons/admin_fix.php:964 inc/addons/admin_fix.php:965
+msgid "Проверка бонусов"
+msgstr ""
+
+#: inc/addons/admin_fix.php:1036 inc/addons/admin_fix.php:1037
+msgid "Проверка данных обзора"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:474
+msgid "Проигранные дела"
+msgstr ""
+
+#: user-bot.php:7
+msgid "Пройти проверку"
+msgstr ""
+
+#: !!!functions.php:897 header.php:306 header.php:427
+#: inc/addons/add_links.php:134 inc/addons/search.php:675
+#: inc/addons/breadcrumbs/breadcrumbs.php:64
+#: inc/addons/breadcrumbs/breadcrumbs.php:150
+msgid "Промокоды"
+msgstr ""
+
+#: inc/addons/admin_fix.php:152 inc/addons/admin_fix.php:153
+#: inc/addons/admin_fix.php:167
+msgid "Промокоды баннеры"
+msgstr ""
+
+#: !!!functions.php:1214 backup_antibot_functions.php:1642 functions
+#: copy.php:1567
+msgid ""
+"Промокоды на скидку, бонус или беплатную доставку для ведущий интернет-"
+"компаний. Полный список бесплатных промокодов на одной странице."
+msgstr ""
+
+#: functions-w-root.php:2634 functions17122022.php:2650
+#: functions7122022.php:2645 functions.php:2690
+msgid ""
+"Промокоды на скидку, бонус или бесплатную доставку для ведущий интернет-"
+"компаний. Полный список бесплатных промокодов на одной странице."
+msgstr ""
+"Kampanjekoder for rabatt, bonus eller gratis frakt for ledende online "
+"selskaper. Komplett liste over gratis kampanjekoder på én side."
+
+#: inc/addons/admin_fix.php:2651 inc/addons/admin_fix.php:2652
+msgid "Промокоды от компаний"
+msgstr ""
+
+#: inc/addons/admin_fix.php:185
+msgid "Просмотр страницы"
+msgstr ""
+
+#: inc/addons/messages.php:301
+msgid ""
+"Просмотр уведомлений сайта и подписка на уведомления интересующих вас "
+"компаний."
+msgstr ""
+
+#: functions-w-root.php:1973 functions17122022.php:1989
+#: functions7122022.php:1984 backup_antibot_functions.php:1249 functions
+#: copy.php:1218 functions.php:2005 inc/addons/navs/navs.php:303
+msgid "Профиль"
+msgstr "Profil"
+
+#: inc/addons/notify.php:204 inc/addons/user_functions.php:1623
+msgid "Прочитано"
+msgstr ""
+
+#: inc/addons/messages.php:304
+msgid "Публикация отзывов и жалоб."
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:2499 inc/addons/comments.php:3832
+#: inc/addons/comments.php:8002 inc/addons/comments-1.php:2198
+#: inc/addons/comments copy 2.php:3574 inc/addons/comments copy 2.php:7516
+#: inc/addons/comments copy.php:2507
+#: inc/addons/!бекап_пожаловаться_comments.php:2211
+#: inc/addons/11!comments.php:2210 inc/addons/comments-artem.php:2161
+#: inc/addons/comments-bc.php:2157
+msgid "Развернуть"
+msgstr ""
+
+#: inc/addons/navs/navs.php:6
+msgid "Разделы"
+msgstr ""
+
+#: inc/addons/!!!!popups.php:133 inc/addons/popups.php:273
+#: inc/addons/popups.php:2224 inc/addons/!popups.php:133
+msgid "Разместить жалобу"
+msgstr ""
+
+#: !!!functions.php:220 backup_antibot_functions.php:299 functions copy.php:296
+msgid "Разместить компанию"
+msgstr ""
+
+#: inc/addons/!!!!popups.php:110 inc/addons/popups.php:249
+#: inc/addons/popups.php:2227 inc/addons/!popups.php:110
+msgid "Разместить отзыв"
+msgstr ""
+
+#: !!!functions.php:222 backup_antibot_functions.php:301 functions copy.php:298
+msgid "Разместить рекламу"
+msgstr "Annonser"
+
+#: functions-w-root.php:452 functions17122022.php:468 functions7122022.php:463
+#: functions.php:473
+msgid "Расследование"
+msgstr "Etterforskning"
+
+#: functions-w-root.php:472 !!!functions.php:242 functions17122022.php:488
+#: functions7122022.php:483 page-signup.php:19 backup_antibot_functions.php:321
+#: functions copy.php:318 functions.php:493
+#: inc/addons/!щдв-25-05-2021-comments.php:1310
+#: inc/addons/!щдв-25-05-2021-comments.php:1819 inc/addons/comments.php:2131
+#: inc/addons/comments.php:2640 inc/addons/comments-1.php:1239
+#: inc/addons/comments-1.php:1748 inc/addons/comments copy 2.php:1964
+#: inc/addons/comments copy 2.php:2473 inc/addons/comments copy.php:1318
+#: inc/addons/comments copy.php:1827
+#: inc/addons/!бекап_пожаловаться_comments.php:1251
+#: inc/addons/!бекап_пожаловаться_comments.php:1760
+#: inc/addons/banners.php:2423 inc/addons/banners.php:3401
+#: inc/addons/banners.php:4009 inc/addons/admin_fix.php:1489
+#: inc/addons/11!comments.php:1251 inc/addons/11!comments.php:1760
+#: inc/addons/banners copy.php:1209 inc/addons/comments-artem.php:1202
+#: inc/addons/comments-artem.php:1711 inc/addons/!!!!!banners.php:685
+#: inc/addons/comments-bc.php:1198 inc/addons/comments-bc.php:1707
+#: inc/addons/table/table.php:421 inc/addons/table/table.php:573
+#: inc/addons/table/table.php:619 inc/addons/table/table.php:668
+#: inc/addons/table/table.php:714 inc/addons/table/table.php:771
+#: inc/addons/table/table.php:922 inc/addons/table/table.php:965
+#: inc/addons/table/table.php:1011 inc/addons/table/table.php:1049
+#: inc/addons/table/table.php:1103
+msgid "Регистрация"
+msgstr "Registrering"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:1315 inc/addons/comments.php:2136
+#: inc/addons/comments-1.php:1244 inc/addons/comments copy 2.php:1969
+#: inc/addons/comments copy.php:1323
+#: inc/addons/!бекап_пожаловаться_comments.php:1256
+#: inc/addons/11!comments.php:1256 inc/addons/comments-artem.php:1207
+#: inc/addons/comments-bc.php:1203
+msgid "Регистрация по E-mail"
+msgstr ""
+
+#: inc/addons/user_functions.php:1138
+msgid "Редактирование"
+msgstr ""
+
+#: !!!functions.php:341 inc/addons/search.php:666
+msgid "Результат поиска:"
+msgstr ""
+
+#: inc/addons/review_widgets.php:211
+msgid "Рейтинг"
+msgstr "Rangering"
+
+#: comment-single_view_new.php:833
+msgid "Рейтинг:"
+msgstr "Rangering:"
+
+#: header.php:302 header.php:423 inc/addons/search.php:674
+#: inc/addons/breadcrumbs/breadcrumbs.php:88
+#: inc/addons/breadcrumbs/breadcrumbs.php:109
+#: inc/addons/breadcrumbs/breadcrumbs.php:164
+#: inc/addons/breadcrumbs/breadcrumbs.php:246
+#: inc/addons/breadcrumbs/breadcrumbs.php:443
+#: inc/addons/breadcrumbs/breadcrumbs.php:486
+msgid "Рейтинги"
+msgstr "Vurderinger"
+
+#: inc/addons/banners.php:2438 inc/addons/banners.php:3416
+#: inc/addons/banners.php:4024 inc/addons/banners copy.php:1224
+#: inc/addons/!!!!!banners.php:700
+msgid "Реклама"
+msgstr ""
+
+#: inc/addons/messages.php:307
+msgid "Рекомендуем:"
+msgstr ""
+
+#: inc/addons/popups.php:2447
+msgid "Рекомендуете друзьям?"
+msgstr ""
+
+#: comment-single_view.php:445 comment-single_view.php:794 comment-single_view
+#: copy.php:318 comment-single_view copy.php:509 comment-single_view
+#: copy.php:1199 comment-single_view copy.php:1380
+#: comment-single_view_new.php:150 comment-single_view_new.php:331
+#: inc/addons/comments copy 2.php:4624 inc/addons/comments_new.php:1033
+msgid "Рекомендую"
+msgstr ""
+
+#: inc/addons/popups.php:3977 inc/addons/popups.php:3979
+msgid "Рекомендую друзьям"
+msgstr ""
+
+#: inc/addons/popups.php:3380
+msgid "Рекомендую:"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:462
+#: inc/addons/company_activities.php:28 inc/addons/company_activities.php:59
+#: inc/addons/comments.php:953 inc/addons/comments copy 2.php:812
+#: inc/addons/comments copy.php:470
+msgid "Решено"
+msgstr ""
+
+#: functions-w-root.php:2486 functions-w-root.php:2488
+#: functions17122022.php:2502 functions17122022.php:2504
+#: functions7122022.php:2497 functions7122022.php:2499 functions.php:2518
+#: functions.php:2520
+msgid "Рубрика"
+msgstr "Seksjon"
+
+#: !!!functions.php:1190 backup_antibot_functions.php:1618 functions
+#: copy.php:1543
+msgid "Рубрика "
+msgstr "Seksjon "
+
+#: inc/addons/popups.php:1949 inc/addons/popups.php:2019
+msgid "Рубрика не найдена"
+msgstr ""
+
+#: !!!functions.php:843 inc/addons/layout.php:862 inc/addons/rating copy/rating
+#: copy.php:689 inc/addons/rating copy/rating copy.php:805 inc/addons/rating
+#: copy/rating copy.php:871 inc/addons/rating copy/rating.php:697
+#: inc/addons/rating copy/rating.php:813 inc/addons/rating copy/rating.php:879
+#: inc/addons/rating copy/rating copy 2.php:709 inc/addons/rating copy/rating
+#: copy 2.php:828 inc/addons/rating copy/rating copy 2.php:894
+#: inc/addons/rating/rating copy.php:689 inc/addons/rating/rating copy.php:805
+#: inc/addons/rating/rating copy.php:871 inc/addons/rating/rating.php:1330
+#: inc/addons/rating/rating.php:1558 inc/addons/rating/rating.php:1621
+#: inc/addons/rating/rating.php:1688 inc/addons/rating/rating.php:1767
+#: inc/addons/rating/rating.php:1836 inc/addons/rating/rating.php:1900
+#: inc/addons/rating/rating.php:1967 inc/addons/rating/rating.php:2093
+#: inc/addons/rating/rating.php:2156 inc/addons/rating/rating.php:2220
+#: inc/addons/rating/rating.php:2287 inc/addons/rating/rating copy 2.php:709
+#: inc/addons/rating/rating copy 2.php:828 inc/addons/rating/rating copy
+#: 2.php:894
+msgid "Рубрика:"
+msgstr "Seksjon:"
+
+#: template-parts/blocks/features/features_2.php:114
+msgid "С 2015 года "
+msgstr ""
+
+#: inc/addons/fields/repeater.php:447
+msgid "С материнским капиталом"
+msgstr ""
+
+#: functions-w-root.php:4110 functions-w-root.php:4181
+#: functions17122022.php:4126 functions17122022.php:4197
+#: functions7122022.php:4121 functions7122022.php:4192
+#: backup_antibot_functions.php:10220 backup_antibot_functions.php:10287
+#: functions copy.php:10105 functions copy.php:10172 functions.php:4236
+#: functions.php:4307
+msgid "Сайдбар"
+msgstr "Sidefelt"
+
+#: inc/addons/banners.php:2276 inc/addons/banners.php:3253
+#: inc/addons/banners.php:3861 inc/addons/banners copy.php:1069
+#: inc/addons/!!!!!banners.php:553
+msgid "Самые выгодные предложения месяца"
+msgstr ""
+
+#: functions-w-root.php:3817 functions-w-root.php:3844
+#: functions17122022.php:3833 functions17122022.php:3860
+#: functions7122022.php:3828 functions7122022.php:3855 functions.php:3943
+#: functions.php:3970
+#, php-format
+msgid "Сегодня вам доступно %s актуальных промокода компании %s."
+msgstr ""
+"Det er %s faktiske %s bedriftskampanjekoder tilgjengelig for deg i dag."
+
+#: functions-w-root.php:3871 functions17122022.php:3887
+#: functions7122022.php:3882 functions.php:3997
+#, php-format
+msgid "Сегодня вам доступно %s актуальных промокодов компании %s."
+msgstr "Det er %s aktuelle kampanjekoder for %s tilgjengelig for deg i dag."
+
+#: functions-w-root.php:1974 functions17122022.php:1990
+#: functions7122022.php:1985 backup_antibot_functions.php:1250 functions
+#: copy.php:1219 functions.php:2006 inc/addons/user_functions.php:1886
+#: template-parts/blocks/big_links/big_links.php:72
+#: inc/addons/navs/navs.php:304
+msgid "Сервисы"
+msgstr "Tjenester"
+
+#: template-promocodes.php:566 functions-w-root.php:2342 !!!functions.php:1128
+#: functions17122022.php:2358 functions7122022.php:2353
+#: single-promocodes.php:191 backup_antibot_functions.php:1516 functions
+#: copy.php:1441 functions.php:2374 single-promocodes_cats.php:167
+#: single-promocodes_cats.php:304 inc/addons/add_links.php:158
+#: inc/addons/company_dashboard_functions.php:1486 inc/addons/banners.php:2080
+#: inc/addons/banners.php:3651 inc/addons/admin_fix.php:3378 inc/addons/banners
+#: copy.php:877 inc/addons/search.php:743 inc/addons/layout.php:702
+#: template-parts/blocks/list_promocodes/list_promocodes.php:99
+#: template-parts/blocks/popular_categories/popular_categories.php:931
+msgid "Скидка на заказ"
+msgstr "Rabatt på bestilling"
+
+#: functions-w-root.php:3764 functions-w-root.php:3789
+#: functions-w-root.php:3815 functions-w-root.php:3842
+#: functions-w-root.php:3869 functions17122022.php:3780
+#: functions17122022.php:3805 functions17122022.php:3831
+#: functions17122022.php:3858 functions17122022.php:3885
+#: functions7122022.php:3775 functions7122022.php:3800
+#: functions7122022.php:3826 functions7122022.php:3853
+#: functions7122022.php:3880 functions.php:3890 functions.php:3915
+#: functions.php:3941 functions.php:3968 functions.php:3995
+#, php-format
+msgid "Сколько промокодов %s помогут вам сэкономить?"
+msgstr "Hvor mange %s kampanjekoder vil hjelpe deg med å spare penger?"
+
+#: template-promocodes.php:592 functions-w-root.php:2385
+#: functions17122022.php:2401 functions7122022.php:2396
+#: single-promocodes.php:234 backup_antibot_functions.php:1559 functions
+#: copy.php:1484 functions.php:2417 single-promocodes_cats.php:193
+#: single-promocodes_cats.php:330
+#: inc/addons/company_dashboard_functions.php:1532 inc/addons/banners.php:2107
+#: inc/addons/banners.php:3678 inc/addons/popups.php:27
+#: inc/addons/admin_fix.php:3421 inc/addons/banners copy.php:904
+#: inc/addons/search.php:803 inc/addons/layout.php:762
+#: template-parts/blocks/list_promocodes/list_promocodes.php:145
+#: template-parts/blocks/popular_categories/popular_categories.php:987
+msgid "Скопировать"
+msgstr "Kopi fra"
+
+#: functions-w-root.php:3778 functions17122022.php:3794
+#: functions7122022.php:3789 functions.php:3904
+#, php-format
+msgid "Скопируйте промокод и используйте его при заказе услуг в компании %s."
+msgstr "Kopier kampanjekoden og bruk den når du bestiller tjenester fra %s."
+
+#: inc/addons/news.php:222
+msgid "Следующая"
+msgstr ""
+
+#: comments.php:73 template-rating-all.php:60 find-category.php:69
+#: inc/addons/!щдв-25-05-2021-comments.php:286
+#: inc/addons/!щдв-25-05-2021-comments.php:447 inc/addons/comments.php:681
+#: inc/addons/comments.php:937 inc/addons/comments-1.php:260
+#: inc/addons/comments-1.php:369 inc/addons/comments copy 2.php:540
+#: inc/addons/comments copy 2.php:796 inc/addons/comments copy.php:286
+#: inc/addons/comments copy.php:455
+#: inc/addons/!бекап_пожаловаться_comments.php:272
+#: inc/addons/!бекап_пожаловаться_comments.php:381
+#: inc/addons/11!comments.php:272 inc/addons/11!comments.php:381
+#: inc/addons/profile_functions.php:1526 inc/addons/user_functions.php:1728
+#: inc/addons/comments-artem.php:245 inc/addons/comments-artem.php:336
+#: inc/addons/comments-bc.php:242 inc/addons/comments-bc.php:332
+msgid "Сначала новые"
+msgstr ""
+
+#: comments.php:75 inc/addons/!щдв-25-05-2021-comments.php:287
+#: inc/addons/comments.php:682 inc/addons/comments-1.php:261
+#: inc/addons/comments copy 2.php:541 inc/addons/comments copy.php:287
+#: inc/addons/!бекап_пожаловаться_comments.php:273
+#: inc/addons/11!comments.php:273 inc/addons/profile_functions.php:1527
+#: inc/addons/comments-artem.php:246 inc/addons/comments-bc.php:243
+msgid "Сначала популярные"
+msgstr ""
+
+#: comments.php:74 template-rating-all.php:61 find-category.php:70
+#: inc/addons/!щдв-25-05-2021-comments.php:288
+#: inc/addons/!щдв-25-05-2021-comments.php:448 inc/addons/comments.php:683
+#: inc/addons/comments.php:938 inc/addons/comments-1.php:262
+#: inc/addons/comments-1.php:370 inc/addons/comments copy 2.php:542
+#: inc/addons/comments copy 2.php:797 inc/addons/comments copy.php:288
+#: inc/addons/comments copy.php:456
+#: inc/addons/!бекап_пожаловаться_comments.php:274
+#: inc/addons/!бекап_пожаловаться_comments.php:382
+#: inc/addons/11!comments.php:274 inc/addons/11!comments.php:382
+#: inc/addons/profile_functions.php:1528 inc/addons/user_functions.php:1729
+#: inc/addons/comments-artem.php:247 inc/addons/comments-artem.php:337
+#: inc/addons/comments-bc.php:244 inc/addons/comments-bc.php:333
+msgid "Сначала старые"
+msgstr ""
+
+#: functions-w-root.php:548 !!!functions.php:307 functions17122022.php:564
+#: page-forgot-password.php:39 functions7122022.php:559
+#: backup_antibot_functions.php:391 functions copy.php:388 functions.php:569
+#: page-signin.php:41 inc/addons/!щдв-25-05-2021-comments.php:1861
+#: inc/addons/!!!!popups.php:169 inc/addons/comments.php:2682
+#: inc/addons/comments-1.php:1790 inc/addons/comments copy 2.php:2515
+#: inc/addons/comments copy.php:1869
+#: inc/addons/!бекап_пожаловаться_comments.php:1802
+#: inc/addons/popups.php:312 inc/addons/popups.php:955
+#: inc/addons/11!comments.php:1802 inc/addons/comments-artem.php:1753
+#: inc/addons/!popups.php:169 inc/addons/comments-bc.php:1749
+msgid "Создать аккаунт"
+msgstr "Opprett konto"
+
+#: functions-w-root.php:449 functions-w-root.php:1968 functions17122022.php:465
+#: functions17122022.php:1984 functions7122022.php:460
+#: functions7122022.php:1979 functions.php:470 functions.php:2000
+#: inc/addons/messages.php:1126 inc/addons/messages.php:1127
+msgid "Сообщения"
+msgstr "Beskjeder"
+
+#: functions-w-root.php:802 functions-w-root.php:872 !!!functions.php:570
+#: functions17122022.php:818 functions17122022.php:888 functions7122022.php:813
+#: functions7122022.php:883 backup_antibot_functions.php:624 functions
+#: copy.php:617 functions.php:823 functions.php:893
+msgid "Сообщество"
+msgstr "Fellesskapet"
+
+#: template-rating-all.php:56 find-category.php:65
+msgid "Сортировать по"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:1307
+#: inc/addons/user_functions.php:1029 inc/addons/user_functions.php:1125
+#: inc/addons/user_functions.php:1140 inc/addons/user_functions.php:1202
+#: inc/addons/user_functions.php:1211
+msgid "Сохранить"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:959
+msgid "Социальные сети"
+msgstr ""
+
+#: inc/addons/messages.php:297
+msgid ""
+"Спасибо за регистрацию на нашем сайте! Сейчас вам доступны следующие функции "
+"сайта:"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:782 inc/addons/comments.php:1290
+#: inc/addons/comments-1.php:690 inc/addons/comments copy 2.php:1149
+#: inc/addons/comments copy.php:790
+#: inc/addons/!бекап_пожаловаться_comments.php:702
+#: inc/addons/11!comments.php:702 inc/addons/comments-artem.php:653
+#: inc/addons/comments-bc.php:649
+msgid "Спасибо! Ваша жалоба успешно отправлена."
+msgstr ""
+
+#: inc/addons/popups.php:2930
+msgid "Спасибо, данные обновлены"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2947
+msgid "Специальности"
+msgstr ""
+
+#: !!!functions.php:923
+msgid "Сравнить"
+msgstr ""
+
+#: inc/addons/popups.php:1025
+msgid "Ссылка для восстановления пароля успешно отправлена на Ваш E-mail"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4140
+#: inc/addons/!щдв-25-05-2021-comments.php:4207 inc/addons/comments.php:6758
+#: inc/addons/comments.php:6825 inc/addons/comments-1.php:3269
+#: inc/addons/comments-1.php:3336 inc/addons/comments copy 2.php:6293
+#: inc/addons/comments copy 2.php:6360 inc/addons/comments copy.php:4148
+#: inc/addons/comments copy.php:4215
+#: inc/addons/!бекап_пожаловаться_comments.php:3271
+#: inc/addons/!бекап_пожаловаться_comments.php:3338
+#: inc/addons/11!comments.php:3266 inc/addons/11!comments.php:3333
+#: inc/addons/comments-artem.php:3219 inc/addons/comments-artem.php:3286
+#: inc/addons/comments-bc.php:3228 inc/addons/comments-bc.php:3295
+msgid "Ссылка на изображение, видео (Youtube)"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:2079 inc/addons/!!!!popups.php:68
+#: inc/addons/comments.php:2900 inc/addons/comments-1.php:2008
+#: inc/addons/comments copy 2.php:2733 inc/addons/comments copy.php:2087
+#: inc/addons/!бекап_пожаловаться_comments.php:2020
+#: inc/addons/popups.php:185 inc/addons/11!comments.php:2020
+#: inc/addons/comments-artem.php:1971 inc/addons/!popups.php:68
+#: inc/addons/comments-bc.php:1967
+msgid "Ссылка на комментарий"
+msgstr ""
+
+#: inc/addons/popups.php:179
+msgid "Ссылка на отзыв"
+msgstr ""
+
+#: inc/addons/admin_fix.php:184
+msgid "Ссылка на редактирование"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:606 inc/addons/fields/repeater.php:1203
+msgid "Ставка:"
+msgstr ""
+
+#: inc/addons/admin_fix.php:729
+msgid "Статистика по переходам"
+msgstr ""
+
+#: inc/addons/admin_fix.php:1647 inc/addons/admin_fix.php:1648
+msgid "Статистика по юзерам"
+msgstr ""
+
+#: inc/addons/admin_fix.php:1490
+msgid "Статус"
+msgstr ""
+
+#: functions-w-root.php:2038 functions17122022.php:2054
+#: functions7122022.php:2049 functions.php:2070
+msgid "Стать автором"
+msgstr "Bli forfatter"
+
+#: functions-w-root.php:450 functions17122022.php:466 functions7122022.php:461
+#: find-news.php:49 category.php:84 functions.php:471 template-news.php:25
+#: template-news.php:35 inc/addons/breadcrumbs/breadcrumbs.php:329
+#: inc/addons/breadcrumbs/breadcrumbs.php:450
+msgid "Статьи"
+msgstr "Artikler"
+
+#: inc/addons/admin_fix.php:3038 inc/addons/admin_fix.php:3039
+msgid "Статьи для публикации в блоге"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4683 inc/addons/comments.php:7301
+#: inc/addons/comments-1.php:3811 inc/addons/comments copy 2.php:6836
+#: inc/addons/comments copy.php:4691
+#: inc/addons/!бекап_пожаловаться_comments.php:3813
+#: inc/addons/11!comments.php:3808 inc/addons/comments-artem.php:3758
+#: inc/addons/comments-bc.php:3767 inc/addons/breadcrumbs/breadcrumbs.php:518
+msgid "Страница"
+msgstr "Side"
+
+#: functions-w-root.php:2480 functions17122022.php:2496
+#: functions7122022.php:2491 functions.php:2512
+msgid "Страница не найдена"
+msgstr "Siden ble ikke funnet"
+
+#: !!!functions.php:1184 backup_antibot_functions.php:1612 functions
+#: copy.php:1537
+msgid "Страница не найдена | Это развод™"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:451
+msgid "Субсидии"
+msgstr ""
+
+#: functions-w-root.php:4035 functions17122022.php:4051
+#: functions7122022.php:4046 backup_antibot_functions.php:10151 functions
+#: copy.php:10036 functions.php:4161
+msgid "Таргетинг"
+msgstr "Målretting"
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4679 inc/addons/comments.php:7297
+#: inc/addons/comments-1.php:3807 inc/addons/comments copy 2.php:6832
+#: inc/addons/comments copy.php:4687
+#: inc/addons/!бекап_пожаловаться_comments.php:3809
+#: inc/addons/11!comments.php:3804 inc/addons/comments-artem.php:3754
+#: inc/addons/comments-bc.php:3763
+msgid "Текст комментария"
+msgstr ""
+
+#: inc/addons/popups.php:2480 inc/addons/popups_new_test.php:418
+msgid "Текст отзыва"
+msgstr ""
+
+#: functions-w-root.php:4175 functions17122022.php:4191
+#: functions7122022.php:4186 backup_antibot_functions.php:10281 functions
+#: copy.php:10166 functions.php:4301
+msgid "Текст с кнопкой"
+msgstr ""
+
+#: functions-w-root.php:4033 functions17122022.php:4049
+#: functions7122022.php:4044 backup_antibot_functions.php:10149 functions
+#: copy.php:10034 functions.php:4159
+msgid "Тип баннера"
+msgstr "Bannertype"
+
+#: inc/addons/admin_fix.php:1487
+msgid "Тип письма"
+msgstr ""
+
+#: inc/addons/admin_fix.php:293 inc/addons/admin_fix.php:294
+msgid "Топы по компаниям и комментам"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:142 inc/addons/fields/repeater.php:547
+msgid "Торговый эквайринг:"
+msgstr ""
+
+#: functions-w-root.php:547 !!!functions.php:306 functions17122022.php:563
+#: functions7122022.php:558 backup_antibot_functions.php:390 functions
+#: copy.php:387 functions.php:568 page-signin.php:40
+#: inc/addons/!щдв-25-05-2021-comments.php:1860
+#: inc/addons/!!!!popups.php:168 inc/addons/comments.php:2681
+#: inc/addons/comments-1.php:1789 inc/addons/comments copy 2.php:2514
+#: inc/addons/comments copy.php:1868
+#: inc/addons/!бекап_пожаловаться_comments.php:1801
+#: inc/addons/popups.php:311 inc/addons/11!comments.php:1801
+#: inc/addons/comments-artem.php:1752 inc/addons/!popups.php:168
+#: inc/addons/comments-bc.php:1748
+msgid "У вас еще нет аккаунта?"
+msgstr "Har du ikke en konto ennå?"
+
+#: inc/addons/messages.php:1033
+msgid ""
+"У вас еще нет личных сообщений. Вы можете написать пользователям, оставившим "
+"отзыв или жалобу о вашей компании, личное сообщение через раздел Отзывы или "
+"Жалобы."
+msgstr ""
+
+#: inc/addons/messages.php:196
+msgid ""
+"У вас еще нет личных сообщений. Они появятся, когда компания, о которой вы "
+"оставили отзыв или жалобу, напишет вам."
+msgstr ""
+
+#: functions-w-root.php:500 !!!functions.php:262 functions17122022.php:516
+#: functions7122022.php:511 page-signup.php:47 backup_antibot_functions.php:346
+#: functions copy.php:343 functions.php:521
+#: inc/addons/!щдв-25-05-2021-comments.php:1375 inc/addons/comments.php:2196
+#: inc/addons/comments-1.php:1304 inc/addons/comments copy 2.php:2029
+#: inc/addons/comments copy.php:1383
+#: inc/addons/!бекап_пожаловаться_comments.php:1316
+#: inc/addons/11!comments.php:1316 inc/addons/comments-artem.php:1267
+#: inc/addons/comments-bc.php:1263
+msgid "У вас уже есть аккаунт?"
+msgstr "Har du allerede en konto?"
+
+#: functions-w-root.php:448 functions-w-root.php:1967 functions17122022.php:464
+#: functions17122022.php:1983 functions7122022.php:459
+#: functions7122022.php:1978 backup_antibot_functions.php:1244
+#: functions.php:469 functions.php:1999
+msgid "Уведомления"
+msgstr "Meldinger"
+
+#: functions-w-root.php:6020 functions17122022.php:6036
+#: functions7122022.php:6031 functions.php:6158
+#, php-format
+msgid ""
+"Уведомляем вас о том, что на ваш отзыв, который вы оставили о компании %s %s "
+"на сайте eto-razvod.ru, появился новый комментарий. Вы можете посмотреть его "
+"на нашем сайте, перейдя по %s"
+msgstr ""
+"Vi vil gjerne varsle deg om at det er en ny kommentar til anmeldelsen din "
+"som du la igjen om %s %s på no.revieweek.com. Du kan se den på nettstedet "
+"vårt ved å gå til %s"
+
+#: inc/addons/subscribe.php:93 inc/addons/subscribe.php:102
+#: inc/addons/subscribe.php:137 inc/addons/subscribe.php:146
+msgid "Узнать первым о новых промокодах"
+msgstr ""
+
+#: functions-w-root.php:704 !!!functions.php:481 functions17122022.php:720
+#: functions7122022.php:715 backup_antibot_functions.php:527 functions
+#: copy.php:524 functions.php:725
+msgid "Укажите E-mail"
+msgstr "Spesifiser e-post"
+
+#: functions-w-root.php:707 !!!functions.php:484 functions17122022.php:723
+#: functions7122022.php:718 backup_antibot_functions.php:530 functions
+#: copy.php:527 functions.php:728
+msgid "Укажите Имя"
+msgstr "Spesifiser navn"
+
+#: functions-w-root.php:2728 functions17122022.php:2744
+#: functions7122022.php:2739 functions.php:2784
+msgid "Укажите ваш E-mail"
+msgstr "Skriv inn e-postadressen din"
+
+#: inc/addons/popups.php:2475 inc/addons/popups_new_test.php:412
+msgid ""
+"Укажите главную мысль отзыва. Упоминать название компании в заголовке не "
+"нужно. "
+msgstr ""
+
+#: inc/addons/popups.php:2577
+msgid "Укажите другой"
+msgstr ""
+
+#: inc/addons/popups.php:3211 inc/addons/popups.php:3471
+#: inc/addons/popups.php:3568 inc/addons/popups.php:3783
+msgid "Укажите заголовок отзыва"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2996
+msgid "Укажите значения"
+msgstr ""
+
+#: inc/addons/admin_fix.php:3001
+msgid "Укажите обзоры для добавления значений в выбранное поле"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2885
+msgid "Укажите поле"
+msgstr ""
+
+#: inc/addons/popups.php:3214 inc/addons/popups.php:3475
+#: inc/addons/popups.php:3572 inc/addons/popups.php:3787
+msgid "Укажите текст отзыва"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2888
+msgid "Укажите хотя бы одно значение"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2891
+msgid "Укажите хотя бы одну компанию"
+msgstr ""
+
+#: inc/addons/popups.php:3208 inc/addons/popups.php:3468
+#: inc/addons/popups.php:3565 inc/addons/popups.php:3780
+msgid "Укажите, порекомендуете ли вы компанию друзьям"
+msgstr ""
+
+#: inc/addons/messages.php:311
+msgid ""
+"Указать ваши интересы, чтобы для вас отображался наиболее подходящий под "
+"ваши интересы контент."
+msgstr ""
+
+#: functions-w-root.php:488 functions-w-root.php:549 !!!functions.php:253
+#: !!!functions.php:308 functions17122022.php:504 functions17122022.php:565
+#: functions7122022.php:499 functions7122022.php:560 page-signup.php:36
+#: backup_antibot_functions.php:337 backup_antibot_functions.php:392 functions
+#: copy.php:334 functions copy.php:389 functions.php:509 functions.php:570
+#: page-signin.php:42 inc/addons/!!!!popups.php:170 inc/addons/popups.php:313
+#: inc/addons/!popups.php:170
+msgid "Условия пользования сайтом"
+msgstr "Vilkår for bruk"
+
+#: functions-w-root.php:483 !!!functions.php:248 functions17122022.php:499
+#: functions7122022.php:494 page-signup.php:30 backup_antibot_functions.php:332
+#: functions copy.php:329 functions.php:504
+msgid "Фамилия"
+msgstr "Navn"
+
+#: inc/addons/popups.php:2582
+msgid "Фамилия "
+msgstr "Navn "
+
+#: inc/addons/fields/repeater.php:169 inc/addons/fields/repeater.php:256
+msgid "Фиат"
+msgstr ""
+
+#: find-news.php:47 category.php:82 find-category.php:55 template-news.php:33
+#: inc/addons/admin_fix.php:764 inc/addons/admin_fix.php:875
+#: inc/addons/admin_fix.php:1385
+msgid "Фильтр"
+msgstr ""
+
+#: !!!functions.php:33 template-parts/blocks/big_search_main/big_search.php:37
+#: template-parts/blocks/big_search_main/big_search.php:40
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:37
+#: template-parts/blocks/big_search_main/big_search-backup-2312.php:40
+#: template-parts/blocks/big_search/big_search.php:43
+#: template-parts/blocks/big_search/big_search.php:49
+msgid "Финам"
+msgstr ""
+
+#: functions-w-root.php:4111 functions17122022.php:4127
+#: functions7122022.php:4122 backup_antibot_functions.php:10221 functions
+#: copy.php:10106 functions.php:4237
+msgid "Хед"
+msgstr "Leder"
+
+#: inc/addons/fields/!!!repeater.php:99 inc/addons/fields/repeater.php:500
+msgid "Холодный"
+msgstr ""
+
+#: functions-w-root.php:3925 functions17122022.php:3941
+#: functions7122022.php:3936 functions.php:4051
+#, php-format
+msgid "Частые вопросы о промокодах %s"
+msgstr "Vanlige spørsmål om %s-kampanjekoder"
+
+#: comment-single_view_new.php:524 comment-single_view_new.php:747
+msgid "Читать далее"
+msgstr ""
+
+#: inc/addons/compare.php:12
+msgid ""
+"Чтобы добавить компанию в сравнение, пожалуйста, авторизуйтесь на сайте."
+msgstr ""
+
+#: inc/addons/bookmark.php:13
+msgid ""
+"Чтобы добавить страницу в избранное, пожалуйста, авторизуйтесь на сайте."
+msgstr ""
+
+#: inc/addons/popups.php:2262 inc/addons/user_functions.php:3755
+msgid "Чтобы оставить жалобу на компанию, пожалуйста, авторизуйтесь на сайте."
+msgstr ""
+
+#: inc/addons/popups.php:2260 inc/addons/user_functions.php:3753
+msgid "Чтобы оставить отзыв компании, пожалуйста, авторизуйтесь на сайте."
+msgstr ""
+
+#: inc/addons/profile_functions.php:998 inc/addons/subscribe.php:12
+msgid ""
+"Чтобы подписаться на обновления компании, пожалуйста, авторизуйтесь на сайте."
+msgstr ""
+
+#: functions-w-root.php:4182 functions17122022.php:4198
+#: functions7122022.php:4193 backup_antibot_functions.php:10288 functions
+#: copy.php:10173 functions.php:4308
+msgid "Шапка"
+msgstr "Hatt"
+
+#: inc/addons/verify_company.php:33
+msgid "Это ваша компания?"
+msgstr ""
+
+#: inc/addons/layout.php:347
+msgid "Это все результаты"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4708 inc/addons/comments.php:7326
+#: inc/addons/comments-1.php:3836 inc/addons/comments copy 2.php:6861
+#: inc/addons/comments copy.php:4716
+#: inc/addons/!бекап_пожаловаться_comments.php:3838
+#: inc/addons/11!comments.php:3833 inc/addons/comments-artem.php:3783
+#: inc/addons/comments-bc.php:3792
+msgid "Это комментарий, не отзыв!"
+msgstr ""
+
+#: functions-w-root.php:2472 functions-w-root.php:4652
+#: functions17122022.php:2488 functions17122022.php:4668
+#: functions7122022.php:2483 functions7122022.php:4663 functions.php:2504
+#: functions.php:4778 inc/addons/company_dashboard_functions.php:241
+#: inc/addons/user_functions.php:3301
+msgid "Это развод™"
+msgstr "Revieweek™"
+
+#: inc/addons/comments-1.php:2208 inc/addons/comments-1.php:2340
+#: inc/addons/comments-1.php:2504 inc/addons/comments-1.php:2635
+#: inc/addons/comments-1.php:2805
+#: inc/addons/!бекап_пожаловаться_comments.php:2222
+#: inc/addons/!бекап_пожаловаться_comments.php:2355
+#: inc/addons/!бекап_пожаловаться_comments.php:2507
+#: inc/addons/!бекап_пожаловаться_comments.php:2637
+#: inc/addons/!бекап_пожаловаться_comments.php:2807
+#: inc/addons/11!comments.php:2220 inc/addons/11!comments.php:2353
+#: inc/addons/11!comments.php:2503 inc/addons/11!comments.php:2632
+#: inc/addons/11!comments.php:2802 inc/addons/comments-artem.php:2171
+#: inc/addons/comments-artem.php:2305 inc/addons/comments-artem.php:2454
+#: inc/addons/comments-artem.php:2585 inc/addons/comments-artem.php:2755
+#: inc/addons/comments-bc.php:2167 inc/addons/comments-bc.php:2299
+#: inc/addons/comments-bc.php:2463 inc/addons/comments-bc.php:2594
+#: inc/addons/comments-bc.php:2764
+msgid "Это спам"
+msgstr ""
+
+#: !!!functions.php:429
+msgid "Эторазвод.ру"
+msgstr ""
+
+#: functions-w-root.php:475 functions17122022.php:491 functions7122022.php:486
+#: page-signup.php:22 backup_antibot_functions.php:324 functions copy.php:321
+#: functions.php:496 template-parts/blocks/big_links/big_links.php:53
+msgid "Я пользователь"
+msgstr "Jeg er bruker"
+
+#: functions-w-root.php:476 functions17122022.php:492 functions7122022.php:487
+#: page-signup.php:23 backup_antibot_functions.php:325 functions copy.php:322
+#: functions.php:497 template-parts/blocks/big_links/big_links.php:54
+msgid "Я представитель компании"
+msgstr "Jeg er representant for en bedrift"
+
+#: inc/addons/popups.php:2348 inc/addons/popups.php:2352
+msgid "Я хочу написать отзыв о другой компании"
+msgstr ""
+
+#: inc/addons/admin_fix.php:2948
+msgid "Языки прогрммирования"
+msgstr ""
+
+#: inc/addons/popups.php:4032 inc/addons/redirects copy.php:168
+#: inc/addons/redirects.php:507
+msgid "анонимный пользователь"
+msgstr "anonym bruker"
+
+#: inc/addons/rating copy/rating copy.php:696 inc/addons/rating copy/rating
+#: copy.php:812 inc/addons/rating copy/rating copy.php:878 inc/addons/rating
+#: copy/rating.php:704 inc/addons/rating copy/rating.php:820 inc/addons/rating
+#: copy/rating.php:886 inc/addons/rating copy/rating copy 2.php:716
+#: inc/addons/rating copy/rating copy 2.php:835 inc/addons/rating copy/rating
+#: copy 2.php:901 inc/addons/rating/rating copy.php:696
+#: inc/addons/rating/rating copy.php:812 inc/addons/rating/rating copy.php:878
+#: inc/addons/rating/rating.php:1339 inc/addons/rating/rating.php:1565
+#: inc/addons/rating/rating.php:1628 inc/addons/rating/rating.php:1695
+#: inc/addons/rating/rating.php:1774 inc/addons/rating/rating.php:1843
+#: inc/addons/rating/rating.php:1907 inc/addons/rating/rating.php:1974
+#: inc/addons/rating/rating.php:2100 inc/addons/rating/rating.php:2163
+#: inc/addons/rating/rating.php:2227 inc/addons/rating/rating.php:2294
+#: inc/addons/rating/rating copy 2.php:716 inc/addons/rating/rating copy
+#: 2.php:835 inc/addons/rating/rating copy 2.php:901
+msgid "блогер"
+msgstr ""
+
+#: inc/addons/rating copy/rating copy.php:696 inc/addons/rating copy/rating
+#: copy.php:812 inc/addons/rating copy/rating copy.php:878 inc/addons/rating
+#: copy/rating.php:704 inc/addons/rating copy/rating.php:820 inc/addons/rating
+#: copy/rating.php:886 inc/addons/rating copy/rating copy 2.php:716
+#: inc/addons/rating copy/rating copy 2.php:835 inc/addons/rating copy/rating
+#: copy 2.php:901 inc/addons/rating/rating copy.php:696
+#: inc/addons/rating/rating copy.php:812 inc/addons/rating/rating copy.php:878
+#: inc/addons/rating/rating.php:1339 inc/addons/rating/rating.php:1565
+#: inc/addons/rating/rating.php:1628 inc/addons/rating/rating.php:1695
+#: inc/addons/rating/rating.php:1774 inc/addons/rating/rating.php:1843
+#: inc/addons/rating/rating.php:1907 inc/addons/rating/rating.php:1974
+#: inc/addons/rating/rating.php:2100 inc/addons/rating/rating.php:2163
+#: inc/addons/rating/rating.php:2227 inc/addons/rating/rating.php:2294
+#: inc/addons/rating/rating copy 2.php:716 inc/addons/rating/rating copy
+#: 2.php:835 inc/addons/rating/rating copy 2.php:901
+msgid "блогера"
+msgstr ""
+
+#: inc/addons/rating copy/rating copy.php:696 inc/addons/rating copy/rating
+#: copy.php:812 inc/addons/rating copy/rating copy.php:878 inc/addons/rating
+#: copy/rating.php:704 inc/addons/rating copy/rating.php:820 inc/addons/rating
+#: copy/rating.php:886 inc/addons/rating copy/rating copy 2.php:716
+#: inc/addons/rating copy/rating copy 2.php:835 inc/addons/rating copy/rating
+#: copy 2.php:901 inc/addons/rating/rating copy.php:696
+#: inc/addons/rating/rating copy.php:812 inc/addons/rating/rating copy.php:878
+#: inc/addons/rating/rating.php:1339 inc/addons/rating/rating.php:1565
+#: inc/addons/rating/rating.php:1628 inc/addons/rating/rating.php:1695
+#: inc/addons/rating/rating.php:1774 inc/addons/rating/rating.php:1843
+#: inc/addons/rating/rating.php:1907 inc/addons/rating/rating.php:1974
+#: inc/addons/rating/rating.php:2100 inc/addons/rating/rating.php:2163
+#: inc/addons/rating/rating.php:2227 inc/addons/rating/rating.php:2294
+#: inc/addons/rating/rating copy 2.php:716 inc/addons/rating/rating copy
+#: 2.php:835 inc/addons/rating/rating copy 2.php:901
+msgid "блогеров"
+msgstr ""
+
+#: inc/addons/messages.php:324
+msgid "быть экспертом в какой-либо области;"
+msgstr ""
+
+#: inc/addons/comments.php:1435 inc/addons/comments.php:3035
+#: inc/addons/comments.php:3419 inc/addons/comments.php:3674
+#: inc/addons/comments.php:4056 inc/addons/comments.php:4487
+#: inc/addons/comments.php:5274 inc/addons/comments.php:5672
+#: inc/addons/comments.php:5945 inc/addons/comments.php:7873
+#: inc/addons/comments_new.php:208 inc/addons/comments_new.php:686
+msgid "в"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:545 inc/addons/comments.php:1053
+#: inc/addons/comments-1.php:453 inc/addons/comments copy 2.php:912
+#: inc/addons/comments copy.php:553
+#: inc/addons/!бекап_пожаловаться_comments.php:465
+#: inc/addons/11!comments.php:465 inc/addons/comments-artem.php:416
+#: inc/addons/comments-bc.php:412
+msgid "войдите другим способом"
+msgstr ""
+
+#: single-casino.php:627 single.php:25 single-casino-2.php:520
+msgid "года"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:94 inc/addons/fields/!!!repeater.php:107
+#: inc/addons/fields/repeater.php:433 inc/addons/fields/repeater.php:495
+#: inc/addons/fields/repeater.php:508
+msgid "да"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:75 inc/addons/fields/repeater.php:87
+msgid "для"
+msgstr ""
+
+#: inc/addons/!!!!!banners.php:549
+msgid "для вас сегодня"
+msgstr ""
+
+#: inc/addons/admin_fix.php:753 inc/addons/admin_fix.php:864
+#: inc/addons/fields/repeater.php:144 inc/addons/fields/repeater.php:184
+#: inc/addons/fields/repeater.php:230 inc/addons/fields/repeater.php:271
+msgid "до"
+msgstr ""
+
+#: inc/addons/messages.php:316
+msgid "добавлять отзывы о компаниях и отвечать на отзывы других пользователей;"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:47 inc/addons/fields/!!!repeater.php:290
+msgid "есть"
+msgstr ""
+
+#: inc/addons/popups.php:1881
+msgid "еще нет на сайте"
+msgstr ""
+
+#: functions-w-root.php:1184 functions-w-root.php:1186 !!!functions.php:689
+#: functions17122022.php:1200 functions17122022.php:1202
+#: functions7122022.php:1195 functions7122022.php:1197
+#: backup_antibot_functions.php:796 functions copy.php:784 functions.php:1215
+#: functions.php:1217 inc/addons/company_activities.php:22
+#: inc/addons/company_activities.php:53
+#: inc/addons/company_dashboard_functions.php:758 inc/addons/similar.php:89
+#: inc/addons/profile_functions.php:343 inc/addons/layout.php:1087
+msgid "жалоб"
+msgstr "klager"
+
+#: functions-w-root.php:1184 functions-w-root.php:1186 !!!functions.php:689
+#: functions17122022.php:1200 functions17122022.php:1202
+#: functions7122022.php:1195 functions7122022.php:1197
+#: backup_antibot_functions.php:796 functions copy.php:784 functions.php:1215
+#: functions.php:1217 inc/addons/company_activities.php:22
+#: inc/addons/company_activities.php:53
+#: inc/addons/company_dashboard_functions.php:758 inc/addons/similar.php:89
+#: inc/addons/profile_functions.php:343 inc/addons/layout.php:1087
+msgid "жалоба"
+msgstr "klage"
+
+#: functions-w-root.php:1184 functions-w-root.php:1186 !!!functions.php:689
+#: functions17122022.php:1200 functions17122022.php:1202
+#: functions7122022.php:1195 functions7122022.php:1197
+#: backup_antibot_functions.php:796 functions copy.php:784 functions.php:1215
+#: functions.php:1217 inc/addons/company_activities.php:22
+#: inc/addons/company_activities.php:53
+#: inc/addons/company_dashboard_functions.php:758 inc/addons/similar.php:89
+#: inc/addons/profile_functions.php:343 inc/addons/layout.php:1087
+msgid "жалобы"
+msgstr "klager"
+
+#: inc/addons/fields/simple.php:190
+msgid "и еще"
+msgstr ""
+
+#: inc/addons/messages.php:325
+msgid "изменить логин и url профиля;"
+msgstr ""
+
+#: inc/addons/messages.php:315
+msgid "изучать рейтинги и обзоры;"
+msgstr ""
+
+#: inc/addons/popups.php:2784
+msgid "или используйте сервисы для входа"
+msgstr ""
+
+#: template-promocodes.php:611 functions-w-root.php:2404 !!!functions.php:1159
+#: functions17122022.php:2420 functions7122022.php:2415
+#: single-promocodes.php:249 backup_antibot_functions.php:1578 functions
+#: copy.php:1503 functions.php:2436 single-promocodes_cats.php:212
+#: single-promocodes_cats.php:349 inc/addons/add_links.php:188
+#: inc/addons/company_dashboard_functions.php:1548
+#: inc/addons/admin_fix.php:3436 inc/addons/search.php:786
+#: inc/addons/layout.php:745
+#: template-parts/blocks/list_promocodes/list_promocodes.php:164
+#: template-parts/blocks/popular_categories/popular_categories.php:1006
+msgid "использует"
+msgstr "bruk"
+
+#: template-promocodes.php:611 functions-w-root.php:2404
+#: functions-w-root.php:2404 !!!functions.php:1159 !!!functions.php:1159
+#: functions17122022.php:2420 functions17122022.php:2420
+#: functions7122022.php:2415 functions7122022.php:2415
+#: single-promocodes.php:249 single-promocodes.php:249
+#: backup_antibot_functions.php:1578 backup_antibot_functions.php:1578
+#: functions copy.php:1503 functions copy.php:1503 functions.php:2436
+#: functions.php:2436 single-promocodes_cats.php:212
+#: single-promocodes_cats.php:212 single-promocodes_cats.php:349
+#: single-promocodes_cats.php:349 inc/addons/add_links.php:188
+#: inc/addons/add_links.php:188 inc/addons/company_dashboard_functions.php:1548
+#: inc/addons/company_dashboard_functions.php:1548
+#: inc/addons/admin_fix.php:3436 inc/addons/admin_fix.php:3436
+#: inc/addons/search.php:786 inc/addons/search.php:786
+#: inc/addons/user_functions.php:1925 inc/addons/user_functions.php:1939
+#: inc/addons/user_functions.php:1949 inc/addons/user_functions.php:1960
+#: inc/addons/user_functions.php:1977 inc/addons/user_functions.php:1988
+#: inc/addons/layout.php:745 inc/addons/layout.php:745
+#: template-parts/blocks/list_promocodes/list_promocodes.php:164
+#: template-parts/blocks/list_promocodes/list_promocodes.php:164
+#: template-parts/blocks/popular_categories/popular_categories.php:1006
+#: template-parts/blocks/popular_categories/popular_categories.php:1006
+msgid "используют"
+msgstr "bruke"
+
+#: inc/addons/fields/repeater.php:488
+msgid "кв. м."
+msgstr ""
+
+#: functions-w-root.php:5969 functions17122022.php:5985
+#: functions7122022.php:5980 functions.php:6107
+msgid "комментарий"
+msgstr "kommentar"
+
+#: functions-w-root.php:3337 functions17122022.php:3353
+#: functions7122022.php:3348 backup_antibot_functions.php:2046 functions
+#: copy.php:1960 functions.php:3463 inc/addons/profile_functions.php:139
+#: inc/addons/profile_functions.php:142 inc/addons/user_functions.php:559
+#: inc/addons/user_functions.php:562 inc/addons/user_functions.php:609
+#: inc/addons/user_functions.php:612 inc/addons/user_functions.php:1676
+#: inc/addons/layout.php:868 inc/addons/rating copy/rating copy.php:698
+#: inc/addons/rating copy/rating copy.php:814 inc/addons/rating copy/rating
+#: copy.php:880 inc/addons/rating copy/rating.php:706 inc/addons/rating
+#: copy/rating.php:822 inc/addons/rating copy/rating.php:888 inc/addons/rating
+#: copy/rating copy 2.php:718 inc/addons/rating copy/rating copy 2.php:837
+#: inc/addons/rating copy/rating copy 2.php:903 inc/addons/rating/rating
+#: copy.php:698 inc/addons/rating/rating copy.php:814 inc/addons/rating/rating
+#: copy.php:880 inc/addons/rating/rating.php:1342
+#: inc/addons/rating/rating.php:1567 inc/addons/rating/rating.php:1630
+#: inc/addons/rating/rating.php:1697 inc/addons/rating/rating.php:1776
+#: inc/addons/rating/rating.php:1845 inc/addons/rating/rating.php:1909
+#: inc/addons/rating/rating.php:1976 inc/addons/rating/rating.php:2102
+#: inc/addons/rating/rating.php:2165 inc/addons/rating/rating.php:2229
+#: inc/addons/rating/rating.php:2296 inc/addons/rating/rating copy 2.php:718
+#: inc/addons/rating/rating copy 2.php:837 inc/addons/rating/rating copy
+#: 2.php:903
+msgid "компании"
+msgstr "selskaper"
+
+#: functions-w-root.php:3337 functions17122022.php:3353
+#: functions17122022.php:3353 functions7122022.php:3348
+#: functions7122022.php:3348 backup_antibot_functions.php:2046
+#: backup_antibot_functions.php:2046 functions copy.php:1960 functions
+#: copy.php:1960 functions.php:3463 functions.php:3463
+#: inc/addons/profile_functions.php:139 inc/addons/profile_functions.php:142
+#: inc/addons/user_functions.php:559 inc/addons/user_functions.php:562
+#: inc/addons/user_functions.php:609 inc/addons/user_functions.php:612
+#: inc/addons/user_functions.php:1676 inc/addons/layout.php:868
+#: inc/addons/rating copy/rating copy.php:698 inc/addons/rating copy/rating
+#: copy.php:814 inc/addons/rating copy/rating copy.php:880 inc/addons/rating
+#: copy/rating.php:706 inc/addons/rating copy/rating.php:822 inc/addons/rating
+#: copy/rating.php:888 inc/addons/rating copy/rating copy 2.php:718
+#: inc/addons/rating copy/rating copy 2.php:837 inc/addons/rating copy/rating
+#: copy 2.php:903 inc/addons/rating/rating copy.php:698
+#: inc/addons/rating/rating copy.php:814 inc/addons/rating/rating copy.php:880
+#: inc/addons/rating/rating.php:1342 inc/addons/rating/rating.php:1567
+#: inc/addons/rating/rating.php:1630 inc/addons/rating/rating.php:1697
+#: inc/addons/rating/rating.php:1776 inc/addons/rating/rating.php:1845
+#: inc/addons/rating/rating.php:1909 inc/addons/rating/rating.php:1976
+#: inc/addons/rating/rating.php:2102 inc/addons/rating/rating.php:2165
+#: inc/addons/rating/rating.php:2229 inc/addons/rating/rating.php:2296
+#: inc/addons/rating/rating copy 2.php:718 inc/addons/rating/rating copy
+#: 2.php:837 inc/addons/rating/rating copy 2.php:903
+msgid "компаний"
+msgstr "selskaper"
+
+#: inc/addons/profile_functions.php:139 inc/addons/profile_functions.php:142
+#: inc/addons/user_functions.php:559 inc/addons/user_functions.php:562
+#: inc/addons/user_functions.php:609 inc/addons/user_functions.php:612
+#: inc/addons/user_functions.php:1676
+msgid "компанию"
+msgstr ""
+
+#: inc/addons/layout.php:868 inc/addons/rating copy/rating copy.php:698
+#: inc/addons/rating copy/rating copy.php:814 inc/addons/rating copy/rating
+#: copy.php:880 inc/addons/rating copy/rating.php:706 inc/addons/rating
+#: copy/rating.php:822 inc/addons/rating copy/rating.php:888 inc/addons/rating
+#: copy/rating copy 2.php:718 inc/addons/rating copy/rating copy 2.php:837
+#: inc/addons/rating copy/rating copy 2.php:903 inc/addons/rating/rating
+#: copy.php:698 inc/addons/rating/rating copy.php:814 inc/addons/rating/rating
+#: copy.php:880 inc/addons/rating/rating.php:1342
+#: inc/addons/rating/rating.php:1567 inc/addons/rating/rating.php:1630
+#: inc/addons/rating/rating.php:1697 inc/addons/rating/rating.php:1776
+#: inc/addons/rating/rating.php:1845 inc/addons/rating/rating.php:1909
+#: inc/addons/rating/rating.php:1976 inc/addons/rating/rating.php:2102
+#: inc/addons/rating/rating.php:2165 inc/addons/rating/rating.php:2229
+#: inc/addons/rating/rating.php:2296 inc/addons/rating/rating copy 2.php:718
+#: inc/addons/rating/rating copy 2.php:837 inc/addons/rating/rating copy
+#: 2.php:903
+msgid "компания"
+msgstr ""
+
+#: functions-w-root.php:6938 functions17122022.php:6972
+#: functions7122022.php:6949 functions.php:7134
+msgid "курс"
+msgstr "kurs"
+
+#: functions-w-root.php:6938 functions17122022.php:6972
+#: functions7122022.php:6949 functions.php:7134
+msgid "курса"
+msgstr "kurs"
+
+#: functions-w-root.php:6938 functions17122022.php:6972
+#: functions7122022.php:6949 functions.php:7134
+msgid "курсов"
+msgstr "kurs"
+
+#: inc/addons/search.php:666
+msgid "материал"
+msgstr ""
+
+#: inc/addons/search.php:666
+msgid "материала"
+msgstr ""
+
+#: inc/addons/search.php:666
+msgid "материалов"
+msgstr ""
+
+#: inc/addons/comments.php:8340 inc/addons/comments copy 2.php:7757
+msgid "месяц"
+msgstr ""
+
+#: inc/addons/comments.php:8340 inc/addons/comments copy 2.php:7757
+msgid "месяца"
+msgstr ""
+
+#: inc/addons/comments.php:8340 inc/addons/comments copy 2.php:7757
+msgid "месяцев"
+msgstr ""
+
+#: comment-single_view.php:984 comment-single_view copy.php:945
+#: comment-single_view copy.php:1792 comment-single_view_new.php:836
+#: inc/addons/comments.php:1751 inc/addons/comments copy 2.php:1610
+#: inc/addons/profile_functions.php:210 inc/addons/profile_functions.php:655
+#: inc/addons/user_functions.php:276
+msgid "минус"
+msgstr ""
+
+#: comment-single_view.php:984 comment-single_view copy.php:945
+#: comment-single_view copy.php:1792 comment-single_view_new.php:836
+#: inc/addons/comments.php:1751 inc/addons/comments copy 2.php:1610
+#: inc/addons/profile_functions.php:210 inc/addons/profile_functions.php:655
+#: inc/addons/user_functions.php:276
+msgid "минуса"
+msgstr ""
+
+#: comment-single_view.php:984 comment-single_view copy.php:945
+#: comment-single_view copy.php:1792 comment-single_view_new.php:836
+#: inc/addons/comments.php:1751 inc/addons/comments copy 2.php:1610
+#: inc/addons/profile_functions.php:210 inc/addons/profile_functions.php:655
+#: inc/addons/user_functions.php:276
+msgid "минусов"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:1126
+msgid "на сумму"
+msgstr ""
+
+#: inc/addons/popups.php:4039
+msgid "написал пользователь"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:304 inc/addons/fields/repeater.php:742
+msgid "не требуется"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:96 inc/addons/fields/!!!repeater.php:109
+#: inc/addons/fields/!!!repeater.php:306 inc/addons/fields/repeater.php:435
+#: inc/addons/fields/repeater.php:497 inc/addons/fields/repeater.php:510
+#: inc/addons/fields/repeater.php:744
+msgid "нет"
+msgstr ""
+
+#: functions-w-root.php:2534 functions17122022.php:2550
+#: functions7122022.php:2545 functions.php:2581
+msgid "новости"
+msgstr "nyheter"
+
+#: template-parts/blocks/features/features_2.php:89
+msgid "обзор компаний"
+msgstr ""
+
+#: template-parts/blocks/features/features_2.php:91
+msgid "обзора компаний"
+msgstr ""
+
+#: template-parts/blocks/features/features_2.php:93
+msgid "обзоров компаний"
+msgstr ""
+
+#: inc/addons/!щдв-25-05-2021-comments.php:4477
+#: inc/addons/!щдв-25-05-2021-comments.php:4485
+#: inc/addons/!щдв-25-05-2021-comments.php:4496 inc/addons/comments.php:7095
+#: inc/addons/comments.php:7103 inc/addons/comments.php:7114
+#: inc/addons/comments-1.php:3606 inc/addons/comments-1.php:3613
+#: inc/addons/comments-1.php:3624 inc/addons/comments copy 2.php:6630
+#: inc/addons/comments copy 2.php:6638 inc/addons/comments copy 2.php:6649
+#: inc/addons/comments copy.php:4485 inc/addons/comments copy.php:4493
+#: inc/addons/comments copy.php:4504
+#: inc/addons/!бекап_пожаловаться_comments.php:3608
+#: inc/addons/!бекап_пожаловаться_comments.php:3615
+#: inc/addons/!бекап_пожаловаться_comments.php:3626
+#: inc/addons/11!comments.php:3603 inc/addons/11!comments.php:3610
+#: inc/addons/11!comments.php:3621 inc/addons/comments-artem.php:3553
+#: inc/addons/comments-artem.php:3560 inc/addons/comments-artem.php:3571
+#: inc/addons/comments-bc.php:3562 inc/addons/comments-bc.php:3569
+#: inc/addons/comments-bc.php:3580
+msgid "обновите страницу"
+msgstr ""
+
+#: inc/addons/messages.php:334
+msgid "обновлять карточку вашего бренда;"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:482
+msgid "объект"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:482
+msgid "объекта"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:482
+msgid "объектов"
+msgstr ""
+
+#: inc/addons/popups.php:500
+msgid "опубликован!"
+msgstr ""
+
+#: inc/addons/popups.php:512
+msgid "опубликована!"
+msgstr ""
+
+#: inc/addons/fields/repeater.php:180 inc/addons/fields/repeater.php:267
+msgid "от"
+msgstr ""
+
+#: comment-single_view.php:777 comment-single_view copy.php:492
+#: comment-single_view copy.php:1363 comment-single_view_new.php:314
+#: inc/addons/!щдв-25-05-2021-comments.php:2924 inc/addons/comments.php:4942
+#: inc/addons/comments-1.php:2485 inc/addons/comments copy 2.php:4604
+#: inc/addons/comments copy.php:2932
+#: inc/addons/!бекап_пожаловаться_comments.php:2487
+#: inc/addons/11!comments.php:2484 inc/addons/comments-artem.php:2435
+#: inc/addons/comments_new.php:1017 inc/addons/comments-bc.php:2444
+msgid "ответ"
+msgstr ""
+
+#: comment-single_view.php:779 comment-single_view copy.php:494
+#: comment-single_view copy.php:1365 comment-single_view_new.php:316
+#: inc/addons/!щдв-25-05-2021-comments.php:2926 inc/addons/comments.php:4944
+#: inc/addons/comments-1.php:2487 inc/addons/comments copy 2.php:4606
+#: inc/addons/comments copy.php:2934
+#: inc/addons/!бекап_пожаловаться_comments.php:2489
+#: inc/addons/11!comments.php:2486 inc/addons/comments-artem.php:2437
+#: inc/addons/comments_new.php:1019 inc/addons/comments-bc.php:2446
+msgid "ответа"
+msgstr ""
+
+#: comment-single_view.php:781 comment-single_view copy.php:496
+#: comment-single_view copy.php:1367 comment-single_view_new.php:318
+#: inc/addons/!щдв-25-05-2021-comments.php:2928 inc/addons/comments.php:4946
+#: inc/addons/comments-1.php:2489 inc/addons/comments copy 2.php:4608
+#: inc/addons/comments copy.php:2936
+#: inc/addons/!бекап_пожаловаться_comments.php:2491
+#: inc/addons/11!comments.php:2488 inc/addons/comments-artem.php:2439
+#: inc/addons/comments_new.php:1021 inc/addons/comments-bc.php:2448
+msgid "ответов"
+msgstr ""
+
+#: inc/addons/messages.php:339
+msgid "отвечать на жалобы о компании;"
+msgstr ""
+
+#: inc/addons/messages.php:337
+msgid "отвечать на отзывы от лица официального представителя компании;"
+msgstr ""
+
+#: functions-w-root.php:5963 functions-w-root.php:6015 !!!functions.php:680
+#: functions17122022.php:5979 functions17122022.php:6031
+#: functions7122022.php:5974 functions7122022.php:6026
+#: backup_antibot_functions.php:2043 functions copy.php:1957 functions.php:6101
+#: functions.php:6153 template-parts/blocks/features/features_2.php:79
+#: inc/addons/rating copy/rating copy.php:1860 inc/addons/rating
+#: copy/rating.php:1868 inc/addons/rating copy/rating copy 2.php:1879
+#: inc/addons/rating/rating copy.php:1860 inc/addons/rating/rating.php:4034
+#: inc/addons/rating/rating.php:4157 inc/addons/rating/rating.php:4245
+#: inc/addons/rating/rating copy 2.php:1879
+msgid "отзыв"
+msgstr "tilbakemelding"
+
+#: inc/addons/popups.php:4016
+msgid "отзыв о"
+msgstr ""
+
+#: inc/addons/popups.php:4037
+msgid "отзыв о компании"
+msgstr ""
+
+#: !!!functions.php:680 backup_antibot_functions.php:2043 functions
+#: copy.php:1957 template-parts/blocks/features/features_2.php:81
+#: inc/addons/rating copy/rating copy.php:1860 inc/addons/rating
+#: copy/rating.php:1868 inc/addons/rating copy/rating copy 2.php:1879
+#: inc/addons/rating/rating copy.php:1860 inc/addons/rating/rating.php:4034
+#: inc/addons/rating/rating.php:4157 inc/addons/rating/rating.php:4245
+#: inc/addons/rating/rating copy 2.php:1879
+msgid "отзыва"
+msgstr "tilbakemelding"
+
+#: !!!functions.php:680 backup_antibot_functions.php:2043 functions
+#: copy.php:1957 template-parts/blocks/features/features_2.php:83
+#: inc/addons/rating copy/rating copy.php:1860 inc/addons/rating
+#: copy/rating.php:1868 inc/addons/rating copy/rating copy 2.php:1879
+#: inc/addons/rating/rating copy.php:1860 inc/addons/rating/rating.php:4034
+#: inc/addons/rating/rating.php:4157 inc/addons/rating/rating.php:4245
+#: inc/addons/rating/rating copy 2.php:1879
+msgid "отзывов"
+msgstr "tilbakemelding"
+
+#: comments.php:39 inc/addons/comments.php:650 inc/addons/comments copy
+#: 2.php:509
+msgid "отзывы"
+msgstr "tilbakemelding"
+
+#: inc/addons/popups.php:2704 inc/addons/popups.php:2975
+#: inc/addons/popups.php:3148
+msgid "отправлен на модерацию!"
+msgstr ""
+
+#: inc/addons/messages.php:318
+msgid "отслеживать промокоды компаний."
+msgstr ""
+
+#: comment-single_view.php:984 comment-single_view copy.php:945
+#: comment-single_view copy.php:1792 comment-single_view_new.php:836
+#: inc/addons/comments.php:1750 inc/addons/comments copy 2.php:1609
+#: inc/addons/profile_functions.php:210 inc/addons/profile_functions.php:655
+#: inc/addons/user_functions.php:276
+msgid "плюс"
+msgstr ""
+
+#: comment-single_view.php:984 comment-single_view copy.php:945
+#: comment-single_view copy.php:1792 comment-single_view_new.php:836
+#: inc/addons/comments.php:1750 inc/addons/comments copy 2.php:1609
+#: inc/addons/profile_functions.php:210 inc/addons/profile_functions.php:655
+#: inc/addons/user_functions.php:276
+msgid "плюса"
+msgstr ""
+
+#: comment-single_view.php:984 comment-single_view copy.php:945
+#: comment-single_view copy.php:1792 comment-single_view_new.php:836
+#: inc/addons/comments.php:1750 inc/addons/comments copy 2.php:1609
+#: inc/addons/profile_functions.php:210 inc/addons/profile_functions.php:655
+#: inc/addons/user_functions.php:276
+msgid "плюсов"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:503
+msgid "подписан"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:503
+msgid "подписано"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:503
+msgid "подписаны"
+msgstr ""
+
+#: inc/addons/messages.php:327
+msgid "получать специальные предложения от компаний;"
+msgstr ""
+
+#: inc/addons/messages.php:323
+msgid "получить значок PRO;"
+msgstr ""
+
+#: template-parts/blocks/features/features_2.php:111
+msgid ""
+"пользователей доверяют нашему проекту и размещают на нем свои отзывы. Легко "
+"быть в курсе, легко делиться тем, что точно знаешь."
+msgstr ""
+
+#: template-parts/blocks/features/features_2.php:105
+msgid ""
+"пользователь доверяет нашему проекту и размещает на нем свои отзывы. Легко "
+"быть в курсе, легко делиться тем, что точно знаешь."
+msgstr ""
+
+#: template-parts/blocks/features/features_2.php:108
+msgid ""
+"пользователя доверяют нашему проекту и размещают на нем свои отзывы. Легко "
+"быть в курсе, легко делиться тем, что точно знаешь."
+msgstr ""
+
+#: inc/addons/messages.php:340
+msgid "пользоваться аналитикой."
+msgstr ""
+
+#: inc/addons/messages.php:329
+msgid "пользоваться нашими авторскими обучающими материалами."
+msgstr ""
+
+#: inc/addons/messages.php:328
+msgid "пользоваться приоритетной связью с компаниями;"
+msgstr ""
+
+#: inc/addons/messages.php:335
+msgid "публиковать актуальные акции и промокоды;"
+msgstr ""
+
+#: inc/addons/messages.php:317
+msgid "публиковать жалобы на компании;"
+msgstr ""
+
+#: inc/addons/messages.php:326 inc/addons/messages.php:338
+msgid "размещать ссылки в ваших комментариях и услуги в профиле;"
+msgstr ""
+
+#: inc/addons/messages.php:336
+msgid "размещать экспертные статьи в Блоге;"
+msgstr ""
+
+#: backup_antibot_functions.php:2056 functions copy.php:1970
+msgid "рейтинг"
+msgstr "rangering"
+
+#: backup_antibot_functions.php:2056 functions copy.php:1970
+msgid "рейтинга"
+msgstr "rangering"
+
+#: backup_antibot_functions.php:2056 functions copy.php:1970
+msgid "рейтингов"
+msgstr "vurderinger"
+
+#: inc/addons/banners.php:2268 inc/addons/banners.php:3245
+#: inc/addons/banners.php:3853 inc/addons/banners copy.php:1063
+msgid "сегодня"
+msgstr ""
+
+#: template-parts/blocks/features/features_2.php:73
+msgid "статей и записей"
+msgstr ""
+
+#: template-parts/blocks/features/features_2.php:71
+msgid "статьи и записи"
+msgstr ""
+
+#: template-parts/blocks/features/features_2.php:69
+msgid "статья и запись"
+msgstr ""
+
+#: functions-w-root.php:2486 functions17122022.php:2502
+#: functions7122022.php:2497 functions.php:2518
+msgid "страница"
+msgstr "side"
+
+#: inc/addons/notify.php:129 inc/addons/notify.php:143
+#: inc/addons/notify.php:336 inc/addons/user_functions.php:1593
+#: inc/addons/user_functions.php:1610
+msgid "странице записи"
+msgstr ""
+
+#: inc/addons/notify.php:117 inc/addons/notify.php:125
+#: inc/addons/notify.php:139 inc/addons/notify.php:316
+#: inc/addons/user_functions.php:1580 inc/addons/user_functions.php:1589
+#: inc/addons/user_functions.php:1606
+msgid "странице компании"
+msgstr ""
+
+#: inc/addons/fields/!!!repeater.php:288 inc/addons/fields/repeater.php:723
+msgid "требуется"
+msgstr ""
+
+#: inc/addons/messages.php:322
+msgid "указать в профиле ссылки на ваши соц сети и другие ресурсы в сети;"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:503
+msgid "человек"
+msgstr ""
+
+#: inc/addons/company_dashboard_functions.php:503
+msgid "человека"
+msgstr ""
+
+#: single-casino.php:599 single-casino-2.php:497
+msgid "это развод?"
+msgstr ""

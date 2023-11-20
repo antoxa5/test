@@ -1,0 +1,23 @@
+.subscribe_form form {
+	width: calc(100%);
+	display: flex;
+}
+
+.subscribe_form {
+	margin-bottom: 30px;
+}
+
+.subscribe_form form input[type="text"] {
+	flex: 0 0 calc(100% - 50px - 166px);
+	height: 53px;
+	line-height: 53px;
+	padding: 0 25px;
+	border:1px solid #ccdbe1;
+	border-right: 0;
+	font-size: 15px;
+}
+
+.subscribe_form form input[type="submit"] {
+	flex: 0 0 calc(166px);
+	text-align: center;
+}

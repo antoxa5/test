@@ -1,0 +1,141 @@
+.rating_table {
+}
+
+.table_head {
+	margin-bottom: 15px;
+	border-bottom: 3px solid #EEE;
+}
+
+.table_head .table_head_column {
+	color: #666;
+	font-size: 0.9em;
+	padding: 15px;
+	white-space: nowrap;
+}
+
+
+.table_head_column i {
+	color: #6a94b2;
+float: left;
+margin-right: 5px;
+margin-top: 3px;
+font-size: 0.9em;
+}
+
+.table_body {
+}
+
+.table_row {
+	border-bottom:1px solid #EEE;
+	min-height: 100px;
+	vertical-align: center;
+}
+
+.table_row .table_column {
+	padding: 15px;
+}
+
+
+.table_column.field_button {
+	width: 150px;
+}
+
+.table_column .content_cta_button .main_button {
+	width: 150px;
+	max-width: 150px;
+	min-width: 150px;
+	font-size: 1em;
+	padding: 5px 10px;
+	padding-bottom: 7px;
+}
+
+.table_column.field_rating {
+	width: 80px;
+}
+
+
+.table_column .card_logo {
+	width: 65px;
+	height: 65px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	float: left;
+	background-color: #eee;
+	border: 1px solid #EEE;
+}
+
+.table_column .card_logo:hover {
+	border-color: #6ab2a1;
+}
+
+.table_column .review_title_container {
+	margin-left: 80px;
+	display: block;
+}
+
+.table_column .short_description {
+	display: block;
+	font-size: 0.9em;
+	margin-top: 5px;
+	line-height: 1.4em;
+}
+
+.table_column .c100 {
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.table_column.field_logo_name {
+	width: 400px;
+}
+
+
+
+
+.style_logos .review_logo {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	display: block;
+	flex: 0 0 calc(90px);
+	border: 1px solid #dce4e7;
+	width: 90px;
+	height: 90px;
+	background-color: #FFF;
+}
+
+.style_logos ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	align-self: center;
+}
+
+.style_logos ul li {
+	list-style: none;
+	margin: 0;
+	margin-left: 26px;
+	margin-right: 27px;
+}
+
+.sa_list_reviews.style_logos .wrap {
+	padding-top: 13px;
+padding-bottom: 13px;
+}
+
+@media screen and (max-width: 700px) {
+	.style_logos ul li {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}

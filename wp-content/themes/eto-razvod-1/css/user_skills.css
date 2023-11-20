@@ -1,0 +1,91 @@
+.user_popup_form_edit {
+    max-height: calc(100vh - 150px);
+    overflow: scroll !important;
+}
+
+#ratings_all_filter_autocomplete_skills {
+    margin-bottom: 20px;
+}
+
+.edit_skills_popup {
+    min-width: 400px;
+}
+
+.user-form__title {
+    display: block;
+    text-align: left;
+    margin-bottom: 18px;
+}
+
+#filter_form_ratings_all_filter_autocomplete_skills ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    display: flex;
+    max-width: 400px;
+}
+
+.create_review, .for_user_editor {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#filter_form_ratings_all_filter_autocomplete_skills ul li {
+    white-space: nowrap;
+    color: #001640;
+    cursor: pointer;
+    display: flex;
+    margin: 10px;
+}
+
+#filter_form_ratings_all_filter_autocomplete_skills ul li:after {
+    background-image: url(../img/close.svg);
+    width: 10px;
+    height: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 10px 10px;
+    content: '';
+    display: block;
+    align-self: center;
+    margin-left: 5px;
+}
+
+.edit_skills_popup_height {
+    min-height: 300px;
+}
+
+#filter_form_ratings_all_filter_autocomplete_skills ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    display: flex;
+    max-width: 400px;
+    padding: 0;
+    margin: 0;
+}
+
+.user-form_title-under {
+    text-align: left;
+    color: #2a3b5f;
+    margin-bottom: 20px;
+}
+
+.user-form__title_reg {
+    margin-bottom: 0;
+}
+.user-form_title-under-second {margin-bottom: 10px;}
+
+@media screen and (max-width: 700px) {
+    .edit_skills_popup {
+        min-width: unset;
+    }
+
+    .user-form_title-under-second {
+        text-align: left;
+    }
+}

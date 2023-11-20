@@ -1,0 +1,295 @@
+.popup_service {
+    max-width: 600px;
+}
+
+.popup_service__header_balance {
+    display: flex;
+}
+
+.popup_service__header_balance .popup_service__header_number_wrapper {
+    padding: 3px;
+    line-height: 1;
+    background: #5B6068;
+    color: #FFF;
+}
+
+.popup_service__header_balance {
+    line-height: 1;
+    display: flex;
+    align-items: center;
+}
+
+.popup_service__header_balance {color: #5B6068;}
+
+.popup_service__header_balance {
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.popup_service__header_balance > .popup_service__header_number_wrapper {
+    padding: 3px 10px;
+    display: inline-block;
+    margin: 0 5px;
+}
+
+
+
+.input-number-mod,
+.input-number-mod-decrement,
+.input-number-mod-increment {
+    border: 1px solid #ccc;
+    height: 40px;
+    user-select: none;
+    border-color: #5B6068;
+}
+
+.input-number-mod-decrement,
+.input-number-mod-increment {
+    display: inline-block;
+    width: 30px;
+    line-height: 38px;
+    background: #f1f1f1;
+    color: #444;
+    text-align: center;
+    cursor: pointer;
+    background: #5B6068;
+    color: #FFF;
+}
+.input-number-mod-decrement:active,
+.input-number-mod-increment:active {
+    background: #ddd;
+}
+
+.input-number-mod-decrement {
+    border-right: none;
+    border-radius: 4px 0 0 4px;
+}
+
+.input-number-mod-increment {
+    border-left: none;
+    border-radius: 0 4px 4px 0;
+}
+.input-number-mod {
+    width: 80px;
+    padding: 0 12px;
+    vertical-align: top;
+    text-align: center;
+    outline: none;
+    display: inline-block;
+}
+.input-number-mod {
+    border-radius: 0;
+}
+
+
+.checkbox_get > input {
+    position: absolute;
+    z-index: -1;
+}
+
+.checkbox_get > label {
+    width: 16px;
+    height: 16px;
+    border: 2px solid #5b5f66;
+    display: block;
+    margin-left: auto;
+    position: relative;
+}
+
+.checkbox_get {
+    display: inline-block;
+}
+
+.checkbox_get input:checked+label::before {
+    content: "";
+    background-image: url(../img/icon_check_active.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    height: 100%;
+}
+
+.checkbox_get input:checked+label {
+    border-color: #21B67B;
+}
+
+.popup_service__footer_text {
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.popup_service__footer_text > .checkbox_get {
+    margin-right: 10px;
+}
+
+.popup_service__about {
+    background: #6321B6;
+    color: #fff;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    border-radius: 4px;
+}
+
+.popup_service__paybtn_this {
+    background: #21B67B;
+    font-size: 16px;
+    color: #FFF;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    width: 220px;
+    border-radius: 4px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.popup_service__middle_takewordmonth {
+    margin-left: 7px;
+}
+
+.popup_service__about {
+    padding: 10px;
+}
+
+.popup_service__about_line {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.popup_service__about_line {
+    margin-bottom: 5px;
+}
+
+.popup_service__about_show-new-window-wr {
+    background: #FFF;
+    color: #6221b6;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 4px;
+    margin-left: 5px;
+    padding: 2px 5px;
+}
+.popup_service__about {
+    margin-top: 10px;
+}
+
+.balance_service .number-stat-profile__title,.ez_bonus_service .number-stat-profile__title {
+    color: #5B6068;
+    font-size: 14px;
+}
+
+.balance_logo_wrapper {
+    width: 58px;
+    height: 58px;
+    display: block;
+    border-radius: 50%;
+    background: #21B67B;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.ez_logo_wrapper {
+    background: #21A4B6;
+    width: 32px;
+    height: 32px;
+    display: block;
+    border-radius: 50%;
+    margin-right: 6px;
+    position: relative;
+}
+
+.ez_bonus_service .number-stat-profile__number {
+    display: flex;
+    align-items: flex-end;
+}
+
+.ez_logo_wrapper:before {
+    content: " ";
+    background: url(../img/eb_icon.svg);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.wallet_img_status {
+    width: 24px;
+    height: 24px;
+    display: block;
+}
+
+.wallet_img_status_green {
+    background: url(../img/accept_balance_green.svg);
+}
+
+.wallet_img_status_gray {
+    background: url(../img/accept_balance_gray.svg);
+}
+
+.wallet_img_status_wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.wallet_img_status_paid {
+    font-size: 14px;
+    color: #5B6068;
+}
+
+.wallet_img_status_date {
+    font-size: 12px;
+    color: #999999;
+}
+
+.wallet_img_status_text {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.wallet_img_status {
+    width: 24px;
+    height: 24px;
+    display: block;
+}
+
+.wallet_img_status_green {
+    background: url(../img/accept_balance_green.svg);
+}
+
+.wallet_img_status_gray {
+    background: url(../img/accept_balance_gray.svg);
+}
+
+.wallet_img_status_wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.wallet_img_status_paid {
+    font-size: 14px;
+    color: #5B6068;
+}
+
+.wallet_img_status_date {
+    font-size: 12px;
+    color: #999999;
+}
+
+.wallet_img_status_text {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.balance_logo_wrapper:before {content: " ";width: 24px;height: 100%;background: url(../img/wallet_icon.svg);display: block;background-repeat: no-repeat;background-position: center center;margin: 0 auto;background-size: contain;}

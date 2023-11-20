@@ -1,0 +1,129 @@
+.list-post-single__header.flex {
+    padding: 15px 25px;
+    align-items: center;
+    border-bottom: 1px solid #edf1f4;
+}
+
+.list-post-single {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 20px;
+    background-color: #FFFFFF;
+}
+
+.list-post-single__avatar {
+    width: 65px;
+    height: 65px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-size: 65px 65px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 20px;
+    background-image: url(../img/icon_user_default.svg);
+    position: relative;
+}
+
+.list-post-single__meta {
+    argin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.label-pro-comments {
+    padding-bottom: 2px;
+    padding-top: 4px;
+}
+
+.list-post-single__content {
+    line-height: 30px;
+}
+
+.list-post-single__content {
+    line-height: 30px;
+}
+
+.list-post-single__content-wrapper {
+    padding: 15px 25px;
+}
+
+.list-post-single__title {
+    margin-bottom: 20px;
+    display: block;
+}
+
+.list-post-single {
+    border: 1px solid #E9F0F3;
+}
+
+.profile_top {
+    padding: 0 25px;
+    height: 80px;
+    align-items: center;
+}
+
+.profile_top_title {
+    padding-right: 15px;
+    border-right: 1px solid #EEE;
+    margin-right: 15px;
+}
+
+.profile_top_count {
+    margin-right: 20px;
+}
+
+.profile_sorter {
+    position: relative;
+    margin-left: auto;
+    height: 80px;
+    align-items: center;
+    display: flex;
+}
+
+.profile_sorter > ul {
+    position: absolute;
+    top: 80px;
+    width: 288px;
+    right: -26px;
+    margin: 0;
+    padding: 0;
+    background-color: #FFF;
+    display: none;
+    border: 1px solid #edf1f4;
+    border-bottom: 0;
+    list-style: none;
+    z-index: 30;
+}
+
+.profile_sorter.active ul {
+    display: block;
+}
+
+.profile_sorter ul li {
+    border-bottom: 1px solid #edf1f4;
+    padding: 20px 25px;
+    display: flex;
+}
+
+.profile_sorter ul li.active:after {
+    border: 2px solid #21B67B;
+    background-image: url(/wp-content/themes/eto-razvod-1/img/icon_check_active.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.profile_sorter ul li:after {
+    content: ' ';
+    width: 16px;
+    height: 16px;
+    border: 2px solid #5b5f66;
+    display: block;
+    margin-left: auto;
+}
+.profile_sorter.active .dropdown:after {
+    transform: rotate(
+            180deg
+    );
+}

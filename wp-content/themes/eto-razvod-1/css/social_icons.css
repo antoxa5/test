@@ -1,0 +1,57 @@
+.social_networks ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+.social_networks ul li {
+	margin: 0;
+	margin-right: 20px;
+	padding: 0;
+	flex: 0 0 calc(40px);
+}
+
+.social_networks ul li a {
+	display: block;
+	width: 40px;
+	height: 22px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.social_networks ul li a.social_icon_youtube {
+	background-image: url(../img/social_icon_youtube.svg);
+}
+
+.social_networks ul li a.social_icon_vk {
+	background-image: url(../img/social_icon_vk.svg);
+}
+
+.social_networks ul li a.social_icon_twitter {
+	background-image: url(../img/social_icon_twitter.svg);
+}
+
+.social_networks ul li a.social_icon_odnoklassniki {
+	background-image: url(../img/social_icon_odnoklassniki.svg);
+}
+
+.social_networks ul li a.social_icon_yandex {
+	background-image: url(../img/social_icon_ya.svg);
+}
+
+.social_networks ul li a.social_icon_pinterest {
+	background-image: url(../img/social_icon_pinterest.svg);
+}
+
+.social_networks ul li a.social_icon_instagram {
+	background-image: url(../img/social_icon_instagram.svg);
+}
+
+.social_networks ul li a.social_icon_telegram {
+	background-image: url(../img/social_icon_telegram.svg);
+}
+
+.social_networks ul li a.social_icon_vc {
+	background-image: url(../img/vcru-gray.svg);
+}

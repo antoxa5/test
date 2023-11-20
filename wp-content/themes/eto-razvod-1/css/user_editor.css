@@ -1,0 +1,354 @@
+.comment_bar_info_wrapper_user_editor .skills-comments__header {
+    padding-bottom: 0;
+}
+
+.comment_bar_info_wrapper_user_editor .skills-comments__footer {
+    padding-top: 0;
+}
+
+.skills-comments.skills-comments__footer {
+    position: unset;
+}
+
+.comment_bar_info_wrapper_user_editor {
+    position: relative;
+}
+
+.comment_bar_info_wrapper_user_editor .edit-button-profile {
+    bottom: unset;
+    top: 20px;
+}
+
+.block_title_edit {
+    padding: 15px 25px;
+    padding-bottom: 0;
+}
+
+.settings_editor,.edit_editor {
+    width: 17px;
+    height: 17px;
+}
+
+.settings_editor {
+    background: url(../img/gear_dark_blue.svg);
+    display: inline-block;
+}
+
+.edit-icon-wrapper {
+    display: flex;
+    width: 50px;
+    justify-content: space-between;
+}
+
+.edit_editor {
+    background: url(../img/edit_skills.svg);
+    background-repeat: no-repeat;
+}
+
+.block_title_edit {
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-desc__border {
+    border: 1px solid #E9F0F3;
+}
+
+.block_title_edit.color_dark_blue.justify-content-flex-end, .edit-icon-wrapper.justify-content-flex-end {
+    justify-content: flex-end;
+}
+
+.block_content.side_block_column.align-items-center {
+    align-items: center;
+}
+
+.user_edit_avatar_block_title {
+    margin-top: 20px;
+}
+
+.social-ul {
+    display: flex;
+}
+
+.social-ul__item {
+    width: 19px;
+    height: 19px;
+    margin: 8px;
+}
+
+.social-ul {
+    margin-top: 20px;
+}
+
+li.social-ul__item.social-ul__item_twitter {
+    background-image: url(../img/twitter_icon_profile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+li.social-ul__item.social-ul__item_gplus {
+    background-image: url(../img/gplus_icon_profile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+li.social-ul__item.social-ul__item_rss {
+    background-image: url(../img/rss_icon_profile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+li.social-ul__item.social-ul__item_whatsapp {
+    background-image: url(../img/whatsapp_icon_profile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+li.social-ul__item.social-ul__item_skype {
+    background-image: url(../img/skype_icon_profile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.title_desc_mini {
+    margin-top: 10px;
+}
+
+.comment_top_dashboard_comments__header {
+    position: relative;
+}
+
+.user_edit_avatar_block_profile_confirm {
+    margin-top: 40px;
+    width: 100%;
+}
+
+.user_popup_form_edit {
+    max-height: calc(100vh - 150px);
+    overflow: scroll !important;
+}
+
+.contacts_input {
+    padding-left: 60px;
+}
+
+
+.profile_mail_input {
+    background: url(../img/profile_social_mail.svg);
+    background-repeat: no-repeat;
+    background-position: calc(25px);
+    background-size: 16px;
+}
+
+.profile_skype_mail_input {
+    background: url(../img/profile_social_skype.svg);
+    background-repeat: no-repeat;
+    background-position: calc(25px);
+    background-size: 16px;
+}
+
+.profile_telegram_mail_input {
+    background: url(../img/profile_social_telegram.svg);
+    background-repeat: no-repeat;
+    background-position: calc(25px);
+    background-size: 16px;
+}
+
+.troubles_o {
+    margin-bottom: 15px;
+    max-width: 400px;
+}
+
+.contacts_input {
+    width: 320px;
+    display: block;
+}
+
+.textarea_about_wrapper {
+    width: 350px;
+}
+
+.popup_container textarea.textarea_about {
+    resize: auto;
+}
+
+.profile_logo .edit_editor {
+    display: block;
+    position: absolute;
+    right: 0;
+}
+
+.profile_logo {
+    position: relative;
+}
+
+#file_upload_avatar {
+    display: none;
+}
+
+.edit-button-profile-avatar.edit-button-profile {
+    position: relative;
+    margin: 0;
+    margin-right: -15px;
+}
+
+.user-form__avatar {
+    position: relative;
+    width: 137px;
+    margin: 0 auto;
+    margin-bottom: 23px;
+}
+
+.edit-button-profile-avatar.edit-button-profile {
+    position: absolute;
+    margin: 0;
+    margin-right: -15px;
+}
+
+.remove-button-profile-avatar {
+    display: block;
+    position: relative;
+    width: 21px;
+    height: 19px;
+    position: absolute;
+    right: -20px;
+    top: -2px;
+}
+
+.remove-button-profile-avatar:before {content: " ";width: 7.5px;height: 7.5px;display: block;border-top: 1px solid #000;border-left: 1px solid #000;position: absolute;transform: rotate(45deg);top: unset;bottom: 0;margin: auto;left: 0;right: 0;}
+
+.remove-button-profile-avatar:after {
+    content: " ";
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    width: 7.5px;
+    height: 7.5px;
+    display: block;
+    position: absolute;
+    transform: rotate(
+            -135deg
+    );
+    top: 0;
+    bottom: unset;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+.w_input_100 input {
+    width: 100%;
+}
+
+.user-form__title.user-form__title_flex {
+    display: flex;
+    align-items: center;
+}
+
+.edit_password, .edit_email {
+    height: 16px;
+    margin-left: 10px;
+}
+
+.input_locked {
+    position: relative;
+}
+
+.input_locked:before {content: " ";z-index: 1;width: 100%;height: 100%;position: absolute;background: rgb(255 255 255 / 65%);}
+
+.edit_password.active path, .edit_email.active path {
+    fill: #6221b6;
+}
+
+.displaynone {
+    display: none;
+}
+
+.showpsw {
+    width: 20px;
+    height: 100%;
+    position: absolute;
+    right: 10px;
+    top: -10px;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.psw_input {
+    position: relative;
+}
+
+.showpsw > .eye-show, .showpsw > .eye-closed {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.eye-closed.displaynone, .eye-show.displaynone {
+    display: none;
+}
+
+.showpsw path {
+    fill: #525f89;
+}
+
+.about_email {
+    max-width: 350px;
+    display: block;
+    margin: 0 auto;
+}
+@media screen and (max-width: 700px) {
+    .skills-comments__footer.skills-comments .edit-button-profile {
+        top: 20px;
+        bottom: unset;
+        margin: 0;
+        right: 35px;
+    }
+    .skills-comments__header.skills-comments {
+        padding-top: 10px;
+    }
+    .skills-comments.skills-comments__header {
+        border-bottom: none;
+    }
+    .skills-comments.skills-comments__footer {
+        border-top: none;
+    }
+    .skills-comments__myskill-wrapper {
+        margin-right: -30px;
+        width: calc(100% + 10px);
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .skills-comments__myskill {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 1;
+        margin-bottom: 7px;
+    }
+
+    .textarea_about_wrapper {
+        width: 100%;
+    }
+
+    .contacts_input {
+        max-width: calc(100% - 84px);
+    }
+
+    .text_undefined {
+        display: block;
+        text-align: center;
+        font-size: 16px;
+        line-height: 2;
+    }
+    .side_block .block_content.user_edit_avatar_block_wrapper {
+        padding-bottom: 24px;
+    }
+    .user_edit_avatar_block_profile_confirm {
+        margin-top: 40px;
+        width: calc(100% - 18px);
+    }
+}

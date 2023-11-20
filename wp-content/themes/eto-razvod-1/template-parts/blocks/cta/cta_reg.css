@@ -1,0 +1,35 @@
+.history_wrapper .reg_container {
+	width: 764px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFF;
+	display: flex;
+	flex-direction: column;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.history_wrapper {
+
+}
+
+html[lang="ru"] .history_wrapper {
+	background-image: url(../../../img/front_company_logos.png);
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.er_block_cta h2.font_new_medium {
+	line-height: 32px;
+	margin-bottom: 40px;
+}
+
+
+@media screen and (max-width: 700px) {
+	
+	.er_block_cta h2.font_new_medium {
+		padding-left: 35px;
+		padding-right: 35px;
+	}
+	
+}

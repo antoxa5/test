@@ -1,0 +1,46 @@
+.block_cta_button_text.style2 {
+	background-color: #FFF;
+}
+
+.style2 .cta_button_text_text {
+	margin-left: 0;
+	padding-left: 0;
+	order: 1;
+	border-left: 0;
+}
+
+.style2 .button {
+	order: 2;
+}
+
+.style2 .white_block {
+	align-items: center;
+}
+
+.button_text_about_margin {
+	margin-top: -150px;
+}
+
+.button_text_about_margin .wrap {
+	margin-bottom: 30px;
+}
+
+.button_cta_text {
+	height: 85px;
+	line-height: 85px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-weight: bold;
+	margin-left: auto;
+	flex: 0 0 auto;
+
+}
+
+.style2 .cta_button_text_description {
+	margin-right: 40px;
+	margin-top: 15px;
+}
+
+.block_cta_button_text .wrap {
+	width: 100%;
+}

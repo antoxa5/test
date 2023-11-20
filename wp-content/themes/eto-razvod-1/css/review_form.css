@@ -1,0 +1,205 @@
+.review_form_icons {
+	list-style: none;
+	align-items: center;
+	width: 100%;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 20px;
+}
+
+.review_form_icons li {
+	width: 20px;
+	height: 20px;
+	margin-left: 15px;
+	margin-right: 15px;
+	cursor: pointer;
+}
+
+/*.review_form_icons li.form_icon_img {
+	background-color: #001640;
+	-webkit-mask-image: url(../img/form_icon_img.svg);
+    mask-image: url(../img/form_icon_img.svg);
+	width: 20px;
+	height: 20px;
+}*/
+
+.review_form_icons li.form_icon_img .form_icon_img_inside {
+	background-color: #001640;
+	-webkit-mask-image: url(../img/form_icon_img.svg);
+	mask-image: url(../img/form_icon_img.svg);
+	width: 20px;
+	height: 20px;
+	display: block;
+}
+
+/*.review_form_icons li.form_icon_notify {
+	background-color: #001640;
+	-webkit-mask-image: url(../img/form_icon_notify.svg);
+    mask-image: url(../img/form_icon_notify.svg);
+	width: 20px;
+	height: 20px;
+}*/
+
+.review_form_icons li.form_icon_notify .form_icon_notify_inside {
+	background-color: #001640;
+	-webkit-mask-image: url(../img/form_icon_notify.svg);
+	mask-image: url(../img/form_icon_notify.svg);
+	width: 20px;
+	height: 20px;
+	display: block;
+}
+
+/*.review_form_icons li.form_icon_notify .form_icon_notify_inside {
+	background-color: #001640;
+	background: url(../img/form_icon_notify.svg);
+	mask-image: url(../img/form_icon_notify.svg);
+	width: 20px;
+	height: 20px;
+	display: block;
+}*/
+
+
+
+.review_form_icons li.form_icon_link {
+	background-color: #001640;
+	-webkit-mask-image: url(../img/form_icon_link.svg);
+    mask-image: url(../img/form_icon_link.svg);
+	width: 17px;
+	height: 17px;
+}
+
+.review_form_icons li.active {
+	background-color: #6321b6;
+}
+
+li.form_icon_notify.active .form_icon_notify_inside {
+	background-color: #6321b6;
+}
+
+li.form_icon_img.active .form_icon_img_inside {
+	background-color: #6321b6;
+}
+
+.subs_comments,.add_image_text {
+	position: absolute;
+	top: 0;
+	width: 170px;
+	height: 45px;
+	background: #6221b6;
+	z-index: 99;
+	font-size: 14px;
+	display: flex;
+	align-items: center;
+	border-radius: 4px;
+	color: #FFF;
+	top: -60px;
+	left: -77px;
+	background: #FFF;
+	border: 1px solid #E9F0F3;
+	color: #5B6068;
+	z-index: 1;
+}
+
+.form_icon_notify,.form_icon_img {
+	position: relative;
+}
+
+
+.subs_comments:before {content: " ";width: 15px;height: 15px;position: absolute;background: white;left: 0;right: 0;margin: auto;bottom: -6px;transform: rotate(45deg);border-radius: 4px;border: 1px solid #E9F0F3;}
+
+.subs_comments > span {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	background: #FFF;
+	border-radius: 5px;
+	position: relative;
+}
+
+.subs_comments {
+	display: none;
+}
+
+.add_image_text:before {content: " ";width: 15px;height: 15px;position: absolute;background: white;left: 0;right: 0;margin: auto;bottom: -6px;transform: rotate(45deg);border-radius: 4px;border: 1px solid #E9F0F3;}
+
+.add_image_text > span {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	background: #FFF;
+	border-radius: 5px;
+	position: relative;
+}
+
+.add_image_text {
+	display: none;
+}
+
+.form_icon_notify:hover .subs_comments, .form_icon_img:hover .add_image_text {
+	display: block;
+	z-index: 7;
+}
+
+.review_form_icons li.form_icon_notify.active, .review_form_icons li.form_icon_img.active {
+	background-color: transparent;
+}
+
+.form_add_images,.form_add_images_2 {
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	margin-bottom: 20px;
+}
+
+.form_add_images li,.form_add_images_2 li {
+	width: 90px;
+	height: 90px;
+	margin-right: 15px;
+	border: 1px dashed #DDDDDD;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.form_add_images li.add_new,.form_add_images_2 li.add_new {
+	background-image: url(../img/icon_plus.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.form_add_images li.add_new input,.form_add_images_2 li.add_new input  {
+	display: none;
+}
+
+.form_add_images li.add_new label,.form_add_images_2 li.add_new label {
+	width: 100%;
+	height: 100%;
+	display: block;
+	cursor: pointer;
+}
+
+.form_add_images li.form_add_item,.form_add_images_2 li.form_add_item {
+	background-size: contain;
+	position: relative;
+}
+
+.form_add_images li span.close,.form_add_images_2 li span.close {
+	background-image: url(../img/icon_close_gray.svg);
+	width: 9px;
+	height: 9px;
+	display: block;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	cursor: pointer;
+	background-size: 9px;
+}
+
+
+@media screen and (max-width: 700px) {
+	.form_icon_img:hover .add_image_text, .form_icon_img .add_image_text {
+		display: none !important;
+	}
+}

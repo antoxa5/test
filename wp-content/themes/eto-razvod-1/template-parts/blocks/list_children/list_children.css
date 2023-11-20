@@ -1,0 +1,49 @@
+.er_block_list_children ul {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+}
+
+.er_block_list_children ul li {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.er_block_list_children ul li a, .er_block_list_children ul li a:link, .er_block_list_children ul li a:visited {
+	display: block;
+	background-color: #F2F5F9;
+	border-radius: 20px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	color: #444 !important;
+	text-decoration: none !important;
+	font-size: 17px !important;
+    line-height: 28px;
+    align-items: center;
+	padding-right:12px;
+}
+
+.er_block_list_children ul li a:active, .er_block_list_children ul li a:hover {
+	color: #FFF !important;
+	background-color: #444;
+}
+
+
+.er_block_list_children ul li > a i {
+    background-color: #444;
+    color:#FFF;
+    width: 26px;
+    height: 26px;
+    margin-left: 1px;
+    margin-top: 1px;
+    border-radius: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    float: left;
+    text-align: center;
+    line-height: 26px;
+    margin-right: 8px;
+    font-size: 0.8em;
+}

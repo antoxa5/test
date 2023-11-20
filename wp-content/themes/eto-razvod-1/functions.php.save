@@ -1,0 +1,1000 @@
+			$result .= '<div class="input_container">';
+			$result .= '<span class="placeholder color_light_gray">' . __( 'Поиск <span class="color_dark_gray">по сайту...</span>', 'er_theme' ). '</span>';
+			//$result .= '<span class="example color_dark_gray">'.__('Финам','er_theme').'</span>';
+			$result .= '</div>';
+			$result .= '<div class="search_icon"></div>';
+			$result .= '</form>';
+		}*/
+		
+		
+		return $result;
+	}
+}
+if ( ! function_exists( 'auth_class' ) ) {
+	function auth_class() {
+		$result = 'not_logged_in';
+		if ( is_user_logged_in() ) {
+			$result = 'logged_in';
+		}
+		
+		return $result;
+	}
+}
+
+if ( ! function_exists( 'print_js_links' ) ) {
+	function print_js_links() {
+		$links                               = array();
+		global $special_word;
+		$links['general']                    = '<script src="' . get_template_directory_uri() . '/js/er-js.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/er-js.js' ) . '" type="text/javascript"></script>';
+		$links['events']                     = '<script src="' . get_template_directory_uri() . '/js/events.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/events.js' ) . '" type="text/javascript"></script>';
+		$links['auth']                       = '<script src="' . get_template_directory_uri() . '/js/er-auth.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/er-auth.js' ) . '" type="text/javascript"></script>';
+		$links['review_tabs']                = '<script src="' . get_template_directory_uri() . '/js/review_tabs.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/review_tabs.js' ) . '" type="text/javascript"></script>';
+		$links['user_profile']               = '<script src="' . get_template_directory_uri() . '/js/user_profile.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/user_profile.js' ) . '" type="text/javascript"></script>';
+		$links['show_block']                 = '<script src="' . get_template_directory_uri() . '/js/show_block.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/show_block.js' ) . '" type="text/javascript"></script>';
+		$links['user_page']                  = '<script src="' . get_template_directory_uri() . '/js/user_page.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/user_page.js' ) . '" type="text/javascript"></script>';
+		$links['comments_loader_dashboard']  = '<script src="' . get_template_directory_uri() . '/js/comments_loader_dashboard.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/comments_loader_dashboard.js' ) . '" type="text/javascript"></script>';
+		$links['abuses_loader_dashboard']    = '<script src="' . get_template_directory_uri() . '/js/abuses_loader_dashboard.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/abuses_loader_dashboard.js' ) . '" type="text/javascript"></script>';
+		$links['user_subscription']          = '<script src="' . get_template_directory_uri() . '/js/user_subscription.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/user_subscription.js' ) . '" type="text/javascript"></script>';
+		$links['user_editor']                = '<script src="' . get_template_directory_uri() . '/js/user_editor.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/user_editor.js' ) . '" type="text/javascript"></script>';
+		$links['cloudpayments']              = '<script src="https://widget.cloudpayments.ru/bundles/cloudpayments"></script>';
+		$links['user_wallet']                = '<script src="' . get_template_directory_uri() . '/js/user_wallet.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/user_wallet.js' ) . '" type="text/javascript"></script>';
+		$links['user_wallet_new']            = '<script src="' . get_template_directory_uri() . '/js/user_wallet_new.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/user_wallet_new.js' ) . '" type="text/javascript"></script>';
+		$links['popup_inside_dashboard']     = '<script src="' . get_template_directory_uri() . '/js/popup_inside_dashboard.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/popup_inside_dashboard.js' ) . '" type="text/javascript"></script>';
+		$links['user_zero_message']          = '<script src="' . get_template_directory_uri() . '/js/user_zero_message.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/user_zero_message.js' ) . '" type="text/javascript"></script>';
+		$links['user_wallet_new_test']       = '<script src="' . get_template_directory_uri() . '/js/user_wallet_new_test.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/user_wallet_new_test.js' ) . '" type="text/javascript"></script>';
+		$links['promocode_dashboard_loader'] = '<script src="' . get_template_directory_uri() . '/js/promocode_dashboard_loader.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/promocode_dashboard_loader.js' ) . '" type="text/javascript"></script>';
+		
+		return $links;
+	}
+}
+if ( ! function_exists( 'print_css_links' ) ) {
+	function print_css_links( $data ) {
+		$links                           = array();
+		global $special_word;
+		$links['pre_footer']             = '<link rel="stylesheet" id="pre_footer" href="' . get_template_directory_uri() . '/css/pre_footer.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/pre_footer.css' ) . '" type="text/css" media="all" />';
+		$links['comments']               = '<link rel="stylesheet" id="comments" href="' . get_template_directory_uri() . '/css/comments.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/comments.css' ) . '" type="text/css" media="all" />';
+		$links['review_form']            = '<link rel="stylesheet" id="review_form" href="' . get_template_directory_uri() . '/css/review_form.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/review_form.css' ) . '" type="text/css" media="all" />';
+		$links['popup_forms']            = '<link rel="stylesheet" id="popup_forms" href="' . get_template_directory_uri() . '/css/popup_forms.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/popup_forms.css' ) . '" type="text/css" media="all" />';
+		$links['main_footer']            = '<link rel="stylesheet" id="main_footer" href="' . get_template_directory_uri() . '/css/main_footer.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/main_footer.css' ) . '" type="text/css" media="all" />';
+		$links['social_icons']           = '<link rel="stylesheet" id="social_icons" href="' . get_template_directory_uri() . '/css/social_icons.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/social_icons.css' ) . '" type="text/css" media="all" />';
+		$links['subscribe_form']         = '<link rel="stylesheet" id="subscribe_form" href="' . get_template_directory_uri() . '/css/subscribe_form.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/subscribe_form.css' ) . '" type="text/css" media="all" />';
+		$links['recent_visited']         = '<link rel="stylesheet" id="recent_visited" href="' . get_template_directory_uri() . '/css/recent_visited.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/recent_visited.css' ) . '" type="text/css" media="all" />';
+		$links['fast_links']             = '<link rel="stylesheet" id="fast_links" href="' . get_template_directory_uri() . '/css/fast_links.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/fast_links.css' ) . '" type="text/css" media="all" />';
+		$links['review_links']           = '<link rel="stylesheet" id="review_links" href="' . get_template_directory_uri() . '/css/review_links.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/review_links.css' ) . '" type="text/css" media="all" />';
+		$links['review_icons']           = '<link rel="stylesheet" id="review_icons" href="' . get_template_directory_uri() . '/css/review_icons.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/review_icons.css' ) . '" type="text/css" media="all" />';
+		$links['review_top']             = '<link rel="stylesheet" id="review_top" href="' . get_template_directory_uri() . '/css/review_top.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/review_top.css' ) . '" type="text/css" media="all" />';
+		$links['review_content']         = '<link rel="stylesheet" id="review_content" href="' . get_template_directory_uri() . '/css/review_content.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/review_content.css' ) . '" type="text/css" media="all" />';
+		$links['profile_top']            = '<link rel="stylesheet" id="profile_top" href="' . get_template_directory_uri() . '/css/profile_top.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/profile_top.css' ) . '" type="text/css" media="all" />';
+		$links['show_block']             = '<link rel="stylesheet" id="show_block" href="' . get_template_directory_uri() . '/css/show_block.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/show_block.css' ) . '" type="text/css" media="all" />';
+		$links['user_page']              = '<link rel="stylesheet" id="user_page" href="' . get_template_directory_uri() . '/css/user_page.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/user_page.css' ) . '" type="text/css" media="all" />';
+		$links['list_post_single']       = '<link rel="stylesheet" id="list_post_single" href="' . get_template_directory_uri() . '/css/list_post_single.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/list_post_single.css' ) . '" type="text/css" media="all" />';
+		$links['user_editor']            = '<link rel="stylesheet" id="user_editor" href="' . get_template_directory_uri() . '/css/user_editor.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/user_editor.css' ) . '" type="text/css" media="all" />';
+		$links['user_form']              = '<link rel="stylesheet" id="user_form" href="' . get_template_directory_uri() . '/css/user_form.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/user_form.css' ) . '" type="text/css" media="all" />';
+		$links['rating']                 = '<link rel="stylesheet" id="rating" href="' . get_template_directory_uri() . '/css/rating.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/rating.css' ) . '" type="text/css" media="all" />';
+		$links['user_service_form']      = '<link rel="stylesheet" id="user_service_form" href="' . get_template_directory_uri() . '/css/user_service_form.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/pre_footer.css' ) . '" type="text/css" media="all" />';
+		$links['popup_inside_dashboard'] = '<link rel="stylesheet" id="popup_inside_dashboard" href="' . get_template_directory_uri() . '/css/popup_inside_dashboard.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/popup_inside_dashboard.css' ) . '" type="text/css" media="all" />';
+		$links['user_skills']            = '<link rel="stylesheet" id="user_skills" href="' . get_template_directory_uri() . '/css/user_skills.css?ver=' . $special_word.filemtime( TEMPLATEPATH . '/css/user_skills.css' ) . '" type="text/css" media="all" />';
+		
+		if ( is_string( $data ) ) {
+			return isset( $links[ $data ] ) ? $links[ $data ] : '';
+		} elseif ( is_array( $data ) ) {
+			$result = '';
+			foreach ( $data as $item ) {
+				if ( array_key_exists( $item, $links ) ) {
+					$result .= $links[ $item ];
+				}
+			}
+			
+			return $result;
+		} else {
+			return '';
+		}
+		
+		
+	}
+}
+
+if ( ! function_exists( 'user_auth' ) ) {
+	add_action( 'wp_ajax_user_auth', 'user_auth' );
+	add_action( 'wp_ajax_nopriv_user_auth', 'user_auth' );
+	function user_auth() {
+		$result = '';
+		
+		if ( ! is_user_logged_in() ) {
+			$result .= '<div class="auth_button button button_green pointer">' . __( 'Вход', 'er_theme' ) . '</div>';
+			$result .= '<div class="mobile_auth_icon pointer inactive"></div>';
+			$result .= '<div class="user_nav_mobile">';
+			$result .= '<div class="user_mobile_close_button pointer"></div>';
+			$result .= '<div class="user_mobile_content"></div>';
+			$result .= '</div>';
+			//$result .= print_js_links()['general'];
+			$result .= print_js_links()['events'];
+		} else {
+			$result .= '<div class="user_bar">';
+			//$result .= print_js_links()['general'];
+			//$result .= '<div class="user_icon icon_messages"></div>';
+			//$result .= '<div class="user_icon icon_notifications"></div>';
+			if ( function_exists( 'wp_get_current_user' ) ) {
+				$current_user = wp_get_current_user();
+				//print_r($current_user);
+				$user_id             = $current_user->data->ID;
+				$user_display_name_r = $current_user->data->display_name;
+				$user_firstname_r    = $current_user->user_firstname;
+				if ( $user_firstname_r == '' ) {
+					$user_display_name = $user_display_name_r;
+				} else {
+					$user_display_name = $user_firstname_r;
+				}
+				$user_picture = get_field( 'photo_profile', 'user_' . $user_id );
+				$user_label   = get_field( 'photo_profile', 'user_' . $user_id );
+				$user_label   = get_field( 'services_user_services', 'user_' . $user_id )[0];
+				$result       .= '<div class="user_picture border_circle"';
+				if ( $user_picture && $user_picture != '' ) {
+					$result .= ' style="background-image: url(' . $user_picture["sizes"]["thumbnail"] . ')" ';
+				}
+				$result .= '></div>';
+				$result .= '<div class="mobile_user_picture inactive border_circle"';
+				if ( $user_picture && $user_picture != '' ) {
+					$result .= ' style="background-image: url(' . $user_picture["sizes"]["thumbnail"] . ')" ';
+				}
+				$result .= '></div>';
+				$result .= '<div class="user_name flex inactive_user_nav pointer dropdown">';
+				$result .= '<span class="display_name font_bold">' . $user_display_name . '</span>';
+				if ( $user_label && $user_label != '' ) {
+					$result .= '<span class="user_label font_smaller">' . get_the_title( $user_label ) . '</span>';
+				}
+				//$result .= '<div class="user_company">Finam</div>';
+				$result .= '</div>';
+				$result .= '<div class="user_nav_mobile">';
+				$result .= '<div class="user_mobile_close_button pointer"></div>';
+				$result .= '<div class="user_mobile_content"></div>';
+				$result .= '</div>';
+				
+				//print_r($user_picture);
+			}
+			$result .= '<div class="user_icon icon_settings inactive_user_settings_nav pointer"></div>';
+			$result .= '</div>';
+		}
+		echo $result;
+		die;
+	}
+}
+
+
+function user_auth_php() {
+	$result = '';
+	
+	if ( ! is_user_logged_in() ) {
+		$result .= '<div class="auth_button button button_green pointer">' . __( 'Вход', 'er_theme' ) . '</div>';
+		$result .= '<div class="mobile_auth_icon pointer inactive"></div>';
+		$result .= '<div class="user_nav_mobile">';
+		$result .= '<div class="user_mobile_close_button pointer"></div>';
+		$result .= '<div class="user_mobile_content"></div>';
+		$result .= '</div>';
+		//$result .= print_js_links()['general'];
+		$result .= print_js_links()['events'];
+	} else {
+		$result .= '<div class="user_bar">';
+		//$result .= print_js_links()['general'];
+		//$result .= '<div class="user_icon icon_messages"></div>';
+		//$result .= '<div class="user_icon icon_notifications"></div>';
+		if ( function_exists( 'wp_get_current_user' ) ) {
+			$current_user = wp_get_current_user();
+			//print_r($current_user);
+			$user_id             = $current_user->data->ID;
+			$user_display_name_r = $current_user->data->display_name;
+			$user_firstname_r    = $current_user->user_firstname;
+			if ( $user_firstname_r == '' ) {
+				$user_display_name = $user_display_name_r;
+			} else {
+				$user_display_name = $user_firstname_r;
+			}
+			$user_picture = get_field( 'photo_profile', 'user_' . $user_id );
+			// $user_label   = get_field( 'photo_profile', 'user_' . $user_id );
+			$user_label   = get_field( 'services_user_services', 'user_' . $user_id );
+			if( isset( $user_label[0] ) ) {
+				$user_label = $user_label[0];
+			}
+			$result       .= '<div class="user_picture border_circle"';
+			if ( $user_picture && $user_picture != '' ) {
+				$result .= ' style="background-image: url(' . $user_picture["sizes"]["thumbnail"] . ')" ';
+			}
+			$result .= '></div>';
+			$result .= '<div class="mobile_user_picture inactive border_circle"';
+			if ( $user_picture && $user_picture != '' ) {
+				$result .= ' style="background-image: url(' . $user_picture["sizes"]["thumbnail"] . ')" ';
+			}
+			$result .= '></div>';
+			$result .= '<div class="user_name flex inactive_user_nav pointer dropdown">';
+			$result .= '<span class="display_name font_bold">' . $user_display_name . '</span>';
+			if ( $user_label && $user_label != '' ) {
+				$result .= '<span class="user_label font_smaller">' . get_the_title( $user_label ) . '</span>';
+			}
+			//$result .= '<div class="user_company">Finam</div>';
+			$result .= '</div>';
+			$result .= '<div class="user_nav_mobile">';
+			$result .= '<div class="user_mobile_close_button pointer"></div>';
+			$result .= '<div class="user_mobile_content"></div>';
+			$result .= '</div>';
+			
+			//print_r($user_picture);
+		}
+		$result .= '<div class="user_icon icon_settings inactive_user_settings_nav pointer"></div>';
+		$result .= '</div>';
+	}
+	return $result;
+}
+
+if ( ! function_exists( 'connect_heygo' ) ) {
+	function connect_heygo() {
+		if ( is_single() || is_page() ) {
+			global $special_word;
+			global $post;
+			if ($post->ID != 158787) {
+				wp_localize_script( 'jquery', 'banners_info', array(
+					'ajax_url' => admin_url( 'admin-ajax.php' ),
+					'b_p_id'   => $post->ID
+				) );
+				wp_enqueue_script( 'heygo', get_template_directory_uri() . '/js/heygo.js', array( 'jquery' ), $special_word.filemtime( TEMPLATEPATH . '/js/heygo.js' ) );
+			}
+			
+		}
+	}
+}
+
+
+add_action( 'wp_enqueue_scripts', 'connect_heygo' );
+if ( ! function_exists( 'er_js_connect' ) ) {
+	function er_js_connect() {
+		wp_localize_script( 'jquery', 'my_ajax_object_new',
+			array( 'er_blog_url' => get_bloginfo( 'url' ) ) );
+		$h_auth_callback = h_auth_config()['callback'];
+		global $special_word;
+
+		wp_enqueue_script( 'er-js', get_template_directory_uri() . '/js/er-js.js', array( 'wp-i18n', 'jquery' ), $special_word.filemtime( TEMPLATEPATH . '/js/er-js.js' ) );
+		wp_set_script_translations( 'er-js', 'er_theme', get_stylesheet_directory() );
+
+		// wp_enqueue_script( 'first', get_template_directory_uri() . '/js/first.js', array( 'jquery', 'er-js' ), $special_word.filemtime( TEMPLATEPATH . '/js/first.js' ) );
+		wp_enqueue_script( 'events', get_template_directory_uri() . '/js/events.js', array( 'jquery' ), $special_word.filemtime( TEMPLATEPATH . '/js/events.js' ) );
+		wp_enqueue_script( 'append-ajax-content', get_template_directory_uri() . '/js/append-ajax-content.js', array( 'jquery' ), $special_word.filemtime( TEMPLATEPATH . '/js/append-ajax-content.js' ) );
+
+		$rating_fields_group = 0;
+		if ( function_exists( 'get_rating_fields_group' ) ) {
+			if( isset( $post->ID ) ) {
+				$rating_fields_group = get_rating_fields_group( $post->ID );
+			}
+		}
+		
+		$current_language = get_locale();
+		
+		$cookie_text = '<div class="cookies_popup"><div class="cookie_wrap_popup" style="padding-bottom: calc( env(safe-area-inset-bottom) - 20px);"><span class="mobile_cookie_text">' . __( 'Мы используем <a href="/privacy-policy/" target="_blank">файлы cookie</a>.', 'er_theme' ) . '</span><span class="pc_cookie_text">' . __( 'Мы используем файлы cookie, ознакомьтесь <br>с <a href="/privacy-policy/" target="_blank">Политикой конфиденциальности</a>.', 'er_theme' ) . '</span> <span class="closer_coockie_accept"></span></div></div>';
+		
+		// if ($current_language == 'ru_RU') {
+		//     $cookie_text = '<div class="cookies_popup"><div class="cookie_wrap_popup" style="padding-bottom: calc( env(safe-area-inset-bottom) - 20px);"><span class="mobile_cookie_text">Мы используем <a href="/privacy-policy/" target="_blank">файлы cookie</a>.</span><span class="pc_cookie_text">Мы используем файлы cookie, ознакомьтесь <br>с <a href="/privacy-policy/" target="_blank">Политикой конфиденциальности</a>.</span> <span class="closer_coockie_accept"></span></div></div>';
+		// } elseif($current_language == 'es_ES') {
+		//     $cookie_text = '<div class="cookies_popup"><div class="cookie_wrap_popup" style="padding-bottom: calc( env(safe-area-inset-bottom) - 20px);"><span class="mobile_cookie_text">Utilizamos <a href="/privacy-policy/" target="_blank">cookies</a>.</span><span class="pc_cookie_text">Utilizamos cookies, consulte nuestra <br><a href="/privacy-policy/" target="_blank">política de privacidad</a>.</span> <span class="closer_coockie_accept"></span></div></div>';
+		// } elseif($current_language == 'de_DE') {
+		//     $cookie_text = '<div class="cookies_popup"><div class="cookie_wrap_popup" style="padding-bottom: calc( env(safe-area-inset-bottom) - 20px);"><span class="mobile_cookie_text">Wir verwenden <a href="/privacy-policy/" target="_blank">Cookies</a>.</span><span class="pc_cookie_text">Wir verwenden Cookies, siehe, unsere <a href="/privacy-policy/" target="_blank">Datenschutzrichtlinie</a> einverstanden.</span> <span class="closer_coockie_accept"></span></div></div>';
+		// } elseif($current_language == 'fr_FR') {
+		//     $cookie_text = '<div class="cookies_popup"><div class="cookie_wrap_popup" style="padding-bottom: calc( env(safe-area-inset-bottom) - 20px);"><span class="mobile_cookie_text">Nous utilisons <a href="/privacy-policy/" target="_blank">des cookies</a>.</span><span class="pc_cookie_text">Nous utilisons des cookies, consultez <br>notre <a href="/privacy-policy/" target="_blank">politique de confidentialité</a>.</span> <span class="closer_coockie_accept"></span></div></div>';
+		// } elseif($current_language == 'pl_PL') {
+		//     $cookie_text = '<div class="cookies_popup"><div class="cookie_wrap_popup" style="padding-bottom: calc( env(safe-area-inset-bottom) - 20px);"><span class="mobile_cookie_text">Używamy <a href="/privacy-policy/" target="_blank">plików cookie</a>.</span><span class="pc_cookie_text">Używamy plików cookie, zobacz <a href="/privacy-policy/" target="_blank">Politykę prywatności</a>.</span> <span class="closer_coockie_accept"></span></div></div>';
+		// } else {
+		//     $cookie_text = '<div class="cookies_popup"><div class="cookie_wrap_popup" style="padding-bottom: calc( env(safe-area-inset-bottom) - 20px);"><span class="mobile_cookie_text">This website uses <a href="/privacy-policy/" target="_blank">cookie files</a>.</span><span class="pc_cookie_text">This website uses cookie files, see our <a href="/privacy-policy/" target="_blank">Privacy Policy</a>.</span> <span class="closer_coockie_accept"></span></div></div>';
+		// }
+		
+		$actual_link = ( isset( $_SERVER['HTTPS'] ) && $_SERVER['HTTPS'] === 'on' ? "https" : "http" ) . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+		if ( ( is_single() || ( is_page() ) && ( ( get_query_var( 'user_profile' ) != 'user_profile' ) && ( ! get_query_var( 'dashboard_type' ) ) ) ) ) {
+			global $post;
+			wp_localize_script( 'jquery', 'my_ajax_object',
+				array(
+					'ajax_url'            => admin_url( 'admin-ajax.php' ),
+					'current_post_id'     => $post->ID,
+					'rating_fields_group' => $rating_fields_group,
+					'h_auth_callback'     => $h_auth_callback,
+					'actual_link'         => $actual_link,
+					'user_id'             => 0,
+					'slug'                => 0,
+					'cookie_text'         => $cookie_text,
+					'post_type'			=> get_post_type()
+				) );
+		} elseif ( ( get_query_var( 'user_profile' ) == 'user_profile' ) || ( get_query_var( 'dashboard_type' ) ) ) {
+			if ( get_query_var( 'user_profile' ) == 'user_profile' ) {
+				$slug = 'user_profile';
+			} else {
+				$slug = get_post_field( 'post_name', get_the_ID() );
+			}
+			wp_localize_script( 'jquery', 'my_ajax_object',
+				array(
+					'ajax_url'            => admin_url( 'admin-ajax.php' ),
+					'current_post_id'     => get_the_ID(),
+					'rating_fields_group' => $rating_fields_group,
+					'h_auth_callback'     => $h_auth_callback,
+					'actual_link'         => $actual_link,
+					'user_id'             => get_query_var( 'user_id' ),
+					'slug'                => $slug,
+					'cookie_text'         => $cookie_text,
+					'post_type'			=> get_post_type()
+				) );
+		} else {
+			wp_localize_script( 'jquery', 'my_ajax_object',
+				array(
+					'ajax_url'            => admin_url( 'admin-ajax.php' ),
+					'current_post_id'     => 0,
+					'rating_fields_group' => $rating_fields_group,
+					'h_auth_callback'     => $h_auth_callback,
+					'actual_link'         => $actual_link,
+					'user_id'             => 0,
+					'slug'                => 0,
+					'cookie_text'         => $cookie_text,
+					'post_type'			=> get_post_type()
+				) );
+		}
+		
+	}
+	
+	add_action( 'wp_enqueue_scripts', 'er_js_connect' );
+}
+
+if ( ! function_exists( 'popup_nav' ) ) {
+	add_action( 'wp_ajax_popup_nav', 'popup_nav' );
+	add_action( 'wp_ajax_nopriv_popup_nav', 'popup_nav' );
+	
+	function popup_nav() {
+		global $special_word;
+		$data   = $_POST;
+		$result = '';
+		if ( $data['nav_place'] == 'header_main' ) {
+			$result           .= '<div class="bar">';
+			$result           .= '<div class="wrap">';
+			$result           .= '<div class="bar_top">';
+			$current_language = get_locale();
+			if ( $current_language != 'ru_RU' ) {
+				$result .= '<a href="' . get_bloginfo( 'url' ) . '" class="logo revieweek"></a>';
+			} else {
+				$result .= '<a href="' . get_bloginfo( 'url' ) . '" class="logo"></a>';
+			}
+			
+			if ( function_exists( 'live_search' ) ) {
+				$result .= live_search( 'bar_search' );
+			}
+			$result .= '<div class="close_icon pointer"></div>';
+			$result .= '</div>';
+			if ( function_exists( 'theme_nav' ) ) {
+				$result .= '<div class="bar_nav">';
+				$result .= '<div class="bar_nav_1 bar_nav_menu">' . theme_nav( 'bar_1', 1, 'bar_1', 'bar_1', 'link_dark_blue font_smaller' ) . '</div>';
+				$result .= '<div class="bar_nav_2 bar_nav_menu">' . theme_nav( 'bar_2', 1, 'bar_2', 'bar_2', 'link_dark_blue font_smaller' ) . '</div>';
+				$result .= '<div class="bar_nav_3 bar_nav_menu">' . theme_nav( 'bar_3', 1, 'bar_3', 'bar_3', 'link_dark_blue font_smaller' ) . '</div>';
+				$result .= '<div class="bar_nav_4 bar_nav_menu">' . theme_nav( 'bar_4', 1, 'bar_4', 'bar_4', 'link_dark_blue font_smaller' ) . '</div>';
+				$result .= '<div class="bar_nav_5 bar_nav_menu">' . theme_nav( 'bar_5', 1, 'bar_5', 'bar_5', 'link_dark_blue font_smaller' ) . '</div>';
+				$result .= '<div class="bar_nav_6 bar_nav_menu">' . theme_nav( 'bar_6', 1, 'bar_6', 'bar_6', 'link_dark_blue font_smaller' ) . '</div>';
+				$result .= '</div>';
+			}
+			$result .= '</div>';
+			$result .= '</div>';
+			
+			echo '
+			<script src="' . get_template_directory_uri() . '/js/er-js.js?ver=' . $special_word.filemtime( TEMPLATEPATH . '/js/er-js.js' ) . '" type="text/javascript"></script>
+			<script type="text/javascript">
+				$ = jQuery.noConflict();
+				$(document).ready(function() {
+					$(\'.close_icon\').click(function() {
+						$(\'.bar\').remove();
+					});
+
+				});
+			</script>
+			';
+		} elseif ( $data['nav_place'] == 'header_services' ) {
+			$result .= '<div class="services_list box_shadow_down font_smaller">';
+			$result .= '<a href="' . get_bloginfo( 'url' ) . '/add-company/" class="link_no_underline color_lighter_blue flex flex_column"><i class="icon_service_company"></i><span>' . __( 'Мои компании', 'er_theme' ) . '</span></a>';
+			$result .= '<a href="' . get_bloginfo( 'url' ) . '/abuse/" class="link_no_underline color_lighter_blue flex flex_column"><i class="icon_service_abuse"></i><span>' . __( 'Жалобы', 'er_theme' ) . '</span></a>';
+			//$result .= '<a class="link_no_underline color_lighter_blue flex flex_column soon"><i class="icon_service_advertise"></i><span>'.__('Разместить рекламу','er_theme').'</span></a>';
+			$result .= '<a href="' . get_bloginfo( 'url' ) . '/review/" class="link_no_underline color_lighter_blue flex flex_column"><i class="icon_service_review"></i><span>' . __( 'Отзывы', 'er_theme' ) . '</span></a>';
+			$result .= '<a href="#" class="link_no_underline color_lighter_blue flex flex_column pointer" onclick=\'clickAuthAction("gotodashboard_notifications")\'><i class="icon_service_notify"></i><span>' . __( 'Уведомления', 'er_theme' ) . '</span></a>';
+			$result .= '<a href="#" class="link_no_underline color_lighter_blue flex flex_column pointer" onclick=\'clickAuthAction("gotodashboard_messages")\'><i class="icon_service_mail"></i><span>' . __( 'Сообщения', 'er_theme' ) . '</span></a>';
+			$result .= '<a href="#" class="link_no_underline color_lighter_blue flex flex_column pointer" onclick=\'clickAuthAction("send_blog_post")\'><i class="icon_service_request  send_blog_post"></i><span class=" send_blog_post">' . __( 'Статьи', 'er_theme' ) . '</span></a>';
+			$result .= '<a href="#" class="link_no_underline color_lighter_blue flex flex_column pointer" onclick=\'clickAuthAction("gotodashboard_pro")\'><i class="icon_service_pro"></i><span>' . __( 'PRO-аккаунт', 'er_theme' ) . '</span></a>';
+			$result .= '<a href="/check/" class="link_no_underline color_lighter_blue flex flex_column"><i class="icon_service_check"></i><span>' . __( 'Расследование', 'er_theme' ) . '</span></a>';
+			$result .= '<a href="/order/" class="link_no_underline color_lighter_blue flex flex_column"><i class="icon_service_find"></i><span>' . __( 'Подбор', 'er_theme' ) . '</span></a>';
+			$result .= '</div>';
+		}
+		echo $result;
+		die;
+	}
+}
+
+if ( ! function_exists( 'popup_reg' ) ) {
+	add_action( 'wp_ajax_popup_reg', 'popup_reg' );
+	add_action( 'wp_ajax_nopriv_popup_reg', 'popup_reg' );
+	
+	function popup_reg() {
+		$result           = '';
+		$data = htmlspecialchars($_POST['test']);
+		$result           .= '<div class="popup_container" id="popup_reg">';
+		$result           .= '<div class="popup_window box_shadow">';
+		$result           .= '<div class="popup_close_button pointer"></div>';
+		$result           .= '<div class="popup_columns two_columns">';
+		$result           .= '<div class="popup_column_left flex_column align_left flex_padding">';
+		$result           .= '<div class="title font_new_medium color_dark_blue font_bold m_b_20">' . __( 'Регистрация', 'er_theme' ) . '</div>';
+		$result           .= '<form class="regform flex flex_column"  action="' . admin_url( 'admin-ajax.php' ) . '" method="post" id="popup_reg_form">';
+		$result           .= '<ul class="reg_type_links font_small flex">';
+		$result           .= '<li data-type="user" class="active">' . __( 'Я пользователь', 'er_theme' ) . '</li>';
+		$result           .= '<li data-type="company" class="last inactive">' . __( 'Я представитель компании', 'er_theme' ) . '</li>';
+		$result           .= '</ul>';
+		$result           .= '<input type="hidden" name="reg_type" value="user" />';
+		$result           .= '<input type="hidden" name="action" value="user_registration" />';
+		$result           .= '<input type="email" name="email" placeholder="' . __( 'Ваш E-mail', 'er_theme' ) . '" class="input_big m_b_10 placeholder_dark">';
+		$result           .= '<div class="input_columns">';
+		$result           .= '<input type="text" name="firstname" placeholder="' . __( 'Имя', 'er_theme' ) . '" class="input_big m_b_10 placeholder_dark">';
+		$result           .= '<input type="text" name="lastname" placeholder="' . __( 'Фамилия', 'er_theme' ) . '" class="input_big m_b_10 placeholder_dark">';
+		$result           .= '</div>';
+		$result           .= '<input type="password" name="password" placeholder="' . __( 'Пароль', 'er_theme' ) . '" class="input_big m_b_10 placeholder_dark">';
+		$result           .= '<input type="password" name="password_repeat" placeholder="' . __( 'Повторите пароль', 'er_theme' ) . '" class="input_big m_b_10 placeholder_dark">';
+
+		
+			$result			.= '<div class="notify-all">
+<div class="checkbox_container m_b_10 font_small color_dark_blue"><input type="checkbox" value="1" id="tech_notify3" name="tech_notify3" checked="checked" class="custom-checkbox custom-checkbox-green"><label for="tech_notify3">Подписаться на рассылку</label></div></div>';
+		
+		
+		$result           .= '<input type="submit" name="submit" class="button button_big button_violet m_b_10 pointer font_small font_bold" value="' . __( 'Зарегистрироваться', 'er_theme' ) . '" id="regbtn">';
+		$result           .= '<div class="link_container"><a class="span_link link_terms_popup color_blue pointer font_small" href="' . get_bloginfo( 'url' ) . '/rules/" target="_blank">' . __( 'Условия пользования сайтом', 'er_theme' ) . '</a></div>';
+		$result           .= '</form>';
+		$result           .= '</div>';
+		$result           .= '<div class="popup_column_right flex_column align_left">';
+		$current_language = get_locale();
+		if ( $current_language == 'ru_RU' ) {
+			$result .= '<div class="row_border_bottom flex_row flex_padding" id="social_login_mask">';
+			$result .= '<div class="title color_dark_blue font_bold m_b_20">' . __( 'Используйте сервисы для регистрации', 'er_theme' ) . '</div>';
+			$result .= social_login_icons( 'full' );
+			$result .= '</div>';
+		}
+		$result .= '<div class="flex_row flex_padding">';
+		$result .= '<div class="title color_dark_blue font_bold m_b_20">' . __( 'У вас уже есть аккаунт?', 'er_theme' ) . '</div>';
+		$result .= '<div class="button button_big button_green m_b_10 pointer auth_link font_bold font_small">' . __( 'Войти в мой аккаунт', 'er_theme' ) . '</div>';
+		$result .= '<div class="link_container"><span class="span_link link_recover_popup color_blue pointer font_small">' . __( 'Восстановить пароль', 'er_theme' ) . '</span></div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		echo $result;
+		die;
+	}
+}
+
+if ( ! function_exists( 'popup_auth' ) ) {
+	add_action( 'wp_ajax_popup_auth', 'popup_auth' );
+	add_action( 'wp_ajax_nopriv_popup_auth', 'popup_auth' );
+	
+	function popup_auth() {
+		$result           = '';
+		$result           .= print_js_links()['auth'];
+		$result           .= '<div class="popup_container" id="popup_auth">';
+		$result           .= '<div class="popup_window box_shadow">';
+		$result           .= '<div class="popup_close_button pointer"></div>';
+		$result           .= '<div class="popup_columns two_columns">';
+		$result           .= '<div class="popup_column_left flex_column align_left flex_padding">';
+		$result           .= '<div class="title font_new_medium color_dark_blue font_bold m_b_20">' . __( 'Вход', 'er_theme' ) . '</div>';
+		$result           .= '<form class="regform flex flex_column"  action="' . admin_url( 'admin-ajax.php' ) . '" method="post" id="popup_auth_form">';
+		$result           .= '<input type="hidden" name="action" value="user_login" />';
+		$result           .= '<input type="text" name="email" placeholder="' . __( 'Ваш E-mail', 'er_theme' ) . '" class="input_big m_b_10 placeholder_dark">';
+		$result           .= '<input type="password" name="password" placeholder="' . __( 'Пароль', 'er_theme' ) . '" class="input_big m_b_15 placeholder_dark">';
+		$result           .= '<div class="checkbox_container m_b_10 font_small color_dark_blue">';
+		$result           .= '<input type="checkbox" id="remember__input" name="remember" checked="checked" class="custom-checkbox">';
+		$result           .= '<label for="remember__input">' . __( 'Запомнить меня', 'er_theme' ) . '</label>';
+		$result           .= '</div>';
+		$result           .= '<input type="submit" name="submit" class="button button_big button_green m_b_10 pointer font_small font_bold" value="' . __( 'Войти', 'er_theme' ) . '" id="regbtn">';
+		$result           .= '<div class="link_container"><span class="span_link link_recover_popup color_blue pointer font_small">' . __( 'Восстановить пароль', 'er_theme' ) . '</span></div>';
+		$result           .= '</form>';
+		$result           .= '</div>';
+		$result           .= '<div class="popup_column_right flex_column align_left">';
+		$current_language = get_locale();
+		if ( $current_language == 'ru_RU' ) {
+			$result .= '<div class="row_border_bottom flex_row flex_padding" id="social_login_mask">';
+			$result .= '<div class="title color_dark_blue font_bold m_b_20">' . __( 'Используйте сервисы для входа', 'er_theme' ) . '</div>';
+			$result .= social_login_icons( 'full' );
+			$result .= '</div>';
+		}
+		$result .= '<div class="flex_row flex_padding">';
+		$result .= '<div class="title color_dark_blue font_bold m_b_20">' . __( 'У вас еще нет аккаунта?', 'er_theme' ) . '</div>';
+		$result .= '<div class="button button_big button_violet m_b_10 pointer reg_link font_bold font_small">' . __( 'Создать аккаунт', 'er_theme' ) . '</div>';
+		$result .= '<div class="link_container"><a class="span_link link_terms_popup color_blue pointer font_small" href="' . get_bloginfo( 'url' ) . '/rules/" target="_blank">' . __( 'Условия пользования сайтом', 'er_theme' ) . '</a></div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		echo $result;
+		die;
+	}
+}
+
+
+if ( ! function_exists( 'user_login' ) ) {
+	
+	add_action( 'wp_ajax_user_login', 'user_login' );
+	add_action( 'wp_ajax_nopriv_user_login', 'user_login' );
+	
+	function user_login() {
+		$data = $_POST;
+		//print_r($data);
+		$result                      = array();
+		$login_data                  = array();
+		$login_data['user_login']    = $data['email'];
+		$login_data['user_password'] = $data['password'];
+		$remember                    = $data['remember'];
+		if ( $remember == 'on' ) {
+			$login_data['remember'] = true;
+		} else {
+			$login_data['remember'] = false;
+		}
+		
+		
+		$user_verify = wp_signon( $login_data, true );
+		if ( is_wp_error( $user_verify ) ) {
+			$result['status']  = 'error';
+			$result['message'] = $user_verify->get_error_message();
+		} else {
+			$result['status']  = 'ok';
+			$result['message'] = 'ok';
+		}
+		echo json_encode( $result );
+		die;
+		
+	}
+	
+}
+
+function __search_by_title_only( $search, &$wp_query ) {
+	global $wpdb;
+	if ( empty( $search ) ) {
+		return $search; // skip processing - no search term in query
+	}
+	$q      = $wp_query->query_vars;
+	$n      = ! empty( $q['exact'] ) ? '' : '%';
+	$search =
+	$searchand = '';
+	foreach ( (array) $q['search_terms'] as $term ) {
+		$term      = esc_sql( $wpdb->esc_like( $term ) );
+		$search    .= "{$searchand}($wpdb->posts.post_title LIKE '{$n}{$term}{$n}')";
+		$searchand = ' AND ';
+	}
+	if ( ! empty( $search ) ) {
+		$search = " AND ({$search}) ";
+		if ( ! is_user_logged_in() ) {
+			$search .= " AND ($wpdb->posts.post_password = '') ";
+		}
+	}
+	
+	return $search;
+}
+
+//add_filter('posts_search', '__search_by_title_only', 500, 2);
+
+if ( ! function_exists( 'pre_footer' ) ) {
+	add_action( 'wp_ajax_pre_footer', 'pre_footer' );
+	add_action( 'wp_ajax_nopriv_pre_footer', 'pre_footer' );
+	function pre_footer() {
+		$result        = '';
+		$recent_viewed = recent_viewed();
+		if ( $recent_viewed && $recent_viewed != 'none' ) {
+			$result .= $recent_viewed;
+		}
+		$result .= '<div class="pre_footer">';
+		$result .= print_css_links( 'pre_footer' );
+		$result .= '<div class="wrap">';
+		$result .= '<div class="pre_footer_text color_dark_blue line_big"><span class="font_bold">' . __( 'eto-razvod.ru', 'er_theme' ) . '</span> ' . __( '&mdash; это крупный информационный сервис обзоров и отзывов о компаниях, которые у всех на слуху и не только. Размещайте жалобы, отзывы и обзоры на компании. Это неоценимо полезно!', 'er_theme' ) . '</div>';
+		$result .= '<div class="pre_footer_image"></div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		echo $result;
+		die;
+	}
+}
+
+function pre_footer_php() {
+	$result        = '';
+	$recent_viewed = recent_viewed();
+	if ( $recent_viewed && $recent_viewed != 'none' ) {
+		$result .= $recent_viewed;
+	}
+	$result .= '<div class="pre_footer">';
+	$result .= print_css_links( 'pre_footer' );
+	$result .= '<div class="wrap">';
+	$result .= '<div class="pre_footer_text color_dark_blue line_big"><span class="font_bold">' . __( 'eto-razvod.ru', 'er_theme' ) . '</span> ' . __( '&mdash; это крупный информационный сервис обзоров и отзывов о компаниях, которые у всех на слуху и не только. Размещайте жалобы, отзывы и обзоры на компании. Это неоценимо полезно!', 'er_theme' ) . '</div>';
+	$result .= '<div class="pre_footer_image"></div>';
+	$result .= '</div>';
+	$result .= '</div>';
+	return $result;
+}
+
+
+if ( ! function_exists( 'recent_visited' ) ) {
+	add_action( 'wp_ajax_recent_visited', 'recent_visited' );
+	add_action( 'wp_ajax_nopriv_recent_visited', 'recent_visited' );
+	function recent_visited() {
+		$result = '';
+		$result .= print_css_links( 'recent_visited' );
+		$result .= '<div class="recent_visited">';
+		$result .= '<div class="wrap">';
+		$result .= '<div class="recent_title uppercase font_bold">' . __( 'Вы недавно смотрели', 'er_theme' ) . '</div>';
+		$result .= '<div class="recent_content"></div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		echo $result;
+		die;
+	}
+}
+
+if ( ! function_exists( 'user_registration' ) ) {
+	
+	add_action( 'wp_ajax_user_registration', 'user_registration' );
+	add_action( 'wp_ajax_nopriv_user_registration', 'user_registration' );
+	
+	function user_registration() {
+		$data = $_POST;
+		//print_r($data);
+		$result               = array();
+		$errors               = array();
+		$last_id_user         = get_field( 'last_id_user', 'option' );
+		$last_id_userToUpdate = intval( $last_id_user ) + 1;
+		$login                = 'id' . $last_id_userToUpdate;
+		update_field( 'last_id_user', $last_id_userToUpdate, 'option' );
+		if ( $data['password'] && $data['password'] != '' && $data['password_repeat'] && $data['password_repeat'] != '' ) {
+			if ( $data['password'] != $data['password_repeat'] ) {
+				$errors[] = __( 'Введенные пароли не совпадают', 'er_theme' );
+			}
+		} else {
+			if ( ! $data['password'] || $data['password'] == '' ) {
+				$errors[] = __( 'Введите пароль', 'er_theme' );
+			}
+			if ( ! $data['password_repeat'] || $data['password_repeat'] = '' ) {
+				$errors[] = __( 'Введите повтор пароля', 'er_theme' );
+			}
+		}
+		if ( ! $data['email'] || $data['email'] == '' ) {
+			$errors[] = __( 'Укажите E-mail', 'er_theme' );
+		}
+		if ( ! $data['firstname'] || $data['firstname'] == '' ) {
+			$errors[] = __( 'Укажите Имя', 'er_theme' );
+		}
+		if ( filter_var( $data['email'], FILTER_VALIDATE_EMAIL ) ) {
+		} else {
+			if ( $data['email'] && $data['email'] != '' ) {
+				$errors[] = __( 'Email-адрес некорректен', 'er_theme' );
+			}
+		}
+		if ( email_exists( $data['email'] ) ) {
+			if ( $data['email'] && $data['email'] != '' ) {
+				$errors[] = __( 'Пользователь с таким email уже зарегистрирован', 'er_theme' );
+			}
+		}
+		if ( ! empty( $errors ) ) {
+			$result['status']  = 'error';
+			$result['message'] = '';
+			$result['message'] .= '<ul>';
+			foreach ( $errors as $error ) {
+				$result['message'] .= '<li>' . $error . '</li>';
+			}
+			$result['message'] .= '</ul>';
+		} else {
+			$userdata = array(
+				'user_login'    => $login,
+				'user_nicename' => $login,
+				'user_pass'     => $data['password'],
+				'user_email'    => $data['email'],
+				'remember'      => true
+			);
+			if ( $data['firstname'] && $data['firstname'] != '' ) {
+				$userdata['first_name'] = $data['firstname'];
+			}
+			if ( $data['lastname'] && $data['lastname'] != '' ) {
+				$userdata['last_name'] = $data['lastname'];
+			}
+			if ( $data['firstname'] && $data['firstname'] != '' && $data['lastname'] && $data['lastname'] != '' ) {
+				$userdata['display_name'] = $data['firstname'] . ' ' . $data['lastname'];
+			} elseif ( $data['firstname'] && $data['firstname'] != '' && ! $data['lastname'] ) {
+				$userdata['display_name'] = $data['firstname'];
+			} elseif ( ! $data['firstname'] && $data['lastname'] && $data['lastname'] != '' ) {
+				$userdata['display_name'] = $data['lastname'];
+			} else {
+				$userdata['display_name'] = $data['email'];
+			}
+			$user_id = wp_insert_user( $userdata );
+			if ( is_wp_error( $user_id ) ) {
+				$result['status']  = 'error333';
+				$result['message'] = $user_id->get_error_message();
+				$result['mail'] = $data['email'];
+			} else {
+				//echo $user_id;
+				$key = wp_generate_uuid4();
+				update_field( 'key_activation', $key, 'user_' . $user_id );
+				$user_id_role = new WP_User( $user_id );
+				$user_id_role->set_role( 'registereduser' );
+				wp_new_user_notification( $user_id, 'user' );
+				
+				$content_reg = __( 'Пожалуйста, если вы еще это не сделали, заполните ваши интересы в личном кабинете, чтобы мы предложили вам только важную информацию.', 'er_theme' );
+				notify_user_action( 'system_registration', $user_id, __( 'Добро пожаловать на сайт!', 'er_theme' ), $content_reg );
+				$content_email = wp_sprintf( __( 'Мы отправили письмо для активации на ваш адрес %s. Пожалуйста, перейдите по ссылке, чтобы подтвердить ваш E-mail.', 'er_theme' ), $data['email'] );
+				notify_user_action( 'system_activation_email', $user_id, __( 'Подтвердите ваш E-mail', 'er_theme' ), $content_email );
+				wp_set_current_user( $user_id );
+				wp_set_auth_cookie( $user_id );
+				if ( isset( $_COOKIE["_ym_uid"] ) ) {
+					$timervop = htmlspecialchars( $_COOKIE["_ym_uid"] );
+					update_field( 'client_id_yandex', $timervop, 'user_' . $user_id );
+				}
+				if ( $data['reg_type'] && $data['reg_type'] != '' ) {
+					update_field( 'user_reg_type', $data['reg_type'], 'user_' . $user_id );
+				}
+				$result['status']  = 'ok';
+				$result['message'] = wp_sprintf( __(  intval($data['tech_notify']).'Вы успешно зарегистрировались с E-mail адресом: %s. Ваш пароль: %s', 'er_theme' ), $data['email'], $data['password'] );
+				$result['user_id'] = $user_id;
+				if (get_locale() == 'ru_RU') {
+					
+					update_field('from_site_send', 1, 'user_'.$user_id);
+					if ($data['tech_notify3']) {
+						
+						update_field('tematics_send', intval($data['tech_notify3']), 'user_'.$user_id);
+						update_field('all_send', intval($data['tech_notify3']), 'user_'.$user_id);
+						if (intval($data['tech_notify3']) == 1) {
+							$api_key = 'e9c51614cdd55d1e810e44e5499d8d77';
+							$add_names = '';
+							if (!empty(wp_strip_all_tags(htmlspecialchars(get_user_meta( $user_id, 'first_name', true ))))) {
+								$add_names .= '&merge_1='.wp_strip_all_tags(htmlspecialchars(get_user_meta( $user_id, 'first_name', true )));
+							}
+							
+							if (!empty(wp_strip_all_tags(htmlspecialchars(get_user_meta( $user_id, 'last_name', true ))))) {
+								$add_names .= '&merge_2='.wp_strip_all_tags(htmlspecialchars(get_user_meta( $user_id, 'last_name', true )));
+							}
+							$url = 'https://api.dashamail.ru/?method=lists.add_member&&api_key=e9c51614cdd55d1e810e44e5499d8d77&list_id=145821&email='.$data['email'].$add_names.'&format=xml';
+							
+							$data = [];
+							$post_data = json_encode($data);
+							
+							$options = array(
+								CURLOPT_URL => $url,
+								CURLOPT_RETURNTRANSFER => true,
+								CURLOPT_CUSTOMREQUEST => 'POST',
+								CURLOPT_POSTFIELDS => $post_data,
+								CURLOPT_HTTPHEADER => array(
+									'Content-Type: application/json',
+									'Authorization: Bearer ' . $api_key,
+								),
+							);
+							$curl = curl_init();
+							curl_setopt_array($curl, $options);
+							$response = curl_exec($curl);
+							curl_close($curl);
+						}
+					}
+				}
+				
+				
+				
+				
+				
+			}
+			
+		}
+		
+		print_r( json_encode( $result ) );
+		die;
+		
+	}
+	
+}
+
+if ( ! function_exists( 'main_footer' ) ) {
+	add_action( 'wp_ajax_main_footer', 'main_footer' );
+	add_action( 'wp_ajax_nopriv_main_footer', 'main_footer' );
+	function main_footer() {
+		$result           = '';
+		$result           .= '<div class="main_footer">';
+		$result           .= fast_links( 'footer_fast_links' );
+		$result           .= print_css_links( array( 'main_footer', 'social_icons', 'subscribe_form', 'fast_links' ) );
+		$result           .= '<div class="wrap height_footer">';
+		$result           .= '<div class="main_footer_navs">';
+		$result           .= '<div class="foo_nav">';
+		$result           .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 font_uppercase m_b_30">' . __( 'Сообщество', 'er_theme' ) . '</div>';
+		
+		$result           .= theme_nav( 'foo_1', 0, 'foo_1', 'foo_1', 'link_dark_blue font_smaller' );
+		$result           .= '</div>';
+		$result           .= '<div class="foo_nav">';
+		$result           .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 font_uppercase m_b_30">' . __( 'О нас', 'er_theme' ) . '</div>';
+		$result           .= theme_nav( 'foo_2', 0, 'foo_2', 'foo_2', 'link_dark_blue font_smaller' );
+		$result           .= '</div>';
+		$result           .= '<div class="foo_nav">';
+		$result           .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 font_uppercase m_b_30">' . __( 'Для компаний', 'er_theme' ) . '</div>';
+		$result           .= theme_nav( 'foo_3', 0, 'foo_3', 'foo_3', 'link_dark_blue font_smaller' );
+		$result           .= '</div>';
+		$result           .= '</div>';
+		$result           .= '<div class="main_footer_right">';
+		$result           .= subscribe_form( 'footer_subscribe' );
+		$current_language = get_locale();
+		if ( $current_language != 'ru_RU' ) {
+			$result .= social_networks();
+		} else {
+			$result .= '<div class="play_buttons">';
+			// $result .= '<div class="message_wrapper"><div class="message_inside"><a href="https://play.google.com/store/apps/details?id=ru.etorazvod" target="_blank"><span class="message_img"></span><span class="message_text"><span>'.__('Наше приложение на Android','er_theme').'</span><span>'.__('Скачайте его в Google Play','er_theme').'</span></span></a></div></div>';
+			$result .= '<div class="message_wrapper">';
+			$result .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 font_uppercase m_b_30">' . __( 'Наши приложения', 'er_theme' ) . '</div>';
+			$result .= '<div class="app_wrap_links flex">';
+			$result .= '<a href="https://play.google.com/store/apps/details?id=ru.etorazvod" target="_blank" rel="nofollow" class="app_link_android" aria-label="'.__('Android', 'er_theme').'"></a>';
+			$result .= '<a href="https://apps.apple.com/ua/app/это-развод/id1612079343?l=ru" target="_blank" rel="nofollow" class="app_link_ios" aria-label="'.__('iOS', 'er_theme').'"></a>';
+			$result .= '</div>';
+			$result .= '</div>';
+			$result .= '</div>';
+			
+			
+			$result .= social_networks();
+		}
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '<div class="footer_bottom_nav">';
+		$result .= '<div class="wrap">';
+		$result .= theme_nav( 'footer_bottom', 0, 'footer_bottom', 'footer_bottom', 'link_dark_blue font_smaller_2 link_underline' );
+		// $result .= do_shortcode('[language-switcher]');
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '<div class="copyrights font_smaller_2 color_dark_blue">';
+		$result .= '<div class="wrap do_not_translate_css_class">';
+		
+		// if ( $current_language == 'ru_RU' ) {
+		// 	$result .= __( '&copy; Copyright 2015&mdash;', 'er_theme' ) . date( 'Y' ) . ' ' . __( '&laquo;Это развод™&raquo;', 'er_theme' );
+		// } else {
+		// 	$result .= __( '&copy; Copyright 2015&mdash;', 'er_theme' ) . date( 'Y' ) . ' ' . __( '&laquo;Revieweek™&raquo;', 'er_theme' );
+		// }
+		
+		$result .= __( '&copy; Copyright 2015&mdash;', 'er_theme' ) . date( 'Y' ) . ' ' . __( '&laquo;Это развод™&raquo;', 'er_theme' );
+		
+		
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		echo $result;
+		die;
+	}
+}
+
+
+function main_footer_php() {
+	$result           = '';
+	//$result           .= '<div class="main_footer">';
+	$result           .= fast_links( 'footer_fast_links' );
+	$result           .= print_css_links( array( 'main_footer', 'social_icons', 'subscribe_form', 'fast_links' ) );
+	$result           .= '<div class="wrap height_footer">';
+	$result           .= '<div class="main_footer_navs">';
+	$result           .= '<div class="foo_nav">';
+	$result           .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 font_uppercase m_b_30">' . __( 'Сообщество', 'er_theme' ) . '</div>';
+	$result           .= theme_nav( 'foo_1', 0, 'foo_1', 'foo_1', 'link_dark_blue font_smaller' );
+	$result           .= '</div>';
+	$result           .= '<div class="foo_nav">';
+	$result           .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 font_uppercase m_b_30">' . __( 'О нас', 'er_theme' ) . '</div>';
+	$result           .= theme_nav( 'foo_2', 0, 'foo_2', 'foo_2', 'link_dark_blue font_smaller' );
+	$result           .= '</div>';
+	$result           .= '<div class="foo_nav">';
+	$result           .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 font_uppercase m_b_30">' . __( 'Для компаний', 'er_theme' ) . '</div>';
+	$result           .= theme_nav( 'foo_3', 0, 'foo_3', 'foo_3', 'link_dark_blue font_smaller' );
+	$result           .= '</div>';
+	$result           .= '</div>';
+	$result           .= '<div class="main_footer_right">';
+	$result           .= subscribe_form( 'footer_subscribe' );
+	$current_language = get_locale();
+	if ( $current_language != 'ru_RU' ) {
+		$result .= social_networks();
+	} else {
+		$result .= '<div class="play_buttons">';
+		// $result .= '<div class="message_wrapper"><div class="message_inside"><a href="https://play.google.com/store/apps/details?id=ru.etorazvod" target="_blank"><span class="message_img"></span><span class="message_text"><span>'.__('Наше приложение на Android','er_theme').'</span><span>'.__('Скачайте его в Google Play','er_theme').'</span></span></a></div></div>';
+		$result .= '<div class="message_wrapper">';
+		$result .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 font_uppercase m_b_30">' . __( 'Наши приложения', 'er_theme' ) . '</div>';
+		$result .= '<div class="app_wrap_links flex">';
+		$result .= '<a href="https://play.google.com/store/apps/details?id=ru.etorazvod" target="_blank" rel="nofollow" class="app_link_android" aria-label="'.__('Android', 'er_theme').'"></a>';
+		$result .= '<a href="https://apps.apple.com/ua/app/это-развод/id1612079343?l=ru" target="_blank" rel="nofollow" class="app_link_ios" aria-label="'.__('iOS', 'er_theme').'"></a>';
+		$result .= '</div>';
+		$result .= '</div>';
+		$result .= '</div>';
+		
+		
+		$result .= social_networks();
+	}
+	$result .= '</div>';
+	$result .= '</div>';
+	$result .= '<div class="footer_bottom_nav">';
+	$result .= '<div class="wrap">';
+	$result .= theme_nav( 'footer_bottom', 0, 'footer_bottom', 'footer_bottom', 'link_dark_blue font_smaller_2 link_underline' );
+	// $result .= do_shortcode('[language-switcher]');
+	$result .= '</div>';
+	$result .= '</div>';
+	$result .= '<div class="copyrights font_smaller_2 color_dark_blue">';
+	$result .= '<div class="wrap do_not_translate_css_class">';
+	
+	// if ( $current_language == 'ru_RU' ) {
+	// 	$result .= __( '&copy; Copyright 2015&mdash;', 'er_theme' ) . date( 'Y' ) . ' ' . __( '&laquo;Это развод™&raquo;', 'er_theme' );
+	// } else {
+	// 	$result .= __( '&copy; Copyright 2015&mdash;', 'er_theme' ) . date( 'Y' ) . ' ' . __( '&laquo;Revieweek™&raquo;', 'er_theme' );
+	// }
+	
+	$result .= __( '&copy; Copyright 2015&mdash;', 'er_theme' ) . date( 'Y' ) . ' ' . __( '&laquo;Это развод™&raquo;', 'er_theme' );
+	
+	$result .= '</div>';
+	$result .= '</div>';
+	//$result .= '</div>';
+	return $result;
+}
+
+if ( ! function_exists( 'subscribe_form' ) ) {
+	function subscribe_form( $id ) {
+		$result           = '';
+		$result           .= '<div class="subscribe_form">';
+		$result           .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 font_uppercase">' . __( 'Подписаться на рассылку', 'er_theme' ) . '</div>';
+		$result           .= '<form method="post" action="' . admin_url( 'admin-ajax.php' ) . '" id="' . $id . '">';
+		$result           .= '<input type="hidden" name="action" value="ajax_email_subscribe" />';
+		$result           .= '<input type="text" name="email" placeholder="' . __( 'Ваш E-mail', 'er_theme' ) . '" />';
+		$result           .= '<input type="submit" class="button button_green button_medium  button_zero_radius font_small font_bold pointer" value="' . __( 'Подписаться', 'er_theme' ) . '" />';
+		$result           .= '</form>';
+		$current_language = get_locale();
+		if ( $current_language == 'en_US' ) {
+			
+			
+			//$result .= '<a href="https://twitter.com/Revieweek" class="revieweek_tw">twitter.com/Revieweek</a>';
+		}
+		$result .= '</div>';
+		
+		return $result;
+	}
+}
+
+if ( ! function_exists( 'social_networks' ) ) {
+	function social_networks() {
+		$current_language = get_locale();
+		if ( $current_language == 'ru_RU' ) {
+			$result = '';
+			$result .= '<div class="social_networks">';
+			$result .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 m_b_30 font_uppercase">' . __( 'Мы в социальных сетях', 'er_theme' ) . '</div>';
+			$result .= '<ul>';
+			/*$result .= '<li><a href="https://www.instagram.com/etorazvod.ru/" target="_blank" class="social_icon_instagram"></a></li>';*/
+			$result .= '<li><a href="https://t.me/etorazvodru" target="_blank" rel="nofollow" class="social_icon_telegram" aria-label="'.__('Telegram', 'er_theme').'"></a></li>';
+			$result .= '<li><a href="https://vk.com/etorazvod" target="_blank" rel="nofollow" class="social_icon_vk" aria-label="'.__('VK', 'er_theme').'"></a></li>';
+			//$result .= '<li><a href="https://ok.ru/etorazvod" target="_blank" rel="nofollow" class="social_icon_odnoklassniki" aria-label="'.__('OK', 'er_theme').'"></a></li>';
+			$result .= '<li><a href="https://twitter.com/etorazvodru" target="_blank" rel="nofollow" class="social_icon_twitter" aria-label="'.__('Twitter', 'er_theme').'"></a></li>';
+			$result .= '<li><a href="https://www.pinterest.ru/etorazvod/" target="_blank" rel="nofollow" class="social_icon_pinterest" aria-label="'.__('Pinterest', 'er_theme').'"></a></li>';
+			$result .= '<li><a href="https://zen.yandex.ru/id/5c066820817f780400714af2" target="_blank" rel="nofollow" class="social_icon_yandex" aria-label="'.__('Zen', 'er_theme').'"></a></li>';
+			$result .= '<li><a href="https://www.youtube.com/channel/UCibinJburN_Qe9w4r04SdeQ" target="_blank" rel="nofollow" class="social_icon_youtube" aria-label="'.__('Youtube', 'er_theme').'"></a></li>';
+			$result .= '<li><a href="https://vc.ru/u/1168231-eto-razvod" target="_blank" rel="nofollow" class="social_icon_vc" aria-label="'.__('VC.RU', 'er_theme').'"></a></li>';
+			
+			$result .= '</ul>';
+			$result .= '</div>';
+		} elseif ( $current_language == 'fr_FR' ) {
+			$result = '';
+			$result .= '<div class="social_networks">';
+			$result .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 m_b_30 font_uppercase">' . __( 'Nous sommes sur les médias sociaux', 'er_theme' ) . '</div>';
+			$result .= '<ul>';
+			$result .= '<li><a href="https://twitter.com/revieweek" target="_blank" rel="nofollow" class="social_icon_twitter"></a></li>';
+			$result .= '<li><a href="https://www.facebook.com/revieweek/" target="_blank" rel="nofollow" class="social_icon_facebook"></a></li>';
+			
+			$result .= '</ul>';
+			$result .= '</div>';
+		} else {
+			$result = '';
+			$result .= '<div class="social_networks">';
+			$result .= '<div class="menu_title color_dark_blue font_bolder font_smaller_2 m_b_30 font_uppercase">' . __( 'We are on social media', 'er_theme' ) . '</div>';
+			$result .= '<ul>';
+			$result .= '<li><a href="https://twitter.com/revieweek" target="_blank" rel="nofollow" class="social_icon_twitter"></a></li>';
+			$result .= '<li><a href="https://www.facebook.com/revieweek/" target="_blank" rel="nofollow" class="social_icon_facebook"></a></li>';
+			
+			$result .= '</ul>';
+			$result .= '</div>';
+		}
+		
+		return $result;
+	}
+}
+
+if ( ! function_exists( 'fast_links' ) ) {
+	function fast_links( $id ) {
+		$current_language = get_locale();
+		$result           = '';
+		$result           .= '<div class="fast_links inactive" id="' . $id . '">';
+		$result           .= '<div class="wrap fast_links_opener pointer">';
+		$result           .= '<div class="fast_links_link font_uppercase color_dark_blue font_bolder
